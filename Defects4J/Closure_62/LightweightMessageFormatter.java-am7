@@ -90,7 +90,7 @@ public class LightweightMessageFormatter extends AbstractMessageFormatter {
                 for (int i = 0; i < charno; i++) {
                     char c = sourceExcerpt.charAt(i);
                     if (Character.isWhitespace(c)) {
-                        ((StringBuilder) Sketch4J.EXP(StringBuilder.class, new String[] { "b", "source", "error" }, new Object[] { b, source, error }, 0, true, 1, 0)).append(c);
+                        ((StringBuilder) Sketch4J.EXP(StringBuilder.class, new String[] { "b", "source", "error", "excerptFormatter", "excerpt" }, new Object[] { b, source, error, excerptFormatter, excerpt }, 0, true, 1, 0)).append(c);
                     } else {
                         b.append(' ');
                     }

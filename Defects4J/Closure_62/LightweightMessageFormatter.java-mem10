@@ -95,7 +95,7 @@ public class LightweightMessageFormatter extends AbstractMessageFormatter {
                         b.append(' ');
                     }
                 }
-                ((StringBuilder) Sketch4J.EXP(StringBuilder.class, new String[] { "b", "source", "error" }, new Object[] { b, source, error }, 0, true, 1, 0)).append("^\n");
+                ((StringBuilder) Sketch4J.EXP(StringBuilder.class, new String[] { "b", "source", "error", "excerptFormatter", "excerpt" }, new Object[] { b, source, error, excerptFormatter, excerpt }, 0, true, 1, 0)).append("^\n");
             }
         }
         return b.toString();

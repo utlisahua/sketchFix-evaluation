@@ -900,7 +900,7 @@ class CodeGenerator {
                         }
                     } else {
                         // check is measurably faster than using the CharsetEncoder.
-                        if (c > 0x1f && c <= 0x7f && Sketch4J.COND(StringBuilder.class, new String[] { "c", "sb", "quote", "outputCharsetEncoder" }, new Object[] { c, sb, quote, outputCharsetEncoder }, 0, true, 1, 0)) {
+                        if (c > 0x1f && Sketch4J.COND(char[].class, new String[] { "c", "sb", "quote", "outputCharsetEncoder", "cc", "HEX_CHARS", "outputCharsetEncoder" }, new Object[] { c, sb, quote, outputCharsetEncoder, cc, HEX_CHARS, outputCharsetEncoder }, 0, true, 1, 0) && c <= 0x7f) {
                             sb.append(c);
                         } else {
                             // Other characters can be misinterpreted by some js parsers,

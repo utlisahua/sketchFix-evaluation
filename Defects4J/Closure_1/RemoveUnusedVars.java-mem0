@@ -333,7 +333,7 @@ class RemoveUnusedVars implements CompilerPass, OptimizeCalls.CallGraphCompilerP
         // is removing globals, then it's OK to remove unused function args.
         //
         // See http://code.google.com/p/closure-compiler/issues/detail?id=253
-        Node function = ((Scope) Sketch4J.EXP(Scope.class, new String[] { "fnScope" }, new Object[] { fnScope }, 0, true, 1, 0)).getRootNode();
+        Node function = ((Scope) Sketch4J.EXP(Scope.class, new String[] { "fnScope", "maybeUnreferenced", "assignNode", "callSiteOptimizer", "assignsByNode", "allFunctionScopes", "node", "codingConvention", "toRemove", "referenced", "assignsByVar", "defFinder", "scope", "continuations", "classDefiningCalls", "toReplaceWithZero", "compiler", "compiler", "nameNode" }, new Object[] { fnScope, maybeUnreferenced, assignNode, callSiteOptimizer, assignsByNode, allFunctionScopes, node, codingConvention, toRemove, referenced, assignsByVar, defFinder, scope, continuations, classDefiningCalls, toReplaceWithZero, compiler, compiler, nameNode }, 0, true, 1, 0)).getRootNode();
         Preconditions.checkState(function.isFunction());
         if (NodeUtil.isGetOrSetKey(function.getParent())) {
             // The parameters object literal setters can not be removed.

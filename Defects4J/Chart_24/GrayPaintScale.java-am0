@@ -120,7 +120,7 @@ public class GrayPaintScale implements PaintScale, PublicCloneable, Serializable
     public Paint getPaint(double value) {
         double v = Math.max(value, this.lowerBound);
         v = Math.min(v, this.upperBound);
-        int g = (int) ((((Double) Sketch4J.EXP(double.class, new String[] { "v", "value" }, new Object[] { v, value }, 0, true, 1, 0)) - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0);
+        int g = (int) ((((Double) Sketch4J.EXP(double.class, new String[] { "v", "value", "upperBound", "lowerBound" }, new Object[] { v, value, upperBound, lowerBound }, 0, true, 1, 0)) - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0);
         return new Color(g, g, g);
     }
 

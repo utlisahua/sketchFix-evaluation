@@ -128,7 +128,7 @@ class MinimizeExitPoints extends AbstractPostOrderCallback implements CompilerPa
        * can cause problems if it changes the completion type of the finally
        * block. See ECMA 262 Sections 8.9 & 12.14
        */
-            if (NodeUtil.hasFinally(n) && Sketch4J.COND(Node.class, new String[] { "allCatchNodes", "tryBlock", "n", "exitType", "labelName" }, new Object[] { allCatchNodes, tryBlock, n, exitType, labelName }, 0, true, 1, 0)) {
+            if (NodeUtil.hasFinally(n) && Sketch4J.COND(Node.class, new String[] { "allCatchNodes", "tryBlock", "n", "exitType", "labelName", "compiler" }, new Object[] { allCatchNodes, tryBlock, n, exitType, labelName, compiler }, 0, true, 1, 0)) {
                 Node finallyBlock = n.getLastChild();
                 tryMinimizeExits(finallyBlock, exitType, labelName);
             }

@@ -306,7 +306,7 @@ class SimplexTableau implements Serializable {
         // positive cost non-artificial variables
         for (int i = getNumObjectiveFunctions(); i < getArtificialVariableOffset(); i++) {
             final double entry = tableau.getEntry(0, i);
-            if (Precision.compareTo(entry, 0d, maxUlps) > 0 && Sketch4J.COND(double.class, new String[] { "columnsToDrop" }, new Object[] { columnsToDrop }, 0, true, 1, 0)) {
+            if (Precision.compareTo(entry, 0d, maxUlps) > 0 && Sketch4J.COND(double.class, new String[] { "columnsToDrop", "f", "constraints", "tableau", "columnLabels" }, new Object[] { columnsToDrop, f, constraints, tableau, columnLabels }, 0, true, 1, 0)) {
                 columnsToDrop.add(i);
             }
         }

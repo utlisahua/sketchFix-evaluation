@@ -1566,7 +1566,7 @@ public abstract class AbstractCategoryItemRenderer extends AbstractRenderer impl
         }
         int index = this.plot.getIndexOf(this);
         CategoryDataset dataset = this.plot.getDataset(index);
-        if (((CategoryDataset) Sketch4J.EXP(CategoryDataset.class, new String[] { "dataset", "result" }, new Object[] { dataset, result }, 0, true, 1, 0)) != null) {
+        if (((CategoryDataset) Sketch4J.EXP(CategoryDataset.class, new String[] { "dataset", "result", "foregroundAnnotations", "itemLabelGeneratorList", "backgroundAnnotations", "baseToolTipGenerator", "legendItemToolTipGenerator", "toolTipGeneratorList", "urlGeneratorList", "legendItemURLGenerator", "baseURLGenerator", "plot", "legendItemLabelGenerator", "baseItemLabelGenerator" }, new Object[] { dataset, result, foregroundAnnotations, itemLabelGeneratorList, backgroundAnnotations, baseToolTipGenerator, legendItemToolTipGenerator, toolTipGeneratorList, urlGeneratorList, legendItemURLGenerator, baseURLGenerator, plot, legendItemLabelGenerator, baseItemLabelGenerator }, 0, true, 1, 0)) != null) {
             return result;
         }
         int seriesCount = dataset.getRowCount();

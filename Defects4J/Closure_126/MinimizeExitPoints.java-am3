@@ -130,7 +130,7 @@ class MinimizeExitPoints extends AbstractPostOrderCallback implements CompilerPa
        */
             if (NodeUtil.hasFinally(n)) {
                 Node finallyBlock = n.getLastChild();
-                tryMinimizeExits(finallyBlock, ((Integer) Sketch4J.EXP(int.class, new String[] { "allCatchNodes", "tryBlock", "n", "exitType", "labelName" }, new Object[] { allCatchNodes, tryBlock, n, exitType, labelName }, 0, true, 1, 0)), labelName);
+                tryMinimizeExits(finallyBlock, ((Integer) Sketch4J.EXP(int.class, new String[] { "allCatchNodes", "tryBlock", "n", "exitType", "labelName", "compiler" }, new Object[] { allCatchNodes, tryBlock, n, exitType, labelName, compiler }, 0, true, 1, 0)), labelName);
             }
         }
         // Just a 'label'.

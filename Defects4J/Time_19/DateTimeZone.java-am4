@@ -894,7 +894,7 @@ public abstract class DateTimeZone implements Serializable {
             long prev = previousTransition(instantAdjusted);
             if (prev < instantAdjusted) {
                 int offsetPrev = getOffset(prev);
-                int diff = ((Integer) Sketch4J.EXP(int.class, new String[] { "offsetAdjusted", "instantAdjusted", "offsetLocal", "instantLocal" }, new Object[] { offsetAdjusted, instantAdjusted, offsetLocal, instantLocal }, 0, true, 1, 0)) - offsetLocal;
+                int diff = ((Integer) Sketch4J.EXP(int.class, new String[] { "offsetAdjusted", "instantAdjusted", "offsetLocal", "instantLocal", "cProvider", "serialVersionUID", "serialVersionUID", "cZoneIdConversion", "iFixedOffsetCache", "UTC", "iID", "iID", "cNameProvider", "cOffsetFormatter", "cDefault", "cAvailableIDs" }, new Object[] { offsetAdjusted, instantAdjusted, offsetLocal, instantLocal, cProvider, serialVersionUID, serialVersionUID, cZoneIdConversion, iFixedOffsetCache, UTC, iID, iID, cNameProvider, cOffsetFormatter, cDefault, cAvailableIDs }, 0, true, 1, 0)) - offsetLocal;
                 if (instantAdjusted - prev <= diff) {
                     return offsetPrev;
                 }

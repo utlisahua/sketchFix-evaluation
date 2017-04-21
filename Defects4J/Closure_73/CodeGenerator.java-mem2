@@ -906,7 +906,7 @@ class CodeGenerator {
                             // Other characters can be misinterpreted by some js parsers,
                             // or perhaps mangled by proxies along the way,
                             // so we play it safe and unicode escape them.
-                            appendHexJavaScriptRepresentation(((StringBuilder) Sketch4J.EXP(StringBuilder.class, new String[] { "c", "sb", "quote", "outputCharsetEncoder" }, new Object[] { c, sb, quote, outputCharsetEncoder }, 0, true, 1, 0)), c);
+                            appendHexJavaScriptRepresentation(((StringBuilder) Sketch4J.EXP(StringBuilder.class, new String[] { "c", "sb", "quote", "outputCharsetEncoder", "cc", "HEX_CHARS", "outputCharsetEncoder" }, new Object[] { c, sb, quote, outputCharsetEncoder, cc, HEX_CHARS, outputCharsetEncoder }, 0, true, 1, 0)), c);
                         }
                     }
             }

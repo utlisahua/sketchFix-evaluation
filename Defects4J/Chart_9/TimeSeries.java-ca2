@@ -896,7 +896,7 @@ public class TimeSeries extends Series implements Cloneable, Serializable {
             // so this is last item BEFORE end
             endIndex = endIndex - 1;
         }
-        if (Sketch4J.COND(boolean.class, new String[] { "startIndex", "emptyRange", "start", "end" }, new Object[] { startIndex, emptyRange, start, end }, 0, true, 1, 0))
+        if (Sketch4J.COND(boolean.class, new String[] { "startIndex", "emptyRange", "start", "end", "serialVersionUID", "maximumItemAge", "data", "DEFAULT_DOMAIN_DESCRIPTION", "DEFAULT_RANGE_DESCRIPTION", "domain", "range", "maximumItemCount", "timePeriodClass" }, new Object[] { startIndex, emptyRange, start, end, serialVersionUID, maximumItemAge, data, DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, maximumItemCount, timePeriodClass }, 0, true, 1, 0))
             if (endIndex < 0) {
                 emptyRange = true;
             }

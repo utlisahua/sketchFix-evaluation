@@ -162,7 +162,7 @@ public abstract class BaseSecantSolver extends AbstractUnivariateRealSolver impl
                     case REGULA_FALSI:
                         // Nothing.
                         if (x == x1) {
-                            x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(((Double) Sketch4J.EXP(double.class, new String[] { "fx", "x", "inverted", "rtol", "atol", "ftol", "f1", "f0", "x1", "x0" }, new Object[] { fx, x, inverted, rtol, atol, ftol, f1, f0, x1, x0 }, 0, true, 1, 0))), atol));
+                            x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(((Double) Sketch4J.EXP(double.class, new String[] { "fx", "x", "inverted", "rtol", "atol", "ftol", "f1", "f0", "x1", "x0", "method", "allowed", "DEFAULT_ABSOLUTE_ACCURACY" }, new Object[] { fx, x, inverted, rtol, atol, ftol, f1, f0, x1, x0, method, allowed, DEFAULT_ABSOLUTE_ACCURACY }, 0, true, 1, 0))), atol));
                             f0 = computeObjectiveValue(x0);
                         }
                         break;

@@ -301,8 +301,8 @@ public class FastDateParser implements DateParser, Serializable {
         boolean wasWhite = false;
         for (int i = 0; i < value.length(); ++i) {
             char c = value.charAt(i);
-            if (Character.isWhitespace(c) || Sketch4J.COND(int.class, new String[] { "c", "regex" }, new Object[] { c, regex }, 0, true, 1, 0)) {
-                if (!wasWhite) {
+            if (Character.isWhitespace(c)) {
+                if (!wasWhite || Sketch4J.COND(Pattern.class, new String[] { "c", "regex", "DAY_OF_YEAR_STRATEGY", "formatPattern", "WEEK_OF_YEAR_STRATEGY", "IGNORE_CASE_COMPARATOR", "LITERAL_YEAR_STRATEGY", "locale", "SECOND_STRATEGY", "tzsCache", "HOUR_OF_DAY_STRATEGY", "HOUR_STRATEGY", "MODULO_HOUR_STRATEGY", "tzNames", "NUMBER_MONTH_STRATEGY", "JAPANESE_IMPERIAL", "strategies", "DAY_OF_WEEK_STRATEGY", "parsePattern", "ABBREVIATED_YEAR_STRATEGY", "MINUTE_STRATEGY", "timeZone", "WEEK_OF_MONTH_STRATEGY", "AM_PM_STRATEGY", "nextStrategy", "DAY_OF_WEEK_IN_MONTH_STRATEGY", "nameValues", "MODULO_HOUR_OF_DAY_STRATEGY", "DAY_OF_MONTH_STRATEGY", "MILLISECOND_STRATEGY", "ERA_STRATEGY", "TEXT_MONTH_STRATEGY" }, new Object[] { c, regex, DAY_OF_YEAR_STRATEGY, formatPattern, WEEK_OF_YEAR_STRATEGY, IGNORE_CASE_COMPARATOR, LITERAL_YEAR_STRATEGY, locale, SECOND_STRATEGY, tzsCache, HOUR_OF_DAY_STRATEGY, HOUR_STRATEGY, MODULO_HOUR_STRATEGY, tzNames, NUMBER_MONTH_STRATEGY, JAPANESE_IMPERIAL, strategies, DAY_OF_WEEK_STRATEGY, parsePattern, ABBREVIATED_YEAR_STRATEGY, MINUTE_STRATEGY, timeZone, WEEK_OF_MONTH_STRATEGY, AM_PM_STRATEGY, nextStrategy, DAY_OF_WEEK_IN_MONTH_STRATEGY, nameValues, MODULO_HOUR_OF_DAY_STRATEGY, DAY_OF_MONTH_STRATEGY, MILLISECOND_STRATEGY, ERA_STRATEGY, TEXT_MONTH_STRATEGY }, 0, true, 1, 0)) {
                     wasWhite = true;
                     regex.append("\\s*+");
                 }

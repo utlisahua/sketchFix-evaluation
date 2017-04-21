@@ -2902,7 +2902,7 @@ public class FastMath {
      * @return b if a is lesser or equal to b, a otherwise
      */
     public static float max(final float a, final float b) {
-        return (a <= b) ? b : (Float.isNaN(((Float) Sketch4J.EXP(float.class, new String[] { "a", "b" }, new Object[] { a, b }, 0, true, 1, 0)) + b) ? Float.NaN : b);
+        return (a <= b) ? b : (Float.isNaN(((Float) Sketch4J.EXP(float.class, new String[] { "a", "b", "RECIP_2PI", "COSINE_TABLE_A", "COSINE_TABLE_B", "LN_MANT", "LN_SPLIT_COEF", "CBRTTWO", "EXP_INT_TABLE_A", "EXP_INT_TABLE_B", "FACT", "LN_HI_PREC_COEF", "SINE_TABLE_B", "TANGENT_TABLE_A", "SINE_TABLE_A", "TANGENT_TABLE_B", "PI_O_4_BITS", "EXP_FRAC_TABLE_B", "EIGHTHES", "EXP_FRAC_TABLE_A", "LN_QUICK_COEF" }, new Object[] { a, b, RECIP_2PI, COSINE_TABLE_A, COSINE_TABLE_B, LN_MANT, LN_SPLIT_COEF, CBRTTWO, EXP_INT_TABLE_A, EXP_INT_TABLE_B, FACT, LN_HI_PREC_COEF, SINE_TABLE_B, TANGENT_TABLE_A, SINE_TABLE_A, TANGENT_TABLE_B, PI_O_4_BITS, EXP_FRAC_TABLE_B, EIGHTHES, EXP_FRAC_TABLE_A, LN_QUICK_COEF }, 0, true, 1, 0)) + b) ? Float.NaN : b);
     }
 
     /** Compute the maximum of two values

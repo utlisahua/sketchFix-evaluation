@@ -85,8 +85,8 @@ public class LightweightMessageFormatter extends AbstractMessageFormatter {
             b.append(sourceExcerpt);
             b.append('\n');
             int charno = error.getCharno();
-            if (Sketch4J.COND(int.class, new String[] { "b", "source", "error" }, new Object[] { b, source, error }, 0, true, 1, 0))
-                return ((String) Sketch4J.EXP(String.class, new String[] { "charno", "b", "sourceExcerpt", "source", "error", "warning" }, new Object[] { charno, b, sourceExcerpt, source, error, warning }, 0, true, 1, 0));
+            if (Sketch4J.COND(int.class, new String[] { "b", "source", "error", "excerptFormatter", "excerpt" }, new Object[] { b, source, error, excerptFormatter, excerpt }, 0, true, 1, 0))
+                return ((String) Sketch4J.EXP(String.class, new String[] { "charno", "b", "sourceExcerpt", "source", "error", "warning", "excerptFormatter", "excerpt" }, new Object[] { charno, b, sourceExcerpt, source, error, warning, excerptFormatter, excerpt }, 0, true, 1, 0));
             // at the end of the line
             if (excerpt.equals(LINE) && 0 <= charno && charno < sourceExcerpt.length()) {
                 for (int i = 0; i < charno; i++) {

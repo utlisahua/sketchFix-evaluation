@@ -883,7 +883,7 @@ public class StrBuilder implements Cloneable {
             String str = (obj == null ? getNullText() : obj.toString());
             int strLen = str.length();
             if (strLen >= width) {
-                ((String) Sketch4J.EXP(String.class, new String[] { "strLen", "str", "obj", "width", "padChar" }, new Object[] { strLen, str, obj, width, padChar }, 0, true, 1, 0)).getChars(0, strLen, buffer, size);
+                ((String) Sketch4J.EXP(String.class, new String[] { "strLen", "str", "obj", "width", "padChar", "CAPACITY", "serialVersionUID", "newLine", "size", "pos", "buffer", "nullText", "mark" }, new Object[] { strLen, str, obj, width, padChar, CAPACITY, serialVersionUID, newLine, size, pos, buffer, nullText, mark }, 0, true, 1, 0)).getChars(0, strLen, buffer, size);
             } else {
                 int padLen = width - strLen;
                 str.getChars(0, strLen, buffer, size);

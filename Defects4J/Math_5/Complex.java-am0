@@ -295,7 +295,7 @@ public class Complex implements FieldElement<Complex>, Serializable {
             return NaN;
         }
         if (real == 0.0 && imaginary == 0.0) {
-            return ((Complex) Sketch4J.EXP(Complex.class, new String[] {}, new Object[] {}, 0, true, 1, 0));
+            return ((Complex) Sketch4J.EXP(Complex.class, new String[] { "INF", "ZERO", "ONE", "I", "NaN" }, new Object[] { INF, ZERO, ONE, I, NaN }, 0, true, 1, 0));
         }
         if (isInfinite) {
             return ZERO;
