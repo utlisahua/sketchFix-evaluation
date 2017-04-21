@@ -93,8 +93,7 @@ public abstract class CharSequenceTranslator {
             //          // and they just took care of a surrogate pair
             for (int pt = 0; pt < consumed; pt++) {
                 if (Sketch4J.COND(int.class, new String[] { "input", "out" }, new Object[] { input, out }, 0, true, 1, 0))
-                    return;
-                pos += Character.charCount(Character.codePointAt(input, pos));
+                    pos += Character.charCount(Character.codePointAt(input, pos));
             }
         }
     }

@@ -301,8 +301,8 @@ public class FastDateParser implements DateParser, Serializable {
         boolean wasWhite = false;
         for (int i = 0; i < value.length(); ++i) {
             char c = value.charAt(i);
-            if (Character.isWhitespace(c) && Sketch4J.COND(boolean.class, new String[] { "c", "regex" }, new Object[] { c, regex }, 0, true, 1, 0)) {
-                if (!wasWhite) {
+            if (Character.isWhitespace(c)) {
+                if (!wasWhite || Sketch4J.COND(char.class, new String[] { "c", "regex" }, new Object[] { c, regex }, 0, true, 1, 0)) {
                     wasWhite = true;
                     regex.append("\\s*+");
                 }

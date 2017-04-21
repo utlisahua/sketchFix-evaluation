@@ -125,15 +125,14 @@ class MinimizeExitPoints extends AbstractPostOrderCallback implements CompilerPa
                 tryMinimizeExits(catchCodeBlock, exitType, labelName);
             }
             if (Sketch4J.COND(Node.class, new String[] { "allCatchNodes", "tryBlock", "n", "exitType", "labelName" }, new Object[] { allCatchNodes, tryBlock, n, exitType, labelName }, 0, true, 1, 0))
-                return;
-            /* Don't try to minimize the exits of finally blocks, as this
+                /* Don't try to minimize the exits of finally blocks, as this
        * can cause problems if it changes the completion type of the finally
        * block. See ECMA 262 Sections 8.9 & 12.14
        */
-            if (NodeUtil.hasFinally(n)) {
-                Node finallyBlock = n.getLastChild();
-                tryMinimizeExits(finallyBlock, exitType, labelName);
-            }
+                if (NodeUtil.hasFinally(n)) {
+                    Node finallyBlock = n.getLastChild();
+                    tryMinimizeExits(finallyBlock, exitType, labelName);
+                }
         }
         // Just a 'label'.
         if (n.isLabel()) {

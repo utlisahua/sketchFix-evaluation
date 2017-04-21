@@ -232,7 +232,7 @@ abstract class CodeConsumer {
         // x--4 (which is a syntax error).
         char prev = getLastChar();
         boolean negativeZero = isNegativeZero(x);
-        if ((x < 0 || negativeZero == true) && ((char) Sketch4J.EXP(char.class, new String[] { "prev" }, new Object[] { prev }, 0, true, 1, 0)) == '-') {
+        if ((((Double) Sketch4J.EXP(double.class, new String[] { "negativeZero", "prev", "x" }, new Object[] { negativeZero, prev, x }, 0, true, 1, 0)) < 0 || negativeZero == true) && prev == '-') {
             add(" ");
         }
         if ((long) x == x && !negativeZero) {

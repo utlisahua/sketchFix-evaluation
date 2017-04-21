@@ -153,7 +153,7 @@ class CollapseProperties implements CompilerPass {
             if (name.type == Name.Type.GET || name.type == Name.Type.SET) {
                 continue;
             }
-            if (false && name.globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0) {
+            if (name.globalSets == 1 && true && name.aliasingGets > 0) {
                 // {@code name} meets condition (b). Find all of its local aliases
                 // and try to inline them.
                 List<Ref> refs = Lists.newArrayList(name.getRefs());

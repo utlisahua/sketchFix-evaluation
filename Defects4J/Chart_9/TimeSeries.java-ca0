@@ -896,11 +896,10 @@ public class TimeSeries extends Series implements Cloneable, Serializable {
             // so this is last item BEFORE end
             endIndex = endIndex - 1;
         }
-        if (Sketch4J.COND(boolean.class, new String[] { "startIndex", "emptyRange", "start", "end" }, new Object[] { startIndex, emptyRange, start, end }, 0, true, 1, 0))
-            return ((TimeSeries) Sketch4J.EXP(TimeSeries.class, new String[] { "start", "end" }, new Object[] { start, end }, 0, true, 1, 0));
-        if (endIndex < 0) {
-            emptyRange = true;
-        }
+        if (Sketch4J.COND(int.class, new String[] { "startIndex", "emptyRange", "start", "end" }, new Object[] { startIndex, emptyRange, start, end }, 0, true, 1, 0))
+            if (endIndex < 0) {
+                emptyRange = true;
+            }
         if (emptyRange) {
             TimeSeries copy = (TimeSeries) super.clone();
             copy.data = new java.util.ArrayList();

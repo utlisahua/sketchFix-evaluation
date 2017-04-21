@@ -2902,7 +2902,7 @@ public class FastMath {
      * @return b if a is lesser or equal to b, a otherwise
      */
     public static float max(final float a, final float b) {
-        return (a <= b) ? ((Float) Sketch4J.EXP(float.class, new String[] { "a", "b" }, new Object[] { a, b }, 0, true, 1, 0)) : (Float.isNaN(a + b) ? Float.NaN : b);
+        return (((Float) Sketch4J.EXP(float.class, new String[] { "a", "b" }, new Object[] { a, b }, 0, true, 1, 0)) <= b) ? b : (Float.isNaN(a + b) ? Float.NaN : b);
     }
 
     /** Compute the maximum of two values

@@ -890,12 +890,12 @@ public abstract class DateTimeZone implements Serializable {
                     return offsetLocal;
                 }
             }
-        } else if (Sketch4J.EXPOP(int.class, new String[] { "offsetLocal", "0" }, new Object[] { offsetLocal, 0 }, 0, true, 1, 0)) {
+        } else if (offsetLocal > 0) {
             long prev = previousTransition(instantAdjusted);
             if (prev < instantAdjusted) {
                 int offsetPrev = getOffset(prev);
                 int diff = offsetPrev - offsetLocal;
-                if (instantAdjusted - prev <= diff) {
+                if (Sketch4J.EXPOP(long.class, new String[] { "instantAdjusted", "prev" }, new Object[] { instantAdjusted, prev }, 0, true, 1, 0) <= diff) {
                     return offsetPrev;
                 }
             }

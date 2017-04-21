@@ -153,7 +153,7 @@ class CollapseProperties implements CompilerPass {
             if (name.type == Name.Type.GET || name.type == Name.Type.SET) {
                 continue;
             }
-            if (Sketch4J.EXPOP(int.class, new String[] { "name.globalSets == 1 && name.localSets == 0", "name.aliasingGets > 0" }, new Object[] { name.globalSets == 1 && name.localSets == 0, name.aliasingGets > 0 }, 0, true, 1, 0)) {
+            if (Sketch4J.EXPOP(int.class, new String[] { "name.globalSets", "1" }, new Object[] { name.globalSets, 1 }, 0, true, 1, 0) && name.localSets == 0 && name.aliasingGets > 0) {
                 // {@code name} meets condition (b). Find all of its local aliases
                 // and try to inline them.
                 List<Ref> refs = Lists.newArrayList(name.getRefs());

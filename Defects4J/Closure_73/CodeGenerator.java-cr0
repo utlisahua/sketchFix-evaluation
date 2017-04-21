@@ -900,7 +900,7 @@ class CodeGenerator {
                         }
                     } else {
                         // check is measurably faster than using the CharsetEncoder.
-                        if (false && c > 0x1f && c <= 0x7f) {
+                        if (c > 0x1f && true) {
                             sb.append(c);
                         } else {
                             // Other characters can be misinterpreted by some js parsers,

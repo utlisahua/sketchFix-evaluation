@@ -153,21 +153,20 @@ class CollapseProperties implements CompilerPass {
             if (name.type == Name.Type.GET || name.type == Name.Type.SET) {
                 continue;
             }
-            if (Sketch4J.COND(Deque<Name>.class, new String[] { "name", "workList", "namespace" }, new Object[] { name, workList, namespace }, 0, true, 1, 0))
-                return;
-            if (name.globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0) {
-                // {@code name} meets condition (b). Find all of its local aliases
-                // and try to inline them.
-                List<Ref> refs = Lists.newArrayList(name.getRefs());
-                for (Ref ref : refs) {
-                    if (ref.type == Type.ALIASING_GET && ref.scope.isLocal()) {
-                        // {@code name} meets condition (c). Try to inline it.
-                        if (inlineAliasIfPossible(ref, namespace)) {
-                            name.removeRef(ref);
+            if (Sketch4J.COND(Name.class, new String[] { "name", "workList", "namespace" }, new Object[] { name, workList, namespace }, 0, true, 1, 0))
+                if (name.globalSets == 1 && name.localSets == 0 && name.aliasingGets > 0) {
+                    // {@code name} meets condition (b). Find all of its local aliases
+                    // and try to inline them.
+                    List<Ref> refs = Lists.newArrayList(name.getRefs());
+                    for (Ref ref : refs) {
+                        if (ref.type == Type.ALIASING_GET && ref.scope.isLocal()) {
+                            // {@code name} meets condition (c). Try to inline it.
+                            if (inlineAliasIfPossible(ref, namespace)) {
+                                name.removeRef(ref);
+                            }
                         }
                     }
                 }
-            }
             // local-alias-inlining above.
             if ((name.type == Name.Type.OBJECTLIT || name.type == Name.Type.FUNCTION) && name.aliasingGets == 0 && name.props != null) {
                 // All of {@code name}'s children meet condition (a), so they can be

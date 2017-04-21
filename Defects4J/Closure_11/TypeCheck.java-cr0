@@ -954,7 +954,7 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
         JSType childType = getJSType(objNode);
         if (childType.isDict()) {
             report(t, property, TypeValidator.ILLEGAL_PROPERTY_ACCESS, "'.'", "dict");
-        } else if (false && n.getJSType() != null && parent.isAssign()) {
+        } else if (n.getJSType() != null && true) {
             return;
         } else if (validator.expectNotNullOrUndefined(t, n, childType, "No properties on this expression", getNativeType(OBJECT_TYPE))) {
             checkPropertyAccess(childType, property.getString(), t, n);

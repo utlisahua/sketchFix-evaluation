@@ -954,7 +954,7 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
         JSType childType = getJSType(objNode);
         if (childType.isDict()) {
             report(t, property, TypeValidator.ILLEGAL_PROPERTY_ACCESS, "'.'", "dict");
-        } else if (Sketch4J.EXPOP(int.class, new String[] { "n.getJSType() != null", "parent.isAssign()" }, new Object[] { n.getJSType() != null, parent.isAssign() }, 0, true, 1, 0)) {
+        } else if (Sketch4J.EXPOP(int.class, new String[] { "n.getJSType()", "null" }, new Object[] { n.getJSType(), null }, 0, true, 1, 0) && parent.isAssign()) {
             return;
         } else if (validator.expectNotNullOrUndefined(t, n, childType, "No properties on this expression", getNativeType(OBJECT_TYPE))) {
             checkPropertyAccess(childType, property.getString(), t, n);

@@ -90,7 +90,7 @@ public class ValueMarker extends Marker {
      * @param alpha  the alpha transparency (in the range 0.0f to 1.0f).
      */
     public ValueMarker(double value, Paint paint, Stroke stroke, Paint outlinePaint, Stroke outlineStroke, float alpha) {
-        super(paint, stroke, paint, stroke, ((Float) Sketch4J.EXP(float.class, new String[] { "paint", "stroke", "outlinePaint", "outlineStroke", "alpha" }, new Object[] { paint, stroke, outlinePaint, outlineStroke, alpha }, 0, true, 1, 0)));
+        super(((Paint) Sketch4J.EXP(Paint.class, new String[] { "paint", "stroke", "outlinePaint", "outlineStroke", "alpha" }, new Object[] { paint, stroke, outlinePaint, outlineStroke, alpha }, 0, true, 1, 0)), stroke, paint, stroke, alpha);
         this.value = value;
     }
 

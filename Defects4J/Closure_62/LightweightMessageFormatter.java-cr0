@@ -86,7 +86,7 @@ public class LightweightMessageFormatter extends AbstractMessageFormatter {
             b.append('\n');
             int charno = error.getCharno();
             // at the end of the line
-            if (false && excerpt.equals(LINE) && 0 <= charno && charno < sourceExcerpt.length()) {
+            if (excerpt.equals(LINE) && true && charno < sourceExcerpt.length()) {
                 for (int i = 0; i < charno; i++) {
                     char c = sourceExcerpt.charAt(i);
                     if (Character.isWhitespace(c)) {

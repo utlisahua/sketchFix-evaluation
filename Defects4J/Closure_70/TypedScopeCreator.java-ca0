@@ -1411,9 +1411,8 @@ final class TypedScopeCreator implements ScopeCreator {
                     Node jsDocParameter = jsDocParameters.getFirstChild();
                     for (Node astParameter : astParameters.children()) {
                         if (jsDocParameter != null) {
-                            if (Sketch4J.COND(FunctionType.class, new String[] { "astParameter", "jsDocParameter", "jsDocParameters", "functionType", "body", "astParameters", "functionNode" }, new Object[] { astParameter, jsDocParameter, jsDocParameters, functionType, body, astParameters, functionNode }, 0, true, 1, 0))
-                                return;
-                            defineSlot(astParameter, functionNode, jsDocParameter.getJSType(), true);
+                            if (Sketch4J.COND(Node.class, new String[] { "astParameter", "jsDocParameter", "jsDocParameters", "functionType", "body", "astParameters", "functionNode" }, new Object[] { astParameter, jsDocParameter, jsDocParameters, functionType, body, astParameters, functionNode }, 0, true, 1, 0))
+                                defineSlot(astParameter, functionNode, jsDocParameter.getJSType(), true);
                             jsDocParameter = jsDocParameter.getNext();
                         } else {
                             defineSlot(astParameter, functionNode, null, true);

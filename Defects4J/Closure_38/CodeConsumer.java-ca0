@@ -232,11 +232,10 @@ abstract class CodeConsumer {
         // x--4 (which is a syntax error).
         char prev = getLastChar();
         boolean negativeZero = isNegativeZero(x);
-        if (Sketch4J.COND(char.class, new String[] { "prev" }, new Object[] { prev }, 0, true, 1, 0))
-            return;
-        if ((x < 0 && negativeZero == true) && prev == '-') {
-            add(" ");
-        }
+        if (Sketch4J.COND(boolean.class, new String[] { "prev" }, new Object[] { prev }, 0, true, 1, 0))
+            if ((x < 0 && negativeZero == true) && prev == '-') {
+                add(" ");
+            }
         if ((long) x == x && !negativeZero) {
             long value = (long) x;
             long mantissa = value;

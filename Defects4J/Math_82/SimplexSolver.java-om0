@@ -78,9 +78,9 @@ public class SimplexSolver extends AbstractLinearOptimizer {
         for (int i = tableau.getNumObjectiveFunctions(); i < tableau.getHeight(); i++) {
             final double rhs = tableau.getEntry(i, tableau.getWidth() - 1);
             final double entry = tableau.getEntry(i, col);
-            if (Sketch4J.EXPOP(int.class, new String[] { "MathUtils.compareTo(entry, 0, epsilon)", "0" }, new Object[] { MathUtils.compareTo(entry, 0, epsilon), 0 }, 0, true, 1, 0)) {
+            if (MathUtils.compareTo(entry, 0, epsilon) >= 0) {
                 final double ratio = rhs / entry;
-                if (ratio < minRatio) {
+                if (Sketch4J.EXPOP(double.class, new String[] { "ratio", "minRatio" }, new Object[] { ratio, minRatio }, 0, true, 1, 0)) {
                     minRatio = ratio;
                     minRatioPos = i;
                 }

@@ -1113,9 +1113,8 @@ public abstract class Axis implements Cloneable, Serializable {
         }
         if (plotState != null && hotspot != null) {
             ChartRenderingInfo owner = plotState.getOwner();
-            if (Sketch4J.COND(Font.class, new String[] { "owner", "hotspot", "labelBounds", "fm", "insets", "font", "g2", "plotArea", "dataArea", "edge", "state", "plotState" }, new Object[] { owner, hotspot, labelBounds, fm, insets, font, g2, plotArea, dataArea, edge, state, plotState }, 0, true, 1, 0))
-                return ((AxisState) Sketch4J.EXP(AxisState.class, new String[] { "owner", "hotspot", "labelBounds", "fm", "insets", "font", "g2", "plotArea", "dataArea", "edge", "state", "plotState" }, new Object[] { owner, hotspot, labelBounds, fm, insets, font, g2, plotArea, dataArea, edge, state, plotState }, 0, true, 1, 0));
-            EntityCollection entities = owner.getEntityCollection();
+            if (Sketch4J.COND(ChartRenderingInfo.class, new String[] { "owner", "hotspot", "labelBounds", "fm", "insets", "font", "g2", "plotArea", "dataArea", "edge", "state", "plotState" }, new Object[] { owner, hotspot, labelBounds, fm, insets, font, g2, plotArea, dataArea, edge, state, plotState }, 0, true, 1, 0))
+                EntityCollection entities = owner.getEntityCollection();
             if (entities != null) {
                 entities.add(new AxisLabelEntity(this, hotspot, this.labelToolTip, this.labelURL));
             }

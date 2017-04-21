@@ -900,7 +900,7 @@ class CodeGenerator {
                         }
                     } else {
                         // check is measurably faster than using the CharsetEncoder.
-                        if (Sketch4J.EXPOP(int.class, new String[] { "c > 0x1f", "c <= 0x7f" }, new Object[] { c > 0x1f, c <= 0x7f }, 0, true, 1, 0)) {
+                        if (Sketch4J.EXPOP(char.class, new String[] { "c", "0x1f" }, new Object[] { c, 0x1f }, 0, true, 1, 0) && c <= 0x7f) {
                             sb.append(c);
                         } else {
                             // Other characters can be misinterpreted by some js parsers,
