@@ -1,0 +1,215 @@
+BisectionSolver.java-cm-6-0 2.18638706207
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	f
+     [java]  Hole 1	i<0
+     [java] Space: 10
+
+BisectionSolver.java-cm-2-0 1.44379591942
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	f
+     [java]  Hole 1	i<0
+     [java] Space: 10
+
+BisectionSolver.java-cm-8-2 2.15046095848
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	f
+     [java]  Hole 1	fmin == fm
+     [java] Space: 7
+
+BisectionSolver.java-ca-6-2 1.30670499802
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	fmin == fm
+     [java]  Hole 1	f
+     [java] Space: 7
+
+BisectionSolver.java-om-6-1 2.18514490128
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java]  Hole 1	> 
+     [java] Space: 3
+
+BisectionSolver.java-cm-6-3 1.21250796318
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java]  Hole 1	> 
+     [java] Space: 3
+
+BisectionSolver.java-cm-2-3 1.3852159977
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java]  Hole 1	> 
+     [java] Space: 3
+
+BisectionSolver.java-ov-0-1 2.1005179882
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java] Space: 1
+
+BisectionSolver.java-cm-9-2 1.29726600647
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java] Space: 1
+
+BisectionSolver.java-om-9-1 1.96809697151
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java]  Hole 1	> 
+     [java] Space: 3
+
+BisectionSolver.java-am-5-0 1.35475301743
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java]  Hole 1	> 
+     [java] Space: 3
+
+UnivariateRealSolverImpl.java-mem-17-1 2.15254592896
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java]  Hole 1	> 
+     [java] Space: 3
+
+BisectionSolver.java-cm-8-1 2.30951690674
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	f
+     [java]  Hole 1	i>=0
+     [java] Space: 12
+
+BisectionSolver.java-am-9-0 1.28465795517
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	f
+     [java]  Hole 1	i>=0
+     [java] Space: 12
+
+BisectionSolver.java-cm-8-3 2.17650389671
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	fmin != fm
+     [java]  Hole 1	f
+     [java] Space: 8
+
+UnivariateRealSolverImpl.java-am-17-0 2.12233281136
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	f
+     [java]  Hole 1	fmin != fm
+     [java] Space: 8
+
+UnivariateRealSolverImpl.java-cm-17-3 1.27300715446
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	fmin != fm
+     [java]  Hole 1	f
+     [java] Space: 8
+
+BisectionSolver.java-cm-6-1 2.13893198967
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	i>=0
+     [java]  Hole 1	f
+     [java] Space: 12
+
+UnivariateRealSolverImpl.java-am-17-2 1.37472391129
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	i>=0
+     [java]  Hole 1	f
+     [java] Space: 12
+
+BisectionSolver.java-om-8-1 2.29685091972
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java]  Hole 1	f == null
+     [java]  Hole 2	> 
+     [java] Space: 5
+
+BisectionSolver.java-ca-9-1 1.24864912033
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java]  Hole 1	> 
+     [java]  Hole 2	f == null
+     [java] Space: 5
+
+BisectionSolver.java-cm-8-0 1.93991088867
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	i<0
+     [java]  Hole 1	f
+     [java] Space: 10
+
+BisectionSolver.java-ca-6-3 1.29711389542
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	f
+     [java]  Hole 1	i<0
+     [java] Space: 10
+
+BisectionSolver.java-om-2-1 1.99062800407
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java]  Hole 0	f
+     [java]  Hole 1	> 
+     [java] Space: 3
+
+BisectionSolver.java-cm-9-3 2.06838798523
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	fmin != fm
+     [java]  Hole 1	f
+     [java] Space: 8
+
+BisectionSolver.java-mem-7-0 1.30432081223
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	fmin != fm
+     [java]  Hole 1	f
+     [java] Space: 8
+
+BisectionSolver.java-ca-2-3 2.19796204567
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	f
+     [java]  Hole 1	fmin == fm
+     [java] Space: 7
+
+BisectionSolver.java-om-3-0 1.25982904434
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	fmin == fm
+     [java]  Hole 1	f
+     [java] Space: 7
+
+BisectionSolver.java-cm-9-1 2.32797217369
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	i>=0
+     [java]  Hole 1	f
+     [java] Space: 12
+
+BisectionSolver.java-am-3-0 1.32673501968
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 2 candidates for the type int: [i, 0]
+     [java]  Hole 0	i>=0
+     [java]  Hole 1	f
+     [java] Space: 12
+
+BisectionSolver.java-ca-2-2 2.20324087143
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 6 candidates for the type double: [fmin, fm, m, min, max, 0]
+     [java]  Hole 0	f
+     [java]  Hole 1	fmin != fm
+     [java] Space: 8
+
+UnivariateRealSolverImpl.java-ca-14-4 2.17111587524
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [f, null]
+     [java] Generate 3 candidates for the type boolean: [resultComputed, false, true]
+     [java]  Hole 0	resultComputed != false
+     [java]  Hole 1	f
+     [java] Space: 4
+

@@ -1,3 +1,5 @@
-SpreadsheetDate.java-ca-26-1 4.90507102013
-TimeSeries.java-cm-2-0 2.22074389458
-TimeSeries.java-cm-3-0 4.73673892021
+TimeSeries.java-cm-2-0 8.76622486115
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java]  Hole 0	endIndex<startIndex
+     [java] Space: 10
+

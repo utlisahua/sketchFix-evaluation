@@ -1,27 +1,106 @@
-SimplexSolver.java-ca-24-0 1.62702703476
-SimplexTableau.java-ca-4-11 1.00550293922
-SimplexSolver.java-am-35-2 1.25763201714
-SimplexTableau.java-ca-6-4 0.765893936157
-SimplexTableau.java-ca-6-10 0.719040870667
-AbstractLinearOptimizer.java-ca-46-4 0.799283027649
-SimplexSolver.java-om-22-0 1.47279191017
-SimplexSolver.java-mem-27-1 0.829166889191
-SimplexSolver.java-am-27-0 0.807636976242
-SimplexTableau.java-ca-1-7 1.29402184486
-SimplexTableau.java-ca-16-8 0.848623991013
-SimplexTableau.java-ca-9-12 0.845854997635
-SimplexSolver.java-cm-24-1 1.73826789856
-SimplexTableau.java-ca-17-2 1.06726384163
-SimplexTableau.java-ca-14-2 1.86274814606
-SimplexTableau.java-ca-16-10 1.26179099083
-SimplexTableau.java-cm-13-1 1.64310097694
-SimplexTableau.java-ca-13-8 1.04097008705
-SimplexTableau.java-ca-16-3 1.94058394432
-SimplexTableau.java-ca-14-1 1.33239412308
-SimplexSolver.java-cm-22-0 1.87187600136
-SimplexTableau.java-ca-4-2 1.39105010033
-SimplexSolver.java-mem-35-2 1.54610300064
-SimplexSolver.java-mem-26-0 0.949824094772
-SimplexSolver.java-ca-34-1 0.952837228775
-SimplexSolver.java-cm-22-1 1.85050582886
-SimplexTableau.java-ca-15-7 1.16310286522
+SimplexSolver.java-am-24-1 2.3574450016
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	entry
+     [java] Space: 1
+
+SimplexTableau.java-ca-13-4 2.59414196014
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 1 candidates for the type double: [0]
+     [java]  Hole 0	entry
+     [java]  Hole 1	true
+     [java] Space: 8
+
+SimplexSolver.java-cm-24-1 2.84036588669
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 2 candidates for the type class [D: [point, null]
+     [java]  Hole 0	entry>epsilon
+     [java]  Hole 1	point
+     [java] Space: 31
+
+SimplexTableau.java-ca-12-11 1.93304014206
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 2 candidates for the type class [D: [point, null]
+     [java]  Hole 0	point
+     [java]  Hole 1	entry>epsilon
+     [java] Space: 31
+
+SimplexSolver.java-ca-24-0 3.03733491898
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 2 candidates for the type class [D: [point, null]
+     [java]  Hole 0	point
+     [java]  Hole 1	entry>epsilon
+     [java] Space: 31
+
+SimplexSolver.java-ca-34-0 2.65749287605
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 2 candidates for the type class [D: [point, null]
+     [java]  Hole 0	point
+     [java]  Hole 1	false
+     [java] Space: 7
+
+SimplexSolver.java-ca-41-0 1.59170103073
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 2 candidates for the type class [D: [point, null]
+     [java]  Hole 0	point
+     [java]  Hole 1	false
+     [java] Space: 7
+
+SimplexSolver.java-cm-22-1 2.73456978798
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	ratio>=0
+     [java] Space: 42
+
+SimplexTableau.java-ca-1-10 1.65237808228
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	ratio>=0
+     [java] Space: 42
+
+SimplexSolver.java-om-24-1 2.22020506859
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.linear.RealVector: [coefficients, null]
+     [java]  Hole 0	> 
+     [java]  Hole 1	coefficients
+     [java] Space: 4
+
+SimplexSolver.java-ca-34-4 2.17861104012
+     [java] Generate 1 candidates for the type double: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+LinearObjectiveFunction.java-ca-5-1 1.25788378716
+     [java] Generate 1 candidates for the type double: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+SimplexSolver.java-om-24-0 2.05380392075
+
+SimplexSolver.java-mem-27-1 1.2121489048
+
+SimplexSolver.java-am-35-2 1.88659620285
+     [java] Generate 4 candidates for the type double: [minValue, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	epsilon
+     [java] Space: 2
+
+SimplexTableau.java-ca-4-0 2.38544988632
+     [java] Generate 4 candidates for the type double: [minValue, epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	true
+     [java]  Hole 1	epsilon
+     [java] Space: 16
+
+SimplexTableau.java-ca-17-6 1.62254095078
+     [java] Generate 4 candidates for the type double: [minValue, epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	true
+     [java]  Hole 1	epsilon
+     [java] Space: 16
+
+SimplexSolver.java-mem-24-1 2.23698306084
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	entry
+     [java] Space: 1
+
+SimplexSolver.java-ca-28-3 1.33211302757
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	entry
+     [java] Space: 1
+

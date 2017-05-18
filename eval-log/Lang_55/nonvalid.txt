@@ -1,0 +1,3729 @@
+StopWatch.java-cm-21-6 StopWatch.java-cm-21-6
+
+StopWatch.java-om-11-0 StopWatch.java-om-11-0
+
+StopWatch.java-cr-12-0 StopWatch.java-cr-12-0
+
+StopWatch.java-cm-21-15 StopWatch.java-cm-21-15
+
+StopWatch.java-ca-8-2 StopWatch.java-ca-8-2
+
+StopWatch.java-ca-12-2 StopWatch.java-ca-12-2
+
+StopWatch.java-ca-6-1 StopWatch.java-ca-6-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-20-2 StopWatch.java-ca-20-2
+
+StopWatch.java-ca-4-2 StopWatch.java-ca-4-2
+
+StopWatch.java-cm-11-0 StopWatch.java-cm-11-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-6-3 StopWatch.java-ca-6-3
+
+StopWatch.java-ca-12-1 StopWatch.java-ca-12-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-21-13 StopWatch.java-cm-21-13
+
+StopWatch.java-ca-19-2 StopWatch.java-ca-19-2
+
+StopWatch.java-cm-11-3 StopWatch.java-cm-11-3
+
+StopWatch.java-ca-20-0 StopWatch.java-ca-20-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-3-2 StopWatch.java-ca-3-2
+
+StopWatch.java-cm-21-5 StopWatch.java-cm-21-5
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cr-3-0 StopWatch.java-cr-3-0
+
+StopWatch.java-ca-1-3 StopWatch.java-ca-1-3
+
+StopWatch.java-ca-19-3 StopWatch.java-ca-19-3
+
+StopWatch.java-ca-8-3 StopWatch.java-ca-8-3
+
+StopWatch.java-cm-21-1 StopWatch.java-cm-21-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-3-1 StopWatch.java-ca-3-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-19-0 StopWatch.java-ca-19-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-om-20-2 StopWatch.java-om-20-2
+
+StopWatch.java-cm-21-12 StopWatch.java-cm-21-12
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-12-1 StopWatch.java-cm-12-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-om-20-1 StopWatch.java-om-20-1
+
+StopWatch.java-ca-21-1 StopWatch.java-ca-21-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime == stopTime
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime == stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime == stopTime
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime != stopTime
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime != stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime != stopTime
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime>stopTime
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime>stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime>stopTime
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime<stopTime
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime<stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime<stopTime
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime<=stopTime
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime<=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime<=stopTime
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime>=stopTime
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime>=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime>=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime == null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime != null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime != null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime != null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime>null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime>null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime>null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime<null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime<null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime<null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime<=null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime<=null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime<=null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime>=null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime == startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime != startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<=startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>=startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime == stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime != stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime == null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime != null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime != null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime != null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime>null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime>null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime<null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime<null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime<=null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime<=null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<=null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime>=null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	null == startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null != startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null>startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null<startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null<=startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null>=startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null == stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null != stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null>stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null<stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null<=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null>=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null == null
+     [java]  Hole 0	null
+     [java]  Hole 1	null != null
+     [java]  Hole 0	null
+     [java]  Hole 1	null>null
+     [java]  Hole 0	null
+     [java]  Hole 1	null<null
+     [java]  Hole 0	null
+     [java]  Hole 1	null<=null
+     [java]  Hole 0	null
+     [java]  Hole 1	null>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	false
+     [java]  Hole 0	startTime
+     [java]  Hole 1	true
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	true
+     [java]  Hole 0	null
+     [java]  Hole 1	true
+     [java] Space: 90
+
+StopWatch.java-cm-21-11 StopWatch.java-cm-21-11
+
+StopWatch.java-cm-20-6 StopWatch.java-cm-20-6
+
+StopWatch.java-cr-11-0 StopWatch.java-cr-11-0
+
+StopWatch.java-cm-21-8 StopWatch.java-cm-21-8
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-8-0 StopWatch.java-ca-8-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-21-3 StopWatch.java-ca-21-3
+
+StopWatch.java-cm-20-4 StopWatch.java-cm-20-4
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-11-2 StopWatch.java-cm-11-2
+     [java] Generate 9 candidates for the type int: [splitState, STATE_UNSTARTED, STATE_STOPPED, STATE_SUSPENDED, STATE_UNSPLIT, runningState, STATE_RUNNING, STATE_SPLIT, 0]
+     [java]  Hole 0	splitState == splitState
+     [java]  Hole 0	splitState != splitState
+     [java]  Hole 0	splitState>splitState
+     [java]  Hole 0	splitState<splitState
+     [java]  Hole 0	splitState<=splitState
+     [java]  Hole 0	splitState>=splitState
+     [java]  Hole 0	splitState == STATE_UNSTARTED
+     [java]  Hole 0	splitState != STATE_UNSTARTED
+     [java]  Hole 0	splitState>STATE_UNSTARTED
+     [java]  Hole 0	splitState<STATE_UNSTARTED
+     [java]  Hole 0	splitState<=STATE_UNSTARTED
+     [java]  Hole 0	splitState>=STATE_UNSTARTED
+     [java]  Hole 0	splitState == STATE_STOPPED
+     [java]  Hole 0	splitState != STATE_STOPPED
+     [java]  Hole 0	splitState>STATE_STOPPED
+     [java]  Hole 0	splitState<STATE_STOPPED
+     [java]  Hole 0	splitState<=STATE_STOPPED
+     [java]  Hole 0	splitState>=STATE_STOPPED
+     [java]  Hole 0	splitState == STATE_SUSPENDED
+     [java]  Hole 0	splitState != STATE_SUSPENDED
+     [java]  Hole 0	splitState>STATE_SUSPENDED
+     [java]  Hole 0	splitState<STATE_SUSPENDED
+     [java]  Hole 0	splitState<=STATE_SUSPENDED
+     [java]  Hole 0	splitState>=STATE_SUSPENDED
+     [java]  Hole 0	splitState == STATE_UNSPLIT
+     [java]  Hole 0	splitState != STATE_UNSPLIT
+     [java]  Hole 0	splitState>STATE_UNSPLIT
+     [java]  Hole 0	splitState<STATE_UNSPLIT
+     [java]  Hole 0	splitState<=STATE_UNSPLIT
+     [java]  Hole 0	splitState>=STATE_UNSPLIT
+     [java]  Hole 0	splitState == runningState
+     [java]  Hole 0	splitState != runningState
+     [java]  Hole 0	splitState>runningState
+     [java]  Hole 0	splitState<runningState
+     [java]  Hole 0	splitState<=runningState
+     [java]  Hole 0	splitState>=runningState
+     [java]  Hole 0	splitState == STATE_RUNNING
+     [java]  Hole 0	splitState != STATE_RUNNING
+     [java]  Hole 0	splitState>STATE_RUNNING
+     [java]  Hole 0	splitState<STATE_RUNNING
+     [java]  Hole 0	splitState<=STATE_RUNNING
+     [java]  Hole 0	splitState>=STATE_RUNNING
+     [java]  Hole 0	splitState == STATE_SPLIT
+     [java]  Hole 0	splitState != STATE_SPLIT
+     [java]  Hole 0	splitState>STATE_SPLIT
+     [java]  Hole 0	splitState<STATE_SPLIT
+     [java]  Hole 0	splitState<=STATE_SPLIT
+     [java]  Hole 0	splitState>=STATE_SPLIT
+     [java]  Hole 0	splitState == 0
+     [java]  Hole 0	splitState != 0
+     [java]  Hole 0	splitState>0
+     [java]  Hole 0	splitState<0
+     [java]  Hole 0	splitState<=0
+     [java]  Hole 0	splitState>=0
+     [java]  Hole 0	STATE_UNSTARTED == splitState
+     [java]  Hole 0	STATE_UNSTARTED != splitState
+     [java]  Hole 0	STATE_UNSTARTED>splitState
+     [java]  Hole 0	STATE_UNSTARTED<splitState
+     [java]  Hole 0	STATE_UNSTARTED<=splitState
+     [java]  Hole 0	STATE_UNSTARTED>=splitState
+     [java]  Hole 0	STATE_UNSTARTED == STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED != STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED>STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED<STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED == runningState
+     [java]  Hole 0	STATE_UNSTARTED != runningState
+     [java]  Hole 0	STATE_UNSTARTED>runningState
+     [java]  Hole 0	STATE_UNSTARTED<runningState
+     [java]  Hole 0	STATE_UNSTARTED<=runningState
+     [java]  Hole 0	STATE_UNSTARTED>=runningState
+     [java]  Hole 0	STATE_UNSTARTED == STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED != STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED>STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED<STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED == STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED != STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED>STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED<STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED == 0
+     [java]  Hole 0	STATE_UNSTARTED != 0
+     [java]  Hole 0	STATE_UNSTARTED>0
+     [java]  Hole 0	STATE_UNSTARTED<0
+     [java]  Hole 0	STATE_UNSTARTED<=0
+     [java]  Hole 0	STATE_UNSTARTED>=0
+     [java]  Hole 0	STATE_STOPPED == splitState
+     [java]  Hole 0	STATE_STOPPED != splitState
+     [java]  Hole 0	STATE_STOPPED>splitState
+     [java]  Hole 0	STATE_STOPPED<splitState
+     [java]  Hole 0	STATE_STOPPED<=splitState
+     [java]  Hole 0	STATE_STOPPED>=splitState
+     [java]  Hole 0	STATE_STOPPED == STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED != STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED>STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED<STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED == STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED != STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED>STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED<STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED<=STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED>=STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED == STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED != STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED>STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED<STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED == STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED != STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED>STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED<STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED == runningState
+     [java]  Hole 0	STATE_STOPPED != runningState
+     [java]  Hole 0	STATE_STOPPED>runningState
+     [java]  Hole 0	STATE_STOPPED<runningState
+     [java]  Hole 0	STATE_STOPPED<=runningState
+     [java]  Hole 0	STATE_STOPPED>=runningState
+     [java]  Hole 0	STATE_STOPPED == STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED != STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED>STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED<STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED<=STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED>=STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED == STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED != STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED>STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED<STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED<=STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED>=STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED == 0
+     [java]  Hole 0	STATE_STOPPED != 0
+     [java]  Hole 0	STATE_STOPPED>0
+     [java]  Hole 0	STATE_STOPPED<0
+     [java]  Hole 0	STATE_STOPPED<=0
+     [java]  Hole 0	STATE_STOPPED>=0
+     [java]  Hole 0	STATE_SUSPENDED == splitState
+     [java]  Hole 0	STATE_SUSPENDED != splitState
+     [java]  Hole 0	STATE_SUSPENDED>splitState
+     [java]  Hole 0	STATE_SUSPENDED<splitState
+     [java]  Hole 0	STATE_SUSPENDED<=splitState
+     [java]  Hole 0	STATE_SUSPENDED>=splitState
+     [java]  Hole 0	STATE_SUSPENDED == STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED != STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED>STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED<STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED == STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED != STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED>STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED<STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED == STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED != STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED>STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED<STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED == STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED != STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED>STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED<STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED == runningState
+     [java]  Hole 0	STATE_SUSPENDED != runningState
+     [java]  Hole 0	STATE_SUSPENDED>runningState
+     [java]  Hole 0	STATE_SUSPENDED<runningState
+     [java]  Hole 0	STATE_SUSPENDED<=runningState
+     [java]  Hole 0	STATE_SUSPENDED>=runningState
+     [java]  Hole 0	STATE_SUSPENDED == STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED != STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED>STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED<STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED == STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED != STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED>STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED<STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED == 0
+     [java]  Hole 0	STATE_SUSPENDED != 0
+     [java]  Hole 0	STATE_SUSPENDED>0
+     [java]  Hole 0	STATE_SUSPENDED<0
+     [java]  Hole 0	STATE_SUSPENDED<=0
+     [java]  Hole 0	STATE_SUSPENDED>=0
+     [java]  Hole 0	STATE_UNSPLIT == splitState
+     [java]  Hole 0	STATE_UNSPLIT != splitState
+     [java]  Hole 0	STATE_UNSPLIT>splitState
+     [java]  Hole 0	STATE_UNSPLIT<splitState
+     [java]  Hole 0	STATE_UNSPLIT<=splitState
+     [java]  Hole 0	STATE_UNSPLIT>=splitState
+     [java]  Hole 0	STATE_UNSPLIT == STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT != STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT>STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT<STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT == STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT != STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT>STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT<STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT == STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT != STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT>STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT<STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT == STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT != STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT>STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT<STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT == runningState
+     [java]  Hole 0	STATE_UNSPLIT != runningState
+     [java]  Hole 0	STATE_UNSPLIT>runningState
+     [java]  Hole 0	STATE_UNSPLIT<runningState
+     [java]  Hole 0	STATE_UNSPLIT<=runningState
+     [java]  Hole 0	STATE_UNSPLIT>=runningState
+     [java]  Hole 0	STATE_UNSPLIT == STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT != STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT>STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT<STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT == STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT != STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT>STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT<STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT == 0
+     [java]  Hole 0	STATE_UNSPLIT != 0
+     [java]  Hole 0	STATE_UNSPLIT>0
+     [java]  Hole 0	STATE_UNSPLIT<0
+     [java]  Hole 0	STATE_UNSPLIT<=0
+     [java]  Hole 0	STATE_UNSPLIT>=0
+     [java]  Hole 0	runningState == splitState
+     [java]  Hole 0	runningState != splitState
+     [java]  Hole 0	runningState>splitState
+     [java]  Hole 0	runningState<splitState
+     [java]  Hole 0	runningState<=splitState
+     [java]  Hole 0	runningState>=splitState
+     [java]  Hole 0	runningState == STATE_UNSTARTED
+     [java]  Hole 0	runningState != STATE_UNSTARTED
+     [java]  Hole 0	runningState>STATE_UNSTARTED
+     [java]  Hole 0	runningState<STATE_UNSTARTED
+     [java]  Hole 0	runningState<=STATE_UNSTARTED
+     [java]  Hole 0	runningState>=STATE_UNSTARTED
+     [java]  Hole 0	runningState == STATE_STOPPED
+     [java]  Hole 0	runningState != STATE_STOPPED
+     [java]  Hole 0	runningState>STATE_STOPPED
+     [java]  Hole 0	runningState<STATE_STOPPED
+     [java]  Hole 0	runningState<=STATE_STOPPED
+     [java]  Hole 0	runningState>=STATE_STOPPED
+     [java]  Hole 0	runningState == STATE_SUSPENDED
+     [java]  Hole 0	runningState != STATE_SUSPENDED
+     [java]  Hole 0	runningState>STATE_SUSPENDED
+     [java]  Hole 0	runningState<STATE_SUSPENDED
+     [java]  Hole 0	runningState<=STATE_SUSPENDED
+     [java]  Hole 0	runningState>=STATE_SUSPENDED
+     [java]  Hole 0	runningState == STATE_UNSPLIT
+     [java]  Hole 0	runningState != STATE_UNSPLIT
+     [java]  Hole 0	runningState>STATE_UNSPLIT
+     [java]  Hole 0	runningState<STATE_UNSPLIT
+     [java]  Hole 0	runningState<=STATE_UNSPLIT
+     [java]  Hole 0	runningState>=STATE_UNSPLIT
+     [java]  Hole 0	runningState == runningState
+     [java]  Hole 0	runningState != runningState
+     [java]  Hole 0	runningState>runningState
+     [java]  Hole 0	runningState<runningState
+     [java]  Hole 0	runningState<=runningState
+     [java]  Hole 0	runningState>=runningState
+     [java]  Hole 0	runningState == STATE_RUNNING
+     [java]  Hole 0	runningState != STATE_RUNNING
+     [java]  Hole 0	runningState>STATE_RUNNING
+     [java]  Hole 0	runningState<STATE_RUNNING
+     [java]  Hole 0	runningState<=STATE_RUNNING
+     [java]  Hole 0	runningState>=STATE_RUNNING
+     [java]  Hole 0	runningState == STATE_SPLIT
+     [java]  Hole 0	runningState != STATE_SPLIT
+     [java]  Hole 0	runningState>STATE_SPLIT
+     [java]  Hole 0	runningState<STATE_SPLIT
+     [java]  Hole 0	runningState<=STATE_SPLIT
+     [java]  Hole 0	runningState>=STATE_SPLIT
+     [java]  Hole 0	runningState == 0
+     [java]  Hole 0	runningState != 0
+     [java]  Hole 0	runningState>0
+     [java]  Hole 0	runningState<0
+     [java]  Hole 0	runningState<=0
+     [java]  Hole 0	runningState>=0
+     [java]  Hole 0	STATE_RUNNING == splitState
+     [java]  Hole 0	STATE_RUNNING != splitState
+     [java]  Hole 0	STATE_RUNNING>splitState
+     [java]  Hole 0	STATE_RUNNING<splitState
+     [java]  Hole 0	STATE_RUNNING<=splitState
+     [java]  Hole 0	STATE_RUNNING>=splitState
+     [java]  Hole 0	STATE_RUNNING == STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING != STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING>STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING<STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING == STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING != STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING>STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING<STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING<=STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING>=STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING == STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING != STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING>STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING<STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING == STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING != STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING>STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING<STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING == runningState
+     [java]  Hole 0	STATE_RUNNING != runningState
+     [java]  Hole 0	STATE_RUNNING>runningState
+     [java]  Hole 0	STATE_RUNNING<runningState
+     [java]  Hole 0	STATE_RUNNING<=runningState
+     [java]  Hole 0	STATE_RUNNING>=runningState
+     [java]  Hole 0	STATE_RUNNING == STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING != STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING>STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING<STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING<=STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING>=STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING == STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING != STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING>STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING<STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING<=STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING>=STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING == 0
+     [java]  Hole 0	STATE_RUNNING != 0
+     [java]  Hole 0	STATE_RUNNING>0
+     [java]  Hole 0	STATE_RUNNING<0
+     [java]  Hole 0	STATE_RUNNING<=0
+     [java]  Hole 0	STATE_RUNNING>=0
+     [java]  Hole 0	STATE_SPLIT == splitState
+     [java]  Hole 0	STATE_SPLIT != splitState
+     [java]  Hole 0	STATE_SPLIT>splitState
+     [java]  Hole 0	STATE_SPLIT<splitState
+     [java]  Hole 0	STATE_SPLIT<=splitState
+     [java]  Hole 0	STATE_SPLIT>=splitState
+     [java]  Hole 0	STATE_SPLIT == STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT != STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT>STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT<STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT == STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT != STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT>STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT<STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT<=STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT>=STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT == STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT != STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT>STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT<STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT == STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT != STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT>STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT<STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT == runningState
+     [java]  Hole 0	STATE_SPLIT != runningState
+     [java]  Hole 0	STATE_SPLIT>runningState
+     [java]  Hole 0	STATE_SPLIT<runningState
+     [java]  Hole 0	STATE_SPLIT<=runningState
+     [java]  Hole 0	STATE_SPLIT>=runningState
+     [java]  Hole 0	STATE_SPLIT == STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT != STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT>STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT<STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT<=STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT>=STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT == STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT != STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT>STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT<STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT<=STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT>=STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT == 0
+     [java]  Hole 0	STATE_SPLIT != 0
+     [java]  Hole 0	STATE_SPLIT>0
+     [java]  Hole 0	STATE_SPLIT<0
+     [java]  Hole 0	STATE_SPLIT<=0
+     [java]  Hole 0	STATE_SPLIT>=0
+     [java]  Hole 0	0 == splitState
+     [java]  Hole 0	0 != splitState
+     [java]  Hole 0	0>splitState
+     [java]  Hole 0	0<splitState
+     [java]  Hole 0	0<=splitState
+     [java]  Hole 0	0>=splitState
+     [java]  Hole 0	0 == STATE_UNSTARTED
+     [java]  Hole 0	0 != STATE_UNSTARTED
+     [java]  Hole 0	0>STATE_UNSTARTED
+     [java]  Hole 0	0<STATE_UNSTARTED
+     [java]  Hole 0	0<=STATE_UNSTARTED
+     [java]  Hole 0	0>=STATE_UNSTARTED
+     [java]  Hole 0	0 == STATE_STOPPED
+     [java]  Hole 0	0 != STATE_STOPPED
+     [java]  Hole 0	0>STATE_STOPPED
+     [java]  Hole 0	0<STATE_STOPPED
+     [java]  Hole 0	0<=STATE_STOPPED
+     [java]  Hole 0	0>=STATE_STOPPED
+     [java]  Hole 0	0 == STATE_SUSPENDED
+     [java]  Hole 0	0 != STATE_SUSPENDED
+     [java]  Hole 0	0>STATE_SUSPENDED
+     [java]  Hole 0	0<STATE_SUSPENDED
+     [java]  Hole 0	0<=STATE_SUSPENDED
+     [java]  Hole 0	0>=STATE_SUSPENDED
+     [java]  Hole 0	0 == STATE_UNSPLIT
+     [java]  Hole 0	0 != STATE_UNSPLIT
+     [java]  Hole 0	0>STATE_UNSPLIT
+     [java]  Hole 0	0<STATE_UNSPLIT
+     [java]  Hole 0	0<=STATE_UNSPLIT
+     [java]  Hole 0	0>=STATE_UNSPLIT
+     [java]  Hole 0	0 == runningState
+     [java]  Hole 0	0 != runningState
+     [java]  Hole 0	0>runningState
+     [java]  Hole 0	0<runningState
+     [java]  Hole 0	0<=runningState
+     [java]  Hole 0	0>=runningState
+     [java]  Hole 0	0 == STATE_RUNNING
+     [java]  Hole 0	0 != STATE_RUNNING
+     [java]  Hole 0	0>STATE_RUNNING
+     [java]  Hole 0	0<STATE_RUNNING
+     [java]  Hole 0	0<=STATE_RUNNING
+     [java]  Hole 0	0>=STATE_RUNNING
+     [java]  Hole 0	0 == STATE_SPLIT
+     [java]  Hole 0	0 != STATE_SPLIT
+     [java]  Hole 0	0>STATE_SPLIT
+     [java]  Hole 0	0<STATE_SPLIT
+     [java]  Hole 0	0<=STATE_SPLIT
+     [java]  Hole 0	0>=STATE_SPLIT
+     [java]  Hole 0	0 == 0
+     [java]  Hole 0	0 != 0
+     [java]  Hole 0	0>0
+     [java]  Hole 0	0<0
+     [java]  Hole 0	0<=0
+     [java]  Hole 0	0>=0
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 488
+
+StopWatch.java-cm-12-0 StopWatch.java-cm-12-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-3-3 StopWatch.java-cm-3-3
+
+StopWatch.java-cm-21-9 StopWatch.java-cm-21-9
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cr-21-2 StopWatch.java-cr-21-2
+
+StopWatch.java-cm-3-0 StopWatch.java-cm-3-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-21-7 StopWatch.java-cm-21-7
+
+StopWatch.java-ca-4-3 StopWatch.java-ca-4-3
+
+StopWatch.java-cm-20-7 StopWatch.java-cm-20-7
+
+StopWatch.java-cm-20-0 StopWatch.java-cm-20-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-4-1 StopWatch.java-ca-4-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime != stopTime
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime != stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime != stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime>stopTime
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime<stopTime
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime<stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime<stopTime
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime<=stopTime
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime<=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime<=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime>=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime == null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime != null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime != null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime != null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime>null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime>null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime>null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime<null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime<null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime<null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime<=null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime<=null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime<=null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	startTime>=null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	startTime>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	startTime>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime == startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime != startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<=startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>=startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime == stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime != stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime == null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime != null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime != null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime != null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime>null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime>null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime<null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime<null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime<=null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime<=null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime<=null
+     [java]  Hole 0	startTime
+     [java]  Hole 1	stopTime>=null
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	stopTime>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	stopTime>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	null == startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null != startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null>startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null<startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null<=startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null>=startTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null == stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null != stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null>stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null<stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null<=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null>=stopTime
+     [java]  Hole 0	null
+     [java]  Hole 1	null == null
+     [java]  Hole 0	null
+     [java]  Hole 1	null != null
+     [java]  Hole 0	null
+     [java]  Hole 1	null>null
+     [java]  Hole 0	null
+     [java]  Hole 1	null<null
+     [java]  Hole 0	null
+     [java]  Hole 1	null<=null
+     [java]  Hole 0	null
+     [java]  Hole 1	null>=null
+     [java]  Hole 0	null
+     [java]  Hole 1	false
+     [java]  Hole 0	startTime
+     [java]  Hole 1	true
+     [java]  Hole 0	stopTime
+     [java]  Hole 1	true
+     [java]  Hole 0	null
+     [java]  Hole 1	true
+     [java] Space: 84
+
+StopWatch.java-ca-9-1 StopWatch.java-ca-9-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-om-12-0 StopWatch.java-om-12-0
+
+StopWatch.java-ca-21-2 StopWatch.java-ca-21-2
+
+StopWatch.java-ca-9-2 StopWatch.java-ca-9-2
+
+StopWatch.java-ca-21-0 StopWatch.java-ca-21-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-om-21-0 StopWatch.java-om-21-0
+
+StopWatch.java-om-21-2 StopWatch.java-om-21-2
+
+StopWatch.java-cm-12-3 StopWatch.java-cm-12-3
+
+StopWatch.java-cr-21-1 StopWatch.java-cr-21-1
+
+StopWatch.java-ca-6-2 StopWatch.java-ca-6-2
+
+StopWatch.java-om-21-3 StopWatch.java-om-21-3
+
+StopWatch.java-ca-1-0 StopWatch.java-ca-1-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-21-14 StopWatch.java-cm-21-14
+
+StopWatch.java-ca-0-2 StopWatch.java-ca-0-2
+
+StopWatch.java-cr-20-0 StopWatch.java-cr-20-0
+
+StopWatch.java-cm-11-1 StopWatch.java-cm-11-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-21-10 StopWatch.java-cm-21-10
+
+StopWatch.java-ca-0-3 StopWatch.java-ca-0-3
+
+StopWatch.java-cr-21-3 StopWatch.java-cr-21-3
+
+StopWatch.java-ca-8-1 StopWatch.java-ca-8-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-11-3 StopWatch.java-ca-11-3
+
+StopWatch.java-ca-19-1 StopWatch.java-ca-19-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-3-1 StopWatch.java-cm-3-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-9-0 StopWatch.java-ca-9-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-12-0 StopWatch.java-ca-12-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-3-3 StopWatch.java-ca-3-3
+
+StopWatch.java-ca-11-0 StopWatch.java-ca-11-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-21-2 StopWatch.java-cm-21-2
+
+StopWatch.java-ca-0-0 StopWatch.java-ca-0-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cr-21-0 StopWatch.java-cr-21-0
+
+StopWatch.java-cm-20-3 StopWatch.java-cm-20-3
+
+StopWatch.java-ca-6-0 StopWatch.java-ca-6-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-20-2 StopWatch.java-cm-20-2
+
+StopWatch.java-ca-0-1 StopWatch.java-ca-0-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-om-20-0 StopWatch.java-om-20-0
+
+StopWatch.java-cm-12-2 StopWatch.java-cm-12-2
+     [java] Generate 9 candidates for the type int: [splitState, STATE_UNSTARTED, STATE_STOPPED, STATE_SUSPENDED, STATE_UNSPLIT, runningState, STATE_RUNNING, STATE_SPLIT, 0]
+     [java]  Hole 0	splitState == splitState
+     [java]  Hole 0	splitState != splitState
+     [java]  Hole 0	splitState>splitState
+     [java]  Hole 0	splitState<splitState
+     [java]  Hole 0	splitState<=splitState
+     [java]  Hole 0	splitState>=splitState
+     [java]  Hole 0	splitState == STATE_UNSTARTED
+     [java]  Hole 0	splitState != STATE_UNSTARTED
+     [java]  Hole 0	splitState>STATE_UNSTARTED
+     [java]  Hole 0	splitState<STATE_UNSTARTED
+     [java]  Hole 0	splitState<=STATE_UNSTARTED
+     [java]  Hole 0	splitState>=STATE_UNSTARTED
+     [java]  Hole 0	splitState == STATE_STOPPED
+     [java]  Hole 0	splitState != STATE_STOPPED
+     [java]  Hole 0	splitState>STATE_STOPPED
+     [java]  Hole 0	splitState<STATE_STOPPED
+     [java]  Hole 0	splitState<=STATE_STOPPED
+     [java]  Hole 0	splitState>=STATE_STOPPED
+     [java]  Hole 0	splitState == STATE_SUSPENDED
+     [java]  Hole 0	splitState != STATE_SUSPENDED
+     [java]  Hole 0	splitState>STATE_SUSPENDED
+     [java]  Hole 0	splitState<STATE_SUSPENDED
+     [java]  Hole 0	splitState<=STATE_SUSPENDED
+     [java]  Hole 0	splitState>=STATE_SUSPENDED
+     [java]  Hole 0	splitState == STATE_UNSPLIT
+     [java]  Hole 0	splitState != STATE_UNSPLIT
+     [java]  Hole 0	splitState>STATE_UNSPLIT
+     [java]  Hole 0	splitState<STATE_UNSPLIT
+     [java]  Hole 0	splitState<=STATE_UNSPLIT
+     [java]  Hole 0	splitState>=STATE_UNSPLIT
+     [java]  Hole 0	splitState == runningState
+     [java]  Hole 0	splitState != runningState
+     [java]  Hole 0	splitState>runningState
+     [java]  Hole 0	splitState<runningState
+     [java]  Hole 0	splitState<=runningState
+     [java]  Hole 0	splitState>=runningState
+     [java]  Hole 0	splitState == STATE_RUNNING
+     [java]  Hole 0	splitState != STATE_RUNNING
+     [java]  Hole 0	splitState>STATE_RUNNING
+     [java]  Hole 0	splitState<STATE_RUNNING
+     [java]  Hole 0	splitState<=STATE_RUNNING
+     [java]  Hole 0	splitState>=STATE_RUNNING
+     [java]  Hole 0	splitState == STATE_SPLIT
+     [java]  Hole 0	splitState != STATE_SPLIT
+     [java]  Hole 0	splitState>STATE_SPLIT
+     [java]  Hole 0	splitState<STATE_SPLIT
+     [java]  Hole 0	splitState<=STATE_SPLIT
+     [java]  Hole 0	splitState>=STATE_SPLIT
+     [java]  Hole 0	splitState == 0
+     [java]  Hole 0	splitState != 0
+     [java]  Hole 0	splitState>0
+     [java]  Hole 0	splitState<0
+     [java]  Hole 0	splitState<=0
+     [java]  Hole 0	splitState>=0
+     [java]  Hole 0	STATE_UNSTARTED == splitState
+     [java]  Hole 0	STATE_UNSTARTED != splitState
+     [java]  Hole 0	STATE_UNSTARTED>splitState
+     [java]  Hole 0	STATE_UNSTARTED<splitState
+     [java]  Hole 0	STATE_UNSTARTED<=splitState
+     [java]  Hole 0	STATE_UNSTARTED>=splitState
+     [java]  Hole 0	STATE_UNSTARTED == STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED != STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED>STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED<STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED == runningState
+     [java]  Hole 0	STATE_UNSTARTED != runningState
+     [java]  Hole 0	STATE_UNSTARTED>runningState
+     [java]  Hole 0	STATE_UNSTARTED<runningState
+     [java]  Hole 0	STATE_UNSTARTED<=runningState
+     [java]  Hole 0	STATE_UNSTARTED>=runningState
+     [java]  Hole 0	STATE_UNSTARTED == STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED != STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED>STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED<STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED == STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED != STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED>STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED<STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED == 0
+     [java]  Hole 0	STATE_UNSTARTED != 0
+     [java]  Hole 0	STATE_UNSTARTED>0
+     [java]  Hole 0	STATE_UNSTARTED<0
+     [java]  Hole 0	STATE_UNSTARTED<=0
+     [java]  Hole 0	STATE_UNSTARTED>=0
+     [java]  Hole 0	STATE_STOPPED == splitState
+     [java]  Hole 0	STATE_STOPPED != splitState
+     [java]  Hole 0	STATE_STOPPED>splitState
+     [java]  Hole 0	STATE_STOPPED<splitState
+     [java]  Hole 0	STATE_STOPPED<=splitState
+     [java]  Hole 0	STATE_STOPPED>=splitState
+     [java]  Hole 0	STATE_STOPPED == STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED != STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED>STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED<STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED == STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED != STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED>STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED<STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED<=STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED>=STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED == STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED != STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED>STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED<STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED == STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED != STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED>STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED<STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED == runningState
+     [java]  Hole 0	STATE_STOPPED != runningState
+     [java]  Hole 0	STATE_STOPPED>runningState
+     [java]  Hole 0	STATE_STOPPED<runningState
+     [java]  Hole 0	STATE_STOPPED<=runningState
+     [java]  Hole 0	STATE_STOPPED>=runningState
+     [java]  Hole 0	STATE_STOPPED == STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED != STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED>STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED<STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED<=STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED>=STATE_RUNNING
+     [java]  Hole 0	STATE_STOPPED == STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED != STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED>STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED<STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED<=STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED>=STATE_SPLIT
+     [java]  Hole 0	STATE_STOPPED == 0
+     [java]  Hole 0	STATE_STOPPED != 0
+     [java]  Hole 0	STATE_STOPPED>0
+     [java]  Hole 0	STATE_STOPPED<0
+     [java]  Hole 0	STATE_STOPPED<=0
+     [java]  Hole 0	STATE_STOPPED>=0
+     [java]  Hole 0	STATE_SUSPENDED == splitState
+     [java]  Hole 0	STATE_SUSPENDED != splitState
+     [java]  Hole 0	STATE_SUSPENDED>splitState
+     [java]  Hole 0	STATE_SUSPENDED<splitState
+     [java]  Hole 0	STATE_SUSPENDED<=splitState
+     [java]  Hole 0	STATE_SUSPENDED>=splitState
+     [java]  Hole 0	STATE_SUSPENDED == STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED != STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED>STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED<STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_SUSPENDED == STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED != STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED>STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED<STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_STOPPED
+     [java]  Hole 0	STATE_SUSPENDED == STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED != STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED>STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED<STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_SUSPENDED == STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED != STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED>STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED<STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_SUSPENDED == runningState
+     [java]  Hole 0	STATE_SUSPENDED != runningState
+     [java]  Hole 0	STATE_SUSPENDED>runningState
+     [java]  Hole 0	STATE_SUSPENDED<runningState
+     [java]  Hole 0	STATE_SUSPENDED<=runningState
+     [java]  Hole 0	STATE_SUSPENDED>=runningState
+     [java]  Hole 0	STATE_SUSPENDED == STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED != STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED>STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED<STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_RUNNING
+     [java]  Hole 0	STATE_SUSPENDED == STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED != STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED>STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED<STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED<=STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED>=STATE_SPLIT
+     [java]  Hole 0	STATE_SUSPENDED == 0
+     [java]  Hole 0	STATE_SUSPENDED != 0
+     [java]  Hole 0	STATE_SUSPENDED>0
+     [java]  Hole 0	STATE_SUSPENDED<0
+     [java]  Hole 0	STATE_SUSPENDED<=0
+     [java]  Hole 0	STATE_SUSPENDED>=0
+     [java]  Hole 0	STATE_UNSPLIT == splitState
+     [java]  Hole 0	STATE_UNSPLIT != splitState
+     [java]  Hole 0	STATE_UNSPLIT>splitState
+     [java]  Hole 0	STATE_UNSPLIT<splitState
+     [java]  Hole 0	STATE_UNSPLIT<=splitState
+     [java]  Hole 0	STATE_UNSPLIT>=splitState
+     [java]  Hole 0	STATE_UNSPLIT == STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT != STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT>STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT<STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSPLIT == STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT != STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT>STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT<STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSPLIT == STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT != STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT>STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT<STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSPLIT == STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT != STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT>STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT<STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSPLIT == runningState
+     [java]  Hole 0	STATE_UNSPLIT != runningState
+     [java]  Hole 0	STATE_UNSPLIT>runningState
+     [java]  Hole 0	STATE_UNSPLIT<runningState
+     [java]  Hole 0	STATE_UNSPLIT<=runningState
+     [java]  Hole 0	STATE_UNSPLIT>=runningState
+     [java]  Hole 0	STATE_UNSPLIT == STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT != STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT>STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT<STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSPLIT == STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT != STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT>STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT<STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT<=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT>=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSPLIT == 0
+     [java]  Hole 0	STATE_UNSPLIT != 0
+     [java]  Hole 0	STATE_UNSPLIT>0
+     [java]  Hole 0	STATE_UNSPLIT<0
+     [java]  Hole 0	STATE_UNSPLIT<=0
+     [java]  Hole 0	STATE_UNSPLIT>=0
+     [java]  Hole 0	runningState == splitState
+     [java]  Hole 0	runningState != splitState
+     [java]  Hole 0	runningState>splitState
+     [java]  Hole 0	runningState<splitState
+     [java]  Hole 0	runningState<=splitState
+     [java]  Hole 0	runningState>=splitState
+     [java]  Hole 0	runningState == STATE_UNSTARTED
+     [java]  Hole 0	runningState != STATE_UNSTARTED
+     [java]  Hole 0	runningState>STATE_UNSTARTED
+     [java]  Hole 0	runningState<STATE_UNSTARTED
+     [java]  Hole 0	runningState<=STATE_UNSTARTED
+     [java]  Hole 0	runningState>=STATE_UNSTARTED
+     [java]  Hole 0	runningState == STATE_STOPPED
+     [java]  Hole 0	runningState != STATE_STOPPED
+     [java]  Hole 0	runningState>STATE_STOPPED
+     [java]  Hole 0	runningState<STATE_STOPPED
+     [java]  Hole 0	runningState<=STATE_STOPPED
+     [java]  Hole 0	runningState>=STATE_STOPPED
+     [java]  Hole 0	runningState == STATE_SUSPENDED
+     [java]  Hole 0	runningState != STATE_SUSPENDED
+     [java]  Hole 0	runningState>STATE_SUSPENDED
+     [java]  Hole 0	runningState<STATE_SUSPENDED
+     [java]  Hole 0	runningState<=STATE_SUSPENDED
+     [java]  Hole 0	runningState>=STATE_SUSPENDED
+     [java]  Hole 0	runningState == STATE_UNSPLIT
+     [java]  Hole 0	runningState != STATE_UNSPLIT
+     [java]  Hole 0	runningState>STATE_UNSPLIT
+     [java]  Hole 0	runningState<STATE_UNSPLIT
+     [java]  Hole 0	runningState<=STATE_UNSPLIT
+     [java]  Hole 0	runningState>=STATE_UNSPLIT
+     [java]  Hole 0	runningState == runningState
+     [java]  Hole 0	runningState != runningState
+     [java]  Hole 0	runningState>runningState
+     [java]  Hole 0	runningState<runningState
+     [java]  Hole 0	runningState<=runningState
+     [java]  Hole 0	runningState>=runningState
+     [java]  Hole 0	runningState == STATE_RUNNING
+     [java]  Hole 0	runningState != STATE_RUNNING
+     [java]  Hole 0	runningState>STATE_RUNNING
+     [java]  Hole 0	runningState<STATE_RUNNING
+     [java]  Hole 0	runningState<=STATE_RUNNING
+     [java]  Hole 0	runningState>=STATE_RUNNING
+     [java]  Hole 0	runningState == STATE_SPLIT
+     [java]  Hole 0	runningState != STATE_SPLIT
+     [java]  Hole 0	runningState>STATE_SPLIT
+     [java]  Hole 0	runningState<STATE_SPLIT
+     [java]  Hole 0	runningState<=STATE_SPLIT
+     [java]  Hole 0	runningState>=STATE_SPLIT
+     [java]  Hole 0	runningState == 0
+     [java]  Hole 0	runningState != 0
+     [java]  Hole 0	runningState>0
+     [java]  Hole 0	runningState<0
+     [java]  Hole 0	runningState<=0
+     [java]  Hole 0	runningState>=0
+     [java]  Hole 0	STATE_RUNNING == splitState
+     [java]  Hole 0	STATE_RUNNING != splitState
+     [java]  Hole 0	STATE_RUNNING>splitState
+     [java]  Hole 0	STATE_RUNNING<splitState
+     [java]  Hole 0	STATE_RUNNING<=splitState
+     [java]  Hole 0	STATE_RUNNING>=splitState
+     [java]  Hole 0	STATE_RUNNING == STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING != STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING>STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING<STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_RUNNING == STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING != STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING>STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING<STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING<=STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING>=STATE_STOPPED
+     [java]  Hole 0	STATE_RUNNING == STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING != STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING>STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING<STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_RUNNING == STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING != STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING>STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING<STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_RUNNING == runningState
+     [java]  Hole 0	STATE_RUNNING != runningState
+     [java]  Hole 0	STATE_RUNNING>runningState
+     [java]  Hole 0	STATE_RUNNING<runningState
+     [java]  Hole 0	STATE_RUNNING<=runningState
+     [java]  Hole 0	STATE_RUNNING>=runningState
+     [java]  Hole 0	STATE_RUNNING == STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING != STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING>STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING<STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING<=STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING>=STATE_RUNNING
+     [java]  Hole 0	STATE_RUNNING == STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING != STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING>STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING<STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING<=STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING>=STATE_SPLIT
+     [java]  Hole 0	STATE_RUNNING == 0
+     [java]  Hole 0	STATE_RUNNING != 0
+     [java]  Hole 0	STATE_RUNNING>0
+     [java]  Hole 0	STATE_RUNNING<0
+     [java]  Hole 0	STATE_RUNNING<=0
+     [java]  Hole 0	STATE_RUNNING>=0
+     [java]  Hole 0	STATE_SPLIT == splitState
+     [java]  Hole 0	STATE_SPLIT != splitState
+     [java]  Hole 0	STATE_SPLIT>splitState
+     [java]  Hole 0	STATE_SPLIT<splitState
+     [java]  Hole 0	STATE_SPLIT<=splitState
+     [java]  Hole 0	STATE_SPLIT>=splitState
+     [java]  Hole 0	STATE_SPLIT == STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT != STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT>STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT<STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_SPLIT == STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT != STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT>STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT<STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT<=STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT>=STATE_STOPPED
+     [java]  Hole 0	STATE_SPLIT == STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT != STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT>STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT<STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_SPLIT == STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT != STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT>STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT<STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_SPLIT == runningState
+     [java]  Hole 0	STATE_SPLIT != runningState
+     [java]  Hole 0	STATE_SPLIT>runningState
+     [java]  Hole 0	STATE_SPLIT<runningState
+     [java]  Hole 0	STATE_SPLIT<=runningState
+     [java]  Hole 0	STATE_SPLIT>=runningState
+     [java]  Hole 0	STATE_SPLIT == STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT != STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT>STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT<STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT<=STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT>=STATE_RUNNING
+     [java]  Hole 0	STATE_SPLIT == STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT != STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT>STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT<STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT<=STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT>=STATE_SPLIT
+     [java]  Hole 0	STATE_SPLIT == 0
+     [java]  Hole 0	STATE_SPLIT != 0
+     [java]  Hole 0	STATE_SPLIT>0
+     [java]  Hole 0	STATE_SPLIT<0
+     [java]  Hole 0	STATE_SPLIT<=0
+     [java]  Hole 0	STATE_SPLIT>=0
+     [java]  Hole 0	0 == splitState
+     [java]  Hole 0	0 != splitState
+     [java]  Hole 0	0>splitState
+     [java]  Hole 0	0<splitState
+     [java]  Hole 0	0<=splitState
+     [java]  Hole 0	0>=splitState
+     [java]  Hole 0	0 == STATE_UNSTARTED
+     [java]  Hole 0	0 != STATE_UNSTARTED
+     [java]  Hole 0	0>STATE_UNSTARTED
+     [java]  Hole 0	0<STATE_UNSTARTED
+     [java]  Hole 0	0<=STATE_UNSTARTED
+     [java]  Hole 0	0>=STATE_UNSTARTED
+     [java]  Hole 0	0 == STATE_STOPPED
+     [java]  Hole 0	0 != STATE_STOPPED
+     [java]  Hole 0	0>STATE_STOPPED
+     [java]  Hole 0	0<STATE_STOPPED
+     [java]  Hole 0	0<=STATE_STOPPED
+     [java]  Hole 0	0>=STATE_STOPPED
+     [java]  Hole 0	0 == STATE_SUSPENDED
+     [java]  Hole 0	0 != STATE_SUSPENDED
+     [java]  Hole 0	0>STATE_SUSPENDED
+     [java]  Hole 0	0<STATE_SUSPENDED
+     [java]  Hole 0	0<=STATE_SUSPENDED
+     [java]  Hole 0	0>=STATE_SUSPENDED
+     [java]  Hole 0	0 == STATE_UNSPLIT
+     [java]  Hole 0	0 != STATE_UNSPLIT
+     [java]  Hole 0	0>STATE_UNSPLIT
+     [java]  Hole 0	0<STATE_UNSPLIT
+     [java]  Hole 0	0<=STATE_UNSPLIT
+     [java]  Hole 0	0>=STATE_UNSPLIT
+     [java]  Hole 0	0 == runningState
+     [java]  Hole 0	0 != runningState
+     [java]  Hole 0	0>runningState
+     [java]  Hole 0	0<runningState
+     [java]  Hole 0	0<=runningState
+     [java]  Hole 0	0>=runningState
+     [java]  Hole 0	0 == STATE_RUNNING
+     [java]  Hole 0	0 != STATE_RUNNING
+     [java]  Hole 0	0>STATE_RUNNING
+     [java]  Hole 0	0<STATE_RUNNING
+     [java]  Hole 0	0<=STATE_RUNNING
+     [java]  Hole 0	0>=STATE_RUNNING
+     [java]  Hole 0	0 == STATE_SPLIT
+     [java]  Hole 0	0 != STATE_SPLIT
+     [java]  Hole 0	0>STATE_SPLIT
+     [java]  Hole 0	0<STATE_SPLIT
+     [java]  Hole 0	0<=STATE_SPLIT
+     [java]  Hole 0	0>=STATE_SPLIT
+     [java]  Hole 0	0 == 0
+     [java]  Hole 0	0 != 0
+     [java]  Hole 0	0>0
+     [java]  Hole 0	0<0
+     [java]  Hole 0	0<=0
+     [java]  Hole 0	0>=0
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 488
+
+StopWatch.java-cm-20-1 StopWatch.java-cm-20-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-om-21-1 StopWatch.java-om-21-1
+
+StopWatch.java-om-21-4 StopWatch.java-om-21-4
+
+StopWatch.java-ca-3-0 StopWatch.java-ca-3-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-1-2 StopWatch.java-ca-1-2
+
+StopWatch.java-ca-4-0 StopWatch.java-ca-4-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-21-4 StopWatch.java-cm-21-4
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-21-0 StopWatch.java-cm-21-0
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-om-3-0 StopWatch.java-om-3-0
+
+StopWatch.java-ca-9-3 StopWatch.java-ca-9-3
+
+StopWatch.java-ca-12-3 StopWatch.java-ca-12-3
+
+StopWatch.java-cm-21-3 StopWatch.java-cm-21-3
+
+StopWatch.java-cm-20-5 StopWatch.java-cm-20-5
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-cm-3-2 StopWatch.java-cm-3-2
+
+StopWatch.java-ca-1-1 StopWatch.java-ca-1-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+
+StopWatch.java-ca-11-2 StopWatch.java-ca-11-2
+
+StopWatch.java-cr-20-1 StopWatch.java-cr-20-1
+
+StopWatch.java-ca-11-1 StopWatch.java-ca-11-1
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime<stopTime
+     [java]  Hole 0	startTime<=stopTime
+     [java]  Hole 0	startTime>=stopTime
+     [java]  Hole 0	startTime == null
+     [java]  Hole 0	startTime != null
+     [java]  Hole 0	startTime>null
+     [java]  Hole 0	startTime<null
+     [java]  Hole 0	startTime<=null
+     [java]  Hole 0	startTime>=null
+     [java]  Hole 0	stopTime == startTime
+     [java]  Hole 0	stopTime != startTime
+     [java]  Hole 0	stopTime>startTime
+     [java]  Hole 0	stopTime<startTime
+     [java]  Hole 0	stopTime<=startTime
+     [java]  Hole 0	stopTime>=startTime
+     [java]  Hole 0	stopTime == stopTime
+     [java]  Hole 0	stopTime != stopTime
+     [java]  Hole 0	stopTime>stopTime
+     [java]  Hole 0	stopTime<stopTime
+     [java]  Hole 0	stopTime<=stopTime
+     [java]  Hole 0	stopTime>=stopTime
+     [java]  Hole 0	stopTime == null
+     [java]  Hole 0	stopTime != null
+     [java]  Hole 0	stopTime>null
+     [java]  Hole 0	stopTime<null
+     [java]  Hole 0	stopTime<=null
+     [java]  Hole 0	stopTime>=null
+     [java]  Hole 0	null == startTime
+     [java]  Hole 0	null != startTime
+     [java]  Hole 0	null>startTime
+     [java]  Hole 0	null<startTime
+     [java]  Hole 0	null<=startTime
+     [java]  Hole 0	null>=startTime
+     [java]  Hole 0	null == stopTime
+     [java]  Hole 0	null != stopTime
+     [java]  Hole 0	null>stopTime
+     [java]  Hole 0	null<stopTime
+     [java]  Hole 0	null<=stopTime
+     [java]  Hole 0	null>=stopTime
+     [java]  Hole 0	null == null
+     [java]  Hole 0	null != null
+     [java]  Hole 0	null>null
+     [java]  Hole 0	null<null
+     [java]  Hole 0	null<=null
+     [java]  Hole 0	null>=null
+     [java]  Hole 0	false
+     [java]  Hole 0	true
+     [java] Space: 56
+

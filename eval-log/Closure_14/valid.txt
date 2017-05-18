@@ -1,0 +1,176 @@
+ControlFlowAnalysis.java-om-26-0 16.1935329437
+
+ControlFlowAnalysis.java-om-1-0 18.3269109726
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-39-0 17.6989109516
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-mem-6-4 17.3178498745
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-1-1 17.4867620468
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-am-26-6 18.3160247803
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-6-1 16.5930140018
+
+ControlFlowAnalysis.java-mem-25-5 17.6980400085
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-om-6-0 16.8824629784
+
+ControlFlowAnalysis.java-cr-19-0 16.3417379856
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-25-1 16.7836661339
+
+ControlFlowAnalysis.java-om-25-1 19.3328678608
+
+ControlFlowAnalysis.java-am-6-4 16.952283144
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-om-25-0 16.1986238956
+
+ControlFlowAnalysis.java-am-25-5 17.8875768185
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-45-0 17.2938280106
+
+ControlFlowAnalysis.java-om-39-1 17.2785930634
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	 ==  
+     [java]  Hole 1	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-26-1 17.6534090042
+
+ControlFlowAnalysis.java-cr-26-0 17.0030591488
+
+ControlFlowAnalysis.java-om-5-0 16.8966231346
+
+ControlFlowAnalysis.java-cr-1-3 17.0057470798
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-6-0 16.4505600929
+
+ControlFlowAnalysis.java-om-26-1 17.1426339149
+
+ControlFlowAnalysis.java-om-1-1 18.1946651936
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-mem-2-2 16.909457922
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-mem-26-6 16.8925230503
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-om-23-0 17.7358548641
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	 ==  
+     [java]  Hole 1	Branch.ON_EX
+     [java] Space: 5
+
+ControlFlowAnalysis.java-om-6-1 18.1914319992
+
+ControlFlowAnalysis.java-cr-1-2 17.0142569542
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-om-45-0 16.6967639923
+
+ControlFlowAnalysis.java-cr-5-0 17.458507061
+
+ControlFlowAnalysis.java-am-45-3 16.7243590355
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-mem-45-3 19.4959270954
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-am-2-2 19.9706850052
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-om-1-2 19.5095221996
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-om-1-3 17.7130389214
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-om-39-2 19.2638700008
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	 ==  
+     [java]  Hole 1	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-25-0 17.3970839977
+
+ControlFlowAnalysis.java-cr-23-1 17.8569629192
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-23-0 17.0052649975
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-am-5-3 18.80133605
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-mem-5-3 17.186262846
+     [java] Generate 6 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-cr-1-0 17.6257061958
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	Branch.ON_EX
+     [java] Space: 4
+
+ControlFlowAnalysis.java-om-20-0 17.9265370369
+     [java] Generate 31 candidates for the type class com.google.javascript.jscomp.ControlFlowGraph$Branch: [Branch.ON_TRUE, Branch.ON_FALSE, Branch.UNCOND, Branch.ON_EX, Branch.SYN_BLOCK, Branch.ON_TRUE.ON_TRUE, Branch.ON_TRUE.ON_FALSE, Branch.ON_TRUE.UNCOND, Branch.ON_TRUE.ON_EX, Branch.ON_TRUE.SYN_BLOCK, Branch.ON_FALSE.ON_TRUE, Branch.ON_FALSE.ON_FALSE, Branch.ON_FALSE.UNCOND, Branch.ON_FALSE.ON_EX, Branch.ON_FALSE.SYN_BLOCK, Branch.UNCOND.ON_TRUE, Branch.UNCOND.ON_FALSE, Branch.UNCOND.UNCOND, Branch.UNCOND.ON_EX, Branch.UNCOND.SYN_BLOCK, Branch.ON_EX.ON_TRUE, Branch.ON_EX.ON_FALSE, Branch.ON_EX.UNCOND, Branch.ON_EX.ON_EX, Branch.ON_EX.SYN_BLOCK, Branch.SYN_BLOCK.ON_TRUE, Branch.SYN_BLOCK.ON_FALSE, Branch.SYN_BLOCK.UNCOND, Branch.SYN_BLOCK.ON_EX, Branch.SYN_BLOCK.SYN_BLOCK, null]
+     [java]  Hole 0	 ==  
+     [java]  Hole 1	Branch.ON_EX
+     [java] Space: 4
+

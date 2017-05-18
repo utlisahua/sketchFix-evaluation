@@ -1,0 +1,163 @@
+LightweightMessageFormatter.java-cm-17-6 10.0693070889
+
+LightweightMessageFormatter.java-cm-3-2 10.7125020027
+
+LightweightMessageFormatter.java-cm-19-0 7.82281804085
+
+LightweightMessageFormatter.java-om-17-2 10.2645261288
+
+LightweightMessageFormatter.java-cr-3-1 10.4080851078
+
+LightweightMessageFormatter.java-am-3-10 8.48625779152
+
+LightweightMessageFormatter.java-cm-3-20 10.5044271946
+
+LightweightMessageFormatter.java-am-9-0 10.0095541477
+
+LightweightMessageFormatter.java-cm-17-18 10.6743018627
+
+LightweightMessageFormatter.java-mem-6-0 10.8996560574
+
+LightweightMessageFormatter.java-cm-3-12 10.0285599232
+
+LightweightMessageFormatter.java-ca-20-13 10.5812540054
+
+LightweightMessageFormatter.java-mem-17-7 10.3153808117
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	0
+     [java] Space: 1
+
+LightweightMessageFormatter.java-cm-3-18 10.0594110489
+
+AbstractMessageFormatter.java-am-15-0 11.2567651272
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java]  Hole 0	source
+     [java] Space: 1
+
+LightweightMessageFormatter.java-cm-3-10 10.9388251305
+
+LightweightMessageFormatter.java-mem-17-12 10.2059729099
+
+LightweightMessageFormatter.java-mem-3-2 10.2007210255
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java]  Hole 0	0
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-10-4 10.9497790337
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java]  Hole 0	0
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-3-38 10.7936089039
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java]  Hole 0	b != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-19-12 10.8310678005
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java]  Hole 0	b != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-3-4 10.2290260792
+
+LightweightMessageFormatter.java-cm-3-16 9.42053198814
+
+LightweightMessageFormatter.java-cm-3-8 10.4745299816
+
+LightweightMessageFormatter.java-cm-17-38 10.245844841
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java]  Hole 0	excerpt != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-mem-17-1 10.5212841034
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java]  Hole 0	excerpt != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-3-0 10.5626308918
+
+LightweightMessageFormatter.java-am-24-2 10.2507128716
+
+LightweightMessageFormatter.java-cm-3-22 10.9586970806
+
+LightweightMessageFormatter.java-cm-17-8 10.6194629669
+
+LightweightMessageFormatter.java-cm-3-14 10.0468840599
+
+LightweightMessageFormatter.java-cm-17-27 10.9806718826
+
+LightweightMessageFormatter.java-cm-17-32 10.2536349297
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java]  Hole 0	true
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-22-2 9.9928689003
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java]  Hole 0	true
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-17-36 10.3088431358
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java]  Hole 0	excerptFormatter != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-om-17-1 10.2471489906
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java]  Hole 0	excerptFormatter != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-17-2 10.83273983
+
+LightweightMessageFormatter.java-ca-21-8 7.88533902168
+
+LightweightMessageFormatter.java-cm-3-46 10.604763031
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java]  Hole 0	excerpt != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-17-12 9.94880700111
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java]  Hole 0	excerpt != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-am-3-2 10.8001551628
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java]  Hole 0	0
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-17-49 10.1701760292
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java]  Hole 0	0
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-3-44 10.2597911358
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java]  Hole 0	excerptFormatter != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-6-0 9.73368191719
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java]  Hole 0	excerptFormatter != null
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-3-40 10.5647130013
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java]  Hole 0	true
+     [java] Space: 4
+
+LightweightMessageFormatter.java-am-17-7 9.98542094231
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	0
+     [java] Space: 1
+
+LightweightMessageFormatter.java-cm-17-22 10.386592865
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	0
+     [java] Space: 1
+
+LightweightMessageFormatter.java-cm-17-16 9.86992311478
+
+LightweightMessageFormatter.java-am-3-7 10.5812280178
+
+LightweightMessageFormatter.java-cm-17-0 10.1132290363
+

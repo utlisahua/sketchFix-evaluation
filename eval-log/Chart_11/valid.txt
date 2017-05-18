@@ -1,4 +1,20 @@
-ShapeUtilities.java-mem-5-0 4.60464811325
-ShapeUtilities.java-mem-4-0 4.4664850235
-ShapeUtilities.java-am-4-0 4.82032799721
-ShapeUtilities.java-am-5-0 4.4665389061
+ShapeUtilities.java-am-5-0 8.39263892174
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java]  Hole 0	p2
+     [java] Space: 2
+
+ShapeUtilities.java-mem-5-0 8.44625902176
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java]  Hole 0	p2
+     [java] Space: 2
+
+ShapeUtilities.java-am-4-0 9.72610402107
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java]  Hole 0	p2
+     [java] Space: 2
+
+ShapeUtilities.java-mem-4-0 8.67420601845
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java]  Hole 0	p2
+     [java] Space: 2
+

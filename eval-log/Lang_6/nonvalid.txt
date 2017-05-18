@@ -1,0 +1,757 @@
+StringUtils.java-ca-7-4 StringUtils.java-ca-7-4
+
+CharSequenceTranslator.java-mem-26-0 CharSequenceTranslator.java-mem-26-0
+     [java] Generate 4 candidates for the type int: [consumed, len, pos, 0]
+     [java] Space: 4
+
+StringUtils.java-cm-11-33 StringUtils.java-cm-11-33
+     [java] Generate 4 candidates for the type int: [consumed, len, pos, 0]
+     [java] Space: 4
+
+StringUtils.java-cm-11-19 StringUtils.java-cm-11-19
+     [java] Generate 4 candidates for the type int: [consumed, len, pos, 0]
+     [java] Space: 4
+
+StringUtils.java-ca-5-4 StringUtils.java-ca-5-4
+     [java] Generate 4 candidates for the type int: [consumed, len, pos, 0]
+     [java] Space: 4
+
+StringUtils.java-ca-10-2 StringUtils.java-ca-10-2
+     [java] Generate 4 candidates for the type int: [consumed, len, pos, 0]
+     [java] Space: 4
+
+CharSequenceTranslator.java-mem-25-2 CharSequenceTranslator.java-mem-25-2
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-24 StringUtils.java-cm-11-24
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-ca-13-4 StringUtils.java-ca-13-4
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-7 StringUtils.java-cm-11-7
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-ca-5-6 StringUtils.java-ca-5-6
+
+StringUtils.java-cm-11-25 StringUtils.java-cm-11-25
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-18 StringUtils.java-cm-11-18
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-12 StringUtils.java-cm-11-12
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-ca-13-6 StringUtils.java-ca-13-6
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Space: 68
+
+StringUtils.java-cr-12-0 StringUtils.java-cr-12-0
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Space: 68
+
+CharSequenceTranslator.java-am-26-3 CharSequenceTranslator.java-am-26-3
+
+StringUtils.java-cm-11-9 StringUtils.java-cm-11-9
+
+CharSequenceTranslator.java-cr-26-0 CharSequenceTranslator.java-cr-26-0
+
+StringUtils.java-ca-12-2 StringUtils.java-ca-12-2
+
+StringUtils.java-cm-11-8 StringUtils.java-cm-11-8
+
+StringUtils.java-cm-11-17 StringUtils.java-cm-11-17
+
+CharSequenceTranslator.java-mem-26-4 CharSequenceTranslator.java-mem-26-4
+
+CharSequenceTranslator.java-am-26-1 CharSequenceTranslator.java-am-26-1
+
+StringUtils.java-ca-7-1 StringUtils.java-ca-7-1
+     [java] Generate 4 candidates for the type int: [csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 117
+
+StringUtils.java-ca-6-2 StringUtils.java-ca-6-2
+
+CharSequenceTranslator.java-mem-25-0 CharSequenceTranslator.java-mem-25-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-am-20-0 CharSequenceTranslator.java-am-20-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-ca-12-0 StringUtils.java-ca-12-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-am-23-0 CharSequenceTranslator.java-am-23-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-am-26-2 CharSequenceTranslator.java-am-26-2
+
+StringUtils.java-cm-11-26 StringUtils.java-cm-11-26
+
+StringUtils.java-ca-5-1 StringUtils.java-ca-5-1
+
+StringUtils.java-cm-11-23 StringUtils.java-cm-11-23
+
+StringUtils.java-cm-11-32 StringUtils.java-cm-11-32
+
+StringUtils.java-mem-11-7 StringUtils.java-mem-11-7
+
+StringUtils.java-mem-11-1 StringUtils.java-mem-11-1
+
+StringUtils.java-cm-11-22 StringUtils.java-cm-11-22
+
+StringUtils.java-om-11-0 StringUtils.java-om-11-0
+
+StringUtils.java-cm-11-36 StringUtils.java-cm-11-36
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 10
+
+StringUtils.java-mem-12-2 StringUtils.java-mem-12-2
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 10
+
+CharSequenceTranslator.java-mem-25-1 CharSequenceTranslator.java-mem-25-1
+     [java] Generate 3 candidates for the type int: [len, pos, 0]
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 21
+
+StringUtils.java-cm-11-13 StringUtils.java-cm-11-13
+     [java] Generate 3 candidates for the type int: [len, pos, 0]
+     [java] Space: 3
+
+StringUtils.java-mem-11-4 StringUtils.java-mem-11-4
+     [java] Generate 3 candidates for the type int: [len, pos, 0]
+     [java] Space: 3
+
+StringUtils.java-cm-11-29 StringUtils.java-cm-11-29
+     [java] Generate 3 candidates for the type int: [len, pos, 0]
+     [java] Space: 3
+
+StringEscapeUtils.java-ca-0-7 StringEscapeUtils.java-ca-0-7
+
+StringUtils.java-ca-5-9 StringUtils.java-ca-5-9
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+CharSequenceTranslator.java-mem-18-1 CharSequenceTranslator.java-mem-18-1
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+StringUtils.java-mem-10-1 StringUtils.java-mem-10-1
+     [java] Generate 7 candidates for the type int: [searchLast, searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 7
+
+StringUtils.java-cr-11-4 StringUtils.java-cr-11-4
+     [java] Generate 7 candidates for the type int: [searchLast, searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 7
+
+CharSequenceTranslator.java-ca-25-0 CharSequenceTranslator.java-ca-25-0
+     [java] Generate 7 candidates for the type int: [searchLast, searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 7
+
+CharSequenceTranslator.java-am-26-0 CharSequenceTranslator.java-am-26-0
+     [java] Generate 7 candidates for the type int: [searchLast, searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 7
+
+StringEscapeUtils.java-ca-0-3 StringEscapeUtils.java-ca-0-3
+
+StringUtils.java-ca-13-5 StringUtils.java-ca-13-5
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Generate 4 candidates for the type int: [consumed, len, pos, 0]
+     [java] Space: 22
+
+StringUtils.java-mem-7-0 StringUtils.java-mem-7-0
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Generate 4 candidates for the type int: [consumed, len, pos, 0]
+     [java] Space: 22
+
+StringUtils.java-ca-14-2 StringUtils.java-ca-14-2
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Generate 4 candidates for the type int: [consumed, len, pos, 0]
+     [java] Space: 22
+
+StringUtils.java-ca-12-5 StringUtils.java-ca-12-5
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Generate 4 candidates for the type int: [consumed, len, pos, 0]
+     [java] Space: 76
+
+CharSequenceTranslator.java-mem-15-0 CharSequenceTranslator.java-mem-15-0
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 48
+
+StringUtils.java-ca-11-5 StringUtils.java-ca-11-5
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 14
+
+CharSequenceTranslator.java-ca-23-0 CharSequenceTranslator.java-ca-23-0
+
+CharSequenceTranslator.java-ca-27-0 CharSequenceTranslator.java-ca-27-0
+
+StringUtils.java-cm-11-3 StringUtils.java-cm-11-3
+
+StringUtils.java-mem-11-5 StringUtils.java-mem-11-5
+
+StringUtils.java-cm-11-6 StringUtils.java-cm-11-6
+
+CharSequenceTranslator.java-am-15-0 CharSequenceTranslator.java-am-15-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-mem-11-8 StringUtils.java-mem-11-8
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-ca-5-10 StringUtils.java-ca-5-10
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-21 StringUtils.java-cm-11-21
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-om-11-2 StringUtils.java-om-11-2
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-am-18-0 CharSequenceTranslator.java-am-18-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringEscapeUtils.java-mem-0-1 StringEscapeUtils.java-mem-0-1
+
+StringUtils.java-ca-8-0 StringUtils.java-ca-8-0
+
+StringUtils.java-cm-11-37 StringUtils.java-cm-11-37
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-om-20-0 CharSequenceTranslator.java-om-20-0
+
+StringUtils.java-ca-12-1 StringUtils.java-ca-12-1
+
+StringUtils.java-om-11-3 StringUtils.java-om-11-3
+
+StringUtils.java-cr-11-2 StringUtils.java-cr-11-2
+
+CharSequenceTranslator.java-mem-16-0 CharSequenceTranslator.java-mem-16-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-mem-23-0 CharSequenceTranslator.java-mem-23-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-ca-10-1 StringUtils.java-ca-10-1
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 9
+
+StringUtils.java-cm-11-38 StringUtils.java-cm-11-38
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 9
+
+StringEscapeUtils.java-ca-0-4 StringEscapeUtils.java-ca-0-4
+
+StringUtils.java-am-10-1 StringUtils.java-am-10-1
+     [java] Generate 7 candidates for the type int: [searchLast, searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 7
+
+StringUtils.java-cm-11-4 StringUtils.java-cm-11-4
+     [java] Generate 7 candidates for the type int: [searchLast, searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 7
+
+StringUtils.java-cm-12-10 StringUtils.java-cm-12-10
+     [java] Generate 7 candidates for the type int: [searchLast, searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 7
+
+StringUtils.java-ca-10-0 StringUtils.java-ca-10-0
+
+StringUtils.java-am-11-2 StringUtils.java-am-11-2
+
+StringUtils.java-ca-12-4 StringUtils.java-ca-12-4
+
+StringUtils.java-mem-11-3 StringUtils.java-mem-11-3
+
+StringUtils.java-ca-10-4 StringUtils.java-ca-10-4
+
+CharSequenceTranslator.java-ca-15-0 CharSequenceTranslator.java-ca-15-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringUtils.java-am-12-0 StringUtils.java-am-12-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [cs, null]
+     [java] Space: 2
+
+StringUtils.java-ca-6-1 StringUtils.java-ca-6-1
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [cs, null]
+     [java] Space: 2
+
+StringUtils.java-am-5-0 StringUtils.java-am-5-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [cs, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-cr-20-0 CharSequenceTranslator.java-cr-20-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [cs, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-ca-15-2 CharSequenceTranslator.java-ca-15-2
+
+StringUtils.java-am-11-1 StringUtils.java-am-11-1
+
+StringUtils.java-ca-5-13 StringUtils.java-ca-5-13
+
+StringUtils.java-ca-5-15 StringUtils.java-ca-5-15
+
+StringEscapeUtils.java-ca-0-5 StringEscapeUtils.java-ca-0-5
+
+StringUtils.java-mem-6-0 StringUtils.java-mem-6-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [cs, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-am-16-0 CharSequenceTranslator.java-am-16-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-ca-11-6 StringUtils.java-ca-11-6
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-0 StringUtils.java-cm-11-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-10 StringUtils.java-cm-11-10
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-am-26-4 CharSequenceTranslator.java-am-26-4
+
+CharSequenceTranslator.java-mem-18-0 CharSequenceTranslator.java-mem-18-0
+
+StringUtils.java-cm-12-6 StringUtils.java-cm-12-6
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 10
+
+CharSequenceTranslator.java-mem-19-0 CharSequenceTranslator.java-mem-19-0
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 10
+
+CharSequenceTranslator.java-ca-25-1 CharSequenceTranslator.java-ca-25-1
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 10
+
+StringUtils.java-cm-11-27 StringUtils.java-cm-11-27
+
+CharSequenceTranslator.java-mem-20-0 CharSequenceTranslator.java-mem-20-0
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-ca-8-5 StringUtils.java-ca-8-5
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-ca-6-4 StringUtils.java-ca-6-4
+
+StringUtils.java-ca-7-0 StringUtils.java-ca-7-0
+
+StringUtils.java-ca-11-4 StringUtils.java-ca-11-4
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 11
+
+StringUtils.java-ca-5-8 StringUtils.java-ca-5-8
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 11
+
+StringUtils.java-am-12-2 StringUtils.java-am-12-2
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-ca-14-1 StringUtils.java-ca-14-1
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-am-11-7 StringUtils.java-am-11-7
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-cr-11-3 StringUtils.java-cr-11-3
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-om-11-4 StringUtils.java-om-11-4
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 7
+
+CharSequenceTranslator.java-cr-16-0 CharSequenceTranslator.java-cr-16-0
+
+StringUtils.java-am-11-3 StringUtils.java-am-11-3
+
+StringUtils.java-cm-12-5 StringUtils.java-cm-12-5
+
+StringUtils.java-ca-13-2 StringUtils.java-ca-13-2
+
+StringUtils.java-cm-11-30 StringUtils.java-cm-11-30
+
+StringUtils.java-cm-11-16 StringUtils.java-cm-11-16
+
+StringUtils.java-ca-9-0 StringUtils.java-ca-9-0
+
+StringUtils.java-ca-13-7 StringUtils.java-ca-13-7
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 41
+
+CharSequenceTranslator.java-am-25-1 CharSequenceTranslator.java-am-25-1
+     [java] Generate 3 candidates for the type int: [len, pos, 0]
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Space: 69
+
+StringEscapeUtils.java-mem-0-0 StringEscapeUtils.java-mem-0-0
+
+StringUtils.java-ca-13-3 StringUtils.java-ca-13-3
+     [java] Generate 7 candidates for the type int: [searchLast, searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 360
+
+StringUtils.java-cr-11-0 StringUtils.java-cr-11-0
+
+StringUtils.java-mem-12-0 StringUtils.java-mem-12-0
+
+CharSequenceTranslator.java-ca-24-0 CharSequenceTranslator.java-ca-24-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+CharSequenceTranslator.java-cr-21-0 CharSequenceTranslator.java-cr-21-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+CharSequenceTranslator.java-mem-21-0 CharSequenceTranslator.java-mem-21-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringUtils.java-ca-11-1 StringUtils.java-ca-11-1
+     [java] Generate 1 candidates for the type char: [null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 9
+
+CharSequenceTranslator.java-mem-26-2 CharSequenceTranslator.java-mem-26-2
+     [java] Generate 1 candidates for the type char: [null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 9
+
+StringUtils.java-ca-6-3 StringUtils.java-ca-6-3
+     [java] Generate 1 candidates for the type char: [null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 9
+
+StringUtils.java-ca-9-2 StringUtils.java-ca-9-2
+
+CharSequenceTranslator.java-om-16-0 CharSequenceTranslator.java-om-16-0
+
+CharSequenceTranslator.java-ca-27-3 CharSequenceTranslator.java-ca-27-3
+
+StringUtils.java-mem-11-6 StringUtils.java-mem-11-6
+
+CharSequenceTranslator.java-cm-26-1 CharSequenceTranslator.java-cm-26-1
+
+StringUtils.java-ca-8-2 StringUtils.java-ca-8-2
+
+StringUtils.java-am-12-1 StringUtils.java-am-12-1
+
+StringUtils.java-om-12-2 StringUtils.java-om-12-2
+
+StringUtils.java-cm-12-7 StringUtils.java-cm-12-7
+
+CharSequenceTranslator.java-ca-18-0 CharSequenceTranslator.java-ca-18-0
+
+StringUtils.java-ca-14-4 StringUtils.java-ca-14-4
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Space: 34
+
+StringUtils.java-cm-11-35 StringUtils.java-cm-11-35
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Space: 34
+
+StringUtils.java-mem-12-1 StringUtils.java-mem-12-1
+
+CharSequenceTranslator.java-mem-26-1 CharSequenceTranslator.java-mem-26-1
+
+StringUtils.java-mem-11-2 StringUtils.java-mem-11-2
+
+StringUtils.java-ca-6-0 StringUtils.java-ca-6-0
+
+StringUtils.java-mem-9-0 StringUtils.java-mem-9-0
+     [java] Generate 6 candidates for the type int: [searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 6
+
+StringUtils.java-ca-10-3 StringUtils.java-ca-10-3
+     [java] Generate 6 candidates for the type int: [searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 6
+
+StringUtils.java-ca-8-4 StringUtils.java-ca-8-4
+     [java] Generate 6 candidates for the type int: [searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 6
+
+StringEscapeUtils.java-ca-0-6 StringEscapeUtils.java-ca-0-6
+
+StringUtils.java-ca-9-4 StringUtils.java-ca-9-4
+
+StringUtils.java-am-11-0 StringUtils.java-am-11-0
+
+StringUtils.java-cm-12-8 StringUtils.java-cm-12-8
+
+StringUtils.java-ca-11-7 StringUtils.java-ca-11-7
+
+StringUtils.java-cm-11-34 StringUtils.java-cm-11-34
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringUtils.java-mem-10-0 StringUtils.java-mem-10-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringEscapeUtils.java-ca-0-1 StringEscapeUtils.java-ca-0-1
+
+CharSequenceTranslator.java-am-25-2 CharSequenceTranslator.java-am-25-2
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+StringUtils.java-mem-5-0 StringUtils.java-mem-5-0
+     [java] Generate 2 candidates for the type class java.io.Writer: [out, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-am-19-0 CharSequenceTranslator.java-am-19-0
+
+CharSequenceTranslator.java-am-17-0 CharSequenceTranslator.java-am-17-0
+
+StringUtils.java-ca-5-2 StringUtils.java-ca-5-2
+
+StringEscapeUtils.java-am-0-0 StringEscapeUtils.java-am-0-0
+
+StringUtils.java-am-6-0 StringUtils.java-am-6-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [cs, null]
+     [java] Space: 2
+
+StringEscapeUtils.java-am-0-1 StringEscapeUtils.java-am-0-1
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [cs, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-11 StringUtils.java-cm-11-11
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [cs, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-15 StringUtils.java-cm-11-15
+
+StringUtils.java-ca-5-3 StringUtils.java-ca-5-3
+
+CharSequenceTranslator.java-ca-23-1 CharSequenceTranslator.java-ca-23-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringUtils.java-ca-8-3 StringUtils.java-ca-8-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringUtils.java-ca-13-1 StringUtils.java-ca-13-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringUtils.java-ca-11-2 StringUtils.java-ca-11-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringUtils.java-cm-12-4 StringUtils.java-cm-12-4
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringUtils.java-ca-7-3 StringUtils.java-ca-7-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringEscapeUtils.java-ca-0-2 StringEscapeUtils.java-ca-0-2
+
+StringUtils.java-ca-7-2 StringUtils.java-ca-7-2
+
+StringUtils.java-am-7-0 StringUtils.java-am-7-0
+     [java] Generate 4 candidates for the type int: [csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 4
+
+StringUtils.java-cm-12-9 StringUtils.java-cm-12-9
+     [java] Generate 4 candidates for the type int: [csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 4
+
+StringUtils.java-cm-11-20 StringUtils.java-cm-11-20
+     [java] Generate 4 candidates for the type int: [csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 4
+
+StringUtils.java-cm-11-1 StringUtils.java-cm-11-1
+
+StringUtils.java-cm-11-28 StringUtils.java-cm-11-28
+
+CharSequenceTranslator.java-om-26-0 CharSequenceTranslator.java-om-26-0
+
+StringUtils.java-om-11-1 StringUtils.java-om-11-1
+
+StringUtils.java-ca-6-5 StringUtils.java-ca-6-5
+
+CharSequenceTranslator.java-mem-17-0 CharSequenceTranslator.java-mem-17-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-mem-15-1 CharSequenceTranslator.java-mem-15-1
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-cm-11-14 StringUtils.java-cm-11-14
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-ca-27-2 CharSequenceTranslator.java-ca-27-2
+
+StringUtils.java-ca-5-12 StringUtils.java-ca-5-12
+
+StringUtils.java-am-9-0 StringUtils.java-am-9-0
+
+StringUtils.java-ca-10-5 StringUtils.java-ca-10-5
+     [java] Generate 2 candidates for the type class java.lang.String: [cs, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+CharSequenceTranslator.java-am-21-0 CharSequenceTranslator.java-am-21-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [cs, null]
+     [java] Space: 11
+
+StringUtils.java-ca-9-1 StringUtils.java-ca-9-1
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [cs, null]
+     [java] Space: 11
+
+CharSequenceTranslator.java-ca-19-1 CharSequenceTranslator.java-ca-19-1
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-am-11-4 StringUtils.java-am-11-4
+
+StringUtils.java-cm-11-5 StringUtils.java-cm-11-5
+
+StringUtils.java-cm-12-2 StringUtils.java-cm-12-2
+     [java] Generate 3 candidates for the type int: [INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 56
+
+StringUtils.java-om-12-0 StringUtils.java-om-12-0
+     [java] Generate 3 candidates for the type int: [INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Space: 56
+
+StringUtils.java-cm-12-11 StringUtils.java-cm-12-11
+
+CharSequenceTranslator.java-am-25-0 CharSequenceTranslator.java-am-25-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-ca-11-3 StringUtils.java-ca-11-3
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-cm-12-0 StringUtils.java-cm-12-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 11
+
+StringUtils.java-mem-11-0 StringUtils.java-mem-11-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 11
+
+StringUtils.java-ca-5-11 StringUtils.java-ca-5-11
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Space: 35
+
+StringUtils.java-ca-14-0 StringUtils.java-ca-14-0
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Space: 35
+
+StringUtils.java-am-11-8 StringUtils.java-am-11-8
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+StringUtils.java-om-12-1 StringUtils.java-om-12-1
+     [java] Generate 2 candidates for the type interface java.lang.CharSequence: [input, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-am-18-1 CharSequenceTranslator.java-am-18-1
+     [java] Generate 2 candidates for the type class java.io.StringWriter: [writer, null]
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Space: 11
+
+StringUtils.java-cr-12-1 StringUtils.java-cr-12-1
+     [java] Generate 2 candidates for the type class java.io.StringWriter: [writer, null]
+     [java] Space: 2
+
+StringUtils.java-ca-5-0 StringUtils.java-ca-5-0
+     [java] Generate 2 candidates for the type class java.io.StringWriter: [writer, null]
+     [java] Space: 2
+
+CharSequenceTranslator.java-mem-26-3 CharSequenceTranslator.java-mem-26-3
+
+StringUtils.java-cm-12-3 StringUtils.java-cm-12-3
+
+StringUtils.java-am-11-5 StringUtils.java-am-11-5
+
+CharSequenceTranslator.java-om-21-0 CharSequenceTranslator.java-om-21-0
+
+StringUtils.java-ca-5-7 StringUtils.java-ca-5-7
+     [java] Generate 7 candidates for the type int: [searchLast, searchLen, csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 361
+
+StringUtils.java-ca-5-14 StringUtils.java-ca-5-14
+
+StringUtils.java-cm-11-2 StringUtils.java-cm-11-2
+
+CharSequenceTranslator.java-ca-24-1 CharSequenceTranslator.java-ca-24-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+StringEscapeUtils.java-ca-0-0 StringEscapeUtils.java-ca-0-0
+
+StringUtils.java-ca-5-5 StringUtils.java-ca-5-5
+
+StringUtils.java-ca-12-3 StringUtils.java-ca-12-3
+     [java] Generate 3 candidates for the type int: [INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 66
+
+CharSequenceTranslator.java-cm-26-0 CharSequenceTranslator.java-cm-26-0
+     [java] Generate 3 candidates for the type int: [INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 66
+
+StringUtils.java-am-11-6 StringUtils.java-am-11-6
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+

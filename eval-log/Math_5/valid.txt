@@ -1,30 +1,133 @@
-Complex.java-ca-5-1 1.16238808632
-Complex.java-cm-7-1 0.776226043701
-Complex.java-cm-8-4 0.795277833939
-Complex.java-ca-4-3 1.09601187706
-Complex.java-ca-3-3 0.771541118622
-Complex.java-om-1-0 0.840466022491
-Complex.java-ca-8-5 1.27840590477
-Complex.java-cm-7-6 0.881726980209
-Complex.java-ca-0-4 0.890460968018
-Complex.java-cm-4-10 1.18409895897
-Complex.java-ca-2-5 0.830335855484
-Complex.java-cm-8-2 0.828301906586
-Complex.java-ca-0-1 1.01888108253
-Complex.java-ca-6-1 0.662672042847
-Complex.java-ca-2-3 0.672612905502
-Complex.java-ca-7-1 1.12735199928
-Complex.java-cm-4-11 0.796803951263
-Complex.java-ca-4-5 0.792636156082
-Complex.java-ca-4-1 1.09238791466
-Complex.java-cr-6-1 0.790235042572
-Complex.java-mem-3-2 0.996912956238
-Complex.java-cm-4-9 0.673069953918
-Complex.java-mem-6-2 0.631049871445
-Complex.java-ca-0-5 0.624214887619
-Complex.java-ca-6-7 1.13410305977
-Complex.java-cm-4-6 0.751681804657
-Complex.java-cm-2-3 0.74284696579
-Complex.java-ca-0-3 1.14805293083
-Complex.java-ca-4-0 0.794563055038
-Complex.java-cm-3-15 0.862393140793
+Complex.java-am-3-2 1.53280711174
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java] Space: 1
+
+Complex.java-ca-3-6 1.01417994499
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java] Space: 1
+
+Complex.java-ca-8-1 1.75143504143
+     [java] Generate 8 candidates for the type class org.apache.commons.math3.complex.Complex: [c, other, INF, ZERO, ONE, I, NaN, null]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	c == INF
+     [java]  Hole 1	isNaN
+     [java] Space: 9
+
+Complex.java-cm-3-3 1.2988820076
+     [java] Generate 8 candidates for the type class org.apache.commons.math3.complex.Complex: [c, other, INF, ZERO, ONE, I, NaN, null]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	c == INF
+     [java]  Hole 1	isNaN
+     [java] Space: 9
+
+Complex.java-mem-3-2 1.54791998863
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java] Space: 1
+
+Complex.java-cm-4-4 0.995781898499
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java] Space: 1
+
+Complex.java-ca-5-7 1.01129984856
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java] Space: 1
+
+Complex.java-ca-4-5 1.81613707542
+     [java] Generate 3 candidates for the type double: [imaginary, real, 0]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	true
+     [java]  Hole 1	imaginary != real
+     [java] Space: 14
+
+Complex.java-ca-3-2 1.31239008904
+     [java] Generate 3 candidates for the type double: [imaginary, real, 0]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	imaginary != real
+     [java]  Hole 1	true
+     [java] Space: 14
+
+Complex.java-ca-6-7 1.63273000717
+     [java] Generate 7 candidates for the type class org.apache.commons.math3.complex.Complex: [other, INF, ZERO, ONE, I, NaN, null]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	isNaN
+     [java]  Hole 1	other == INF
+     [java] Space: 4
+
+Complex.java-mem-4-2 1.10130810738
+     [java] Generate 7 candidates for the type class org.apache.commons.math3.complex.Complex: [other, INF, ZERO, ONE, I, NaN, null]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	isNaN
+     [java]  Hole 1	other == INF
+     [java] Space: 4
+
+Complex.java-ca-0-3 1.70345807076
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java]  Hole 1	true
+     [java] Space: 8
+
+Complex.java-cm-3-0 1.1942961216
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java]  Hole 1	true
+     [java] Space: 8
+
+Complex.java-ca-6-1 1.76041507721
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	true
+     [java]  Hole 1	isInfinite != isNaN
+     [java] Space: 10
+
+Complex.java-ca-0-7 1.2255730629
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	true
+     [java]  Hole 1	isInfinite != isNaN
+     [java] Space: 10
+
+Complex.java-ca-4-3 1.74481201172
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	true
+     [java]  Hole 1	isInfinite != isNaN
+     [java] Space: 10
+
+Complex.java-ca-4-1 1.23817896843
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java] Generate 4 candidates for the type boolean: [isInfinite, isNaN, false, true]
+     [java]  Hole 0	isInfinite != isNaN
+     [java]  Hole 1	true
+     [java] Space: 10
+
+Complex.java-ca-0-1 1.62283706665
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java]  Hole 1	false != true
+     [java] Space: 4
+
+Complex.java-ca-0-4 1.08283495903
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java]  Hole 1	false != true
+     [java] Space: 4
+
+Complex.java-cm-4-8 1.73730897903
+     [java] Generate 8 candidates for the type class org.apache.commons.math3.complex.Complex: [c, other, INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	c == INF
+     [java] Space: 5
+
+Complex.java-cm-6-18 1.12186098099
+     [java] Generate 8 candidates for the type class org.apache.commons.math3.complex.Complex: [c, other, INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	c == INF
+     [java] Space: 5
+

@@ -1,0 +1,17 @@
+Week.java-am-14-1 8.09847402573
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java]  Hole 0	zone
+     [java] Space: 1
+
+Week.java-mem-14-1 10.0732610226
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java]  Hole 0	zone
+     [java] Space: 1
+
+Week.java-mem-14-2 8.28290891647
+     [java] Generate 2 candidates for the type class java.util.Date: [time, null]
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java]  Hole 0	time
+     [java]  Hole 1	zone
+     [java] Space: 1
+

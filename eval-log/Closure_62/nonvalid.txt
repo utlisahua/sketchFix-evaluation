@@ -1,0 +1,1664 @@
+LightweightMessageFormatter.java-ca-8-2 LightweightMessageFormatter.java-ca-8-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-19-1 LightweightMessageFormatter.java-cm-19-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-17-8 LightweightMessageFormatter.java-am-17-8
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-3-10 LightweightMessageFormatter.java-ca-3-10
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-2-4 LightweightMessageFormatter.java-ca-2-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-1-8 LightweightMessageFormatter.java-ca-1-8
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-2-0 LightweightMessageFormatter.java-mem-2-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-19-1 LightweightMessageFormatter.java-ca-19-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-17-1 LightweightMessageFormatter.java-ca-17-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-3-45 LightweightMessageFormatter.java-cm-3-45
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-am-3-9 LightweightMessageFormatter.java-am-3-9
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-am-4-1 LightweightMessageFormatter.java-am-4-1
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-19-5 LightweightMessageFormatter.java-ca-19-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+JSError.java-ca-27-7 JSError.java-ca-27-7
+
+LightweightMessageFormatter.java-am-25-1 LightweightMessageFormatter.java-am-25-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-3-1 LightweightMessageFormatter.java-cm-3-1
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java] Space: 26
+
+LightweightMessageFormatter.java-am-0-0 LightweightMessageFormatter.java-am-0-0
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java] Space: 26
+
+LightweightMessageFormatter.java-am-3-8 LightweightMessageFormatter.java-am-3-8
+
+LightweightMessageFormatter.java-ca-18-5 LightweightMessageFormatter.java-ca-18-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-17-7 LightweightMessageFormatter.java-cm-17-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-13-3 LightweightMessageFormatter.java-ca-13-3
+
+LightweightMessageFormatter.java-ca-2-5 LightweightMessageFormatter.java-ca-2-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-13-7 LightweightMessageFormatter.java-ca-13-7
+
+LightweightMessageFormatter.java-cm-17-41 LightweightMessageFormatter.java-cm-17-41
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-19-7 LightweightMessageFormatter.java-cm-19-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-9-1 LightweightMessageFormatter.java-ca-9-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-17-25 LightweightMessageFormatter.java-cm-17-25
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-23 LightweightMessageFormatter.java-cm-17-23
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-4-1 LightweightMessageFormatter.java-ca-4-1
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-7-9 LightweightMessageFormatter.java-ca-7-9
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-8-3 LightweightMessageFormatter.java-ca-8-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-am-17-15 LightweightMessageFormatter.java-am-17-15
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-am-10-0 LightweightMessageFormatter.java-am-10-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-8-0 LightweightMessageFormatter.java-mem-8-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-21-6 LightweightMessageFormatter.java-ca-21-6
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-3-5 LightweightMessageFormatter.java-mem-3-5
+
+LightweightMessageFormatter.java-ca-3-5 LightweightMessageFormatter.java-ca-3-5
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-13-4 LightweightMessageFormatter.java-ca-13-4
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-25-7 LightweightMessageFormatter.java-ca-25-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+AbstractMessageFormatter.java-ca-15-7 AbstractMessageFormatter.java-ca-15-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-1-0 LightweightMessageFormatter.java-ca-1-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-19 LightweightMessageFormatter.java-cm-3-19
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-9-4 LightweightMessageFormatter.java-ca-9-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-26 LightweightMessageFormatter.java-cm-17-26
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-17-4 LightweightMessageFormatter.java-am-17-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-1-6 LightweightMessageFormatter.java-ca-1-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-26 LightweightMessageFormatter.java-cm-3-26
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+JSError.java-ca-26-0 JSError.java-ca-26-0
+
+LightweightMessageFormatter.java-ca-19-0 LightweightMessageFormatter.java-ca-19-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-25-6 LightweightMessageFormatter.java-ca-25-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-om-9-0 LightweightMessageFormatter.java-om-9-0
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-43 LightweightMessageFormatter.java-cm-3-43
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-4-3 LightweightMessageFormatter.java-ca-4-3
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-0-2 LightweightMessageFormatter.java-ca-0-2
+
+LightweightMessageFormatter.java-ca-7-7 LightweightMessageFormatter.java-ca-7-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-9-5 LightweightMessageFormatter.java-ca-9-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-16-0 LightweightMessageFormatter.java-ca-16-0
+
+LightweightMessageFormatter.java-ca-22-5 LightweightMessageFormatter.java-ca-22-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-18-6 LightweightMessageFormatter.java-ca-18-6
+
+LightweightMessageFormatter.java-ca-6-2 LightweightMessageFormatter.java-ca-6-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-22-9 LightweightMessageFormatter.java-ca-22-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-om-3-0 LightweightMessageFormatter.java-om-3-0
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-20-1 LightweightMessageFormatter.java-ca-20-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-3-7 LightweightMessageFormatter.java-ca-3-7
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-19-8 LightweightMessageFormatter.java-cm-19-8
+
+LightweightMessageFormatter.java-ca-13-12 LightweightMessageFormatter.java-ca-13-12
+
+LightweightMessageFormatter.java-ca-21-9 LightweightMessageFormatter.java-ca-21-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-8-1 LightweightMessageFormatter.java-ca-8-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-2-6 LightweightMessageFormatter.java-ca-2-6
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-20-6 LightweightMessageFormatter.java-ca-20-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-21-1 LightweightMessageFormatter.java-ca-21-1
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-24-5 LightweightMessageFormatter.java-ca-24-5
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-11 LightweightMessageFormatter.java-cm-3-11
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-10-9 LightweightMessageFormatter.java-ca-10-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-am-1-0 LightweightMessageFormatter.java-am-1-0
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-9-9 LightweightMessageFormatter.java-ca-9-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-25-2 LightweightMessageFormatter.java-ca-25-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-3-8 LightweightMessageFormatter.java-ca-3-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-am-17-5 LightweightMessageFormatter.java-am-17-5
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 2
+
+JSError.java-ca-26-9 JSError.java-ca-26-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.DiagnosticType: [type, null]
+     [java] Generate 3 candidates for the type int: [charno, lineNumber, 0]
+     [java] Space: 14
+
+LightweightMessageFormatter.java-ca-25-9 LightweightMessageFormatter.java-ca-25-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-9-0 LightweightMessageFormatter.java-cm-9-0
+
+LightweightMessageFormatter.java-cm-3-32 LightweightMessageFormatter.java-cm-3-32
+
+LightweightMessageFormatter.java-ca-20-9 LightweightMessageFormatter.java-ca-20-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-10-3 LightweightMessageFormatter.java-ca-10-3
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-20-14 LightweightMessageFormatter.java-ca-20-14
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-18-4 LightweightMessageFormatter.java-ca-18-4
+
+LightweightMessageFormatter.java-ca-20-15 LightweightMessageFormatter.java-ca-20-15
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+AbstractMessageFormatter.java-mem-23-0 AbstractMessageFormatter.java-mem-23-0
+
+LightweightMessageFormatter.java-am-20-0 LightweightMessageFormatter.java-am-20-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-9-7 LightweightMessageFormatter.java-ca-9-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-am-19-2 LightweightMessageFormatter.java-am-19-2
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-7-8 LightweightMessageFormatter.java-ca-7-8
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-30 LightweightMessageFormatter.java-cm-17-30
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-8-0 LightweightMessageFormatter.java-am-8-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-1-7 LightweightMessageFormatter.java-ca-1-7
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+AbstractMessageFormatter.java-mem-15-0 AbstractMessageFormatter.java-mem-15-0
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-10-1 LightweightMessageFormatter.java-ca-10-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-mem-3-0 LightweightMessageFormatter.java-mem-3-0
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 2
+
+AbstractMessageFormatter.java-ca-15-1 AbstractMessageFormatter.java-ca-15-1
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 6
+
+LightweightMessageFormatter.java-ca-6-8 LightweightMessageFormatter.java-ca-6-8
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-17-14 LightweightMessageFormatter.java-am-17-14
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+JSError.java-ca-27-3 JSError.java-ca-27-3
+
+LightweightMessageFormatter.java-cm-17-13 LightweightMessageFormatter.java-cm-17-13
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-17-14 LightweightMessageFormatter.java-mem-17-14
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 1
+
+LightweightMessageFormatter.java-ca-20-12 LightweightMessageFormatter.java-ca-20-12
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 1
+
+LightweightMessageFormatter.java-ca-7-1 LightweightMessageFormatter.java-ca-7-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-am-3-0 LightweightMessageFormatter.java-am-3-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-17-8 LightweightMessageFormatter.java-ca-17-8
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-27 LightweightMessageFormatter.java-cm-3-27
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+JSError.java-ca-27-0 JSError.java-ca-27-0
+
+LightweightMessageFormatter.java-cm-3-28 LightweightMessageFormatter.java-cm-3-28
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-3-35 LightweightMessageFormatter.java-cm-3-35
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-8-7 LightweightMessageFormatter.java-ca-8-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-10-6 LightweightMessageFormatter.java-ca-10-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+JSError.java-ca-26-7 JSError.java-ca-26-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 3 candidates for the type int: [charno, lineNumber, 0]
+     [java] Space: 14
+
+JSError.java-ca-27-4 JSError.java-ca-27-4
+
+LightweightMessageFormatter.java-am-2-1 LightweightMessageFormatter.java-am-2-1
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-22-0 LightweightMessageFormatter.java-mem-22-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-22-8 LightweightMessageFormatter.java-ca-22-8
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-19-15 LightweightMessageFormatter.java-cm-19-15
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-6-7 LightweightMessageFormatter.java-ca-6-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-22-0 LightweightMessageFormatter.java-am-22-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-24-3 LightweightMessageFormatter.java-ca-24-3
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+JSError.java-ca-27-2 JSError.java-ca-27-2
+
+LightweightMessageFormatter.java-mem-4-0 LightweightMessageFormatter.java-mem-4-0
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.JSError: [error, null]
+     [java] Space: 2
+
+JSError.java-ca-27-1 JSError.java-ca-27-1
+
+LightweightMessageFormatter.java-cm-17-19 LightweightMessageFormatter.java-cm-17-19
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-17-3 LightweightMessageFormatter.java-am-17-3
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-9-0 LightweightMessageFormatter.java-ca-9-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-9-4 LightweightMessageFormatter.java-cm-9-4
+
+LightweightMessageFormatter.java-om-3-3 LightweightMessageFormatter.java-om-3-3
+
+LightweightMessageFormatter.java-ca-13-11 LightweightMessageFormatter.java-ca-13-11
+
+LightweightMessageFormatter.java-ca-20-11 LightweightMessageFormatter.java-ca-20-11
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-mem-17-2 LightweightMessageFormatter.java-mem-17-2
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-3-29 LightweightMessageFormatter.java-cm-3-29
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-19-14 LightweightMessageFormatter.java-cm-19-14
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-7-0 LightweightMessageFormatter.java-ca-7-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-19-3 LightweightMessageFormatter.java-mem-19-3
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-3-2 LightweightMessageFormatter.java-ca-3-2
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-17-6 LightweightMessageFormatter.java-mem-17-6
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-22-4 LightweightMessageFormatter.java-ca-22-4
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-3-1 LightweightMessageFormatter.java-mem-3-1
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-am-19-0 LightweightMessageFormatter.java-am-19-0
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-om-19-1 LightweightMessageFormatter.java-om-19-1
+
+AbstractMessageFormatter.java-ca-15-6 AbstractMessageFormatter.java-ca-15-6
+
+LightweightMessageFormatter.java-cr-3-2 LightweightMessageFormatter.java-cr-3-2
+
+LightweightMessageFormatter.java-mem-0-0 LightweightMessageFormatter.java-mem-0-0
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.JSError: [error, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cr-3-3 LightweightMessageFormatter.java-cr-3-3
+
+LightweightMessageFormatter.java-ca-19-9 LightweightMessageFormatter.java-ca-19-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-24-2 LightweightMessageFormatter.java-ca-24-2
+
+LightweightMessageFormatter.java-mem-17-0 LightweightMessageFormatter.java-mem-17-0
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-0-7 LightweightMessageFormatter.java-ca-0-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-17-28 LightweightMessageFormatter.java-cm-17-28
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cr-17-3 LightweightMessageFormatter.java-cr-17-3
+
+LightweightMessageFormatter.java-cm-3-21 LightweightMessageFormatter.java-cm-3-21
+
+LightweightMessageFormatter.java-ca-19-4 LightweightMessageFormatter.java-ca-19-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-3-5 LightweightMessageFormatter.java-am-3-5
+
+LightweightMessageFormatter.java-cm-17-45 LightweightMessageFormatter.java-cm-17-45
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-3-4 LightweightMessageFormatter.java-mem-3-4
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-24-3 LightweightMessageFormatter.java-mem-24-3
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-17-3 LightweightMessageFormatter.java-mem-17-3
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-16-2 LightweightMessageFormatter.java-ca-16-2
+
+LightweightMessageFormatter.java-cr-19-1 LightweightMessageFormatter.java-cr-19-1
+
+LightweightMessageFormatter.java-ca-13-1 LightweightMessageFormatter.java-ca-13-1
+
+LightweightMessageFormatter.java-ca-0-3 LightweightMessageFormatter.java-ca-0-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-mem-1-0 LightweightMessageFormatter.java-mem-1-0
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-3-0 LightweightMessageFormatter.java-ca-3-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+LightweightMessageFormatter.java-ca-6-6 LightweightMessageFormatter.java-ca-6-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-13-8 LightweightMessageFormatter.java-ca-13-8
+
+LightweightMessageFormatter.java-mem-20-0 LightweightMessageFormatter.java-mem-20-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-1-2 LightweightMessageFormatter.java-ca-1-2
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-13-9 LightweightMessageFormatter.java-ca-13-9
+
+LightweightMessageFormatter.java-ca-13-2 LightweightMessageFormatter.java-ca-13-2
+
+LightweightMessageFormatter.java-am-13-0 LightweightMessageFormatter.java-am-13-0
+
+LightweightMessageFormatter.java-ca-6-3 LightweightMessageFormatter.java-ca-6-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-cm-19-9 LightweightMessageFormatter.java-cm-19-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-7-6 LightweightMessageFormatter.java-ca-7-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-13 LightweightMessageFormatter.java-cm-3-13
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java] Space: 26
+
+LightweightMessageFormatter.java-am-24-1 LightweightMessageFormatter.java-am-24-1
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-2-3 LightweightMessageFormatter.java-ca-2-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+AbstractMessageFormatter.java-ca-15-4 AbstractMessageFormatter.java-ca-15-4
+
+LightweightMessageFormatter.java-mem-17-13 LightweightMessageFormatter.java-mem-17-13
+
+LightweightMessageFormatter.java-ca-18-3 LightweightMessageFormatter.java-ca-18-3
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-17-2 LightweightMessageFormatter.java-ca-17-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-16-3 LightweightMessageFormatter.java-ca-16-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-22-6 LightweightMessageFormatter.java-ca-22-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-15 LightweightMessageFormatter.java-cm-3-15
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-21-0 LightweightMessageFormatter.java-ca-21-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-19-2 LightweightMessageFormatter.java-cm-19-2
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-19-1 LightweightMessageFormatter.java-mem-19-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-3-8 LightweightMessageFormatter.java-mem-3-8
+
+LightweightMessageFormatter.java-cr-17-0 LightweightMessageFormatter.java-cr-17-0
+
+LightweightMessageFormatter.java-am-24-0 LightweightMessageFormatter.java-am-24-0
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-19-2 LightweightMessageFormatter.java-ca-19-2
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-1-3 LightweightMessageFormatter.java-ca-1-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-4-2 LightweightMessageFormatter.java-ca-4-2
+
+LightweightMessageFormatter.java-cm-17-21 LightweightMessageFormatter.java-cm-17-21
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-13-6 LightweightMessageFormatter.java-ca-13-6
+
+LightweightMessageFormatter.java-cm-17-43 LightweightMessageFormatter.java-cm-17-43
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-3-31 LightweightMessageFormatter.java-cm-3-31
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-am-19-3 LightweightMessageFormatter.java-am-19-3
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-17-3 LightweightMessageFormatter.java-cm-17-3
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-14 LightweightMessageFormatter.java-cm-17-14
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-25-1 LightweightMessageFormatter.java-mem-25-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-3-17 LightweightMessageFormatter.java-cm-3-17
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-17-37 LightweightMessageFormatter.java-cm-17-37
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-17-4 LightweightMessageFormatter.java-ca-17-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-19-6 LightweightMessageFormatter.java-ca-19-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-24-1 LightweightMessageFormatter.java-mem-24-1
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+AbstractMessageFormatter.java-ca-15-3 AbstractMessageFormatter.java-ca-15-3
+
+LightweightMessageFormatter.java-ca-1-4 LightweightMessageFormatter.java-ca-1-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-17-6 LightweightMessageFormatter.java-am-17-6
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-3-7 LightweightMessageFormatter.java-mem-3-7
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-17-42 LightweightMessageFormatter.java-cm-17-42
+
+LightweightMessageFormatter.java-cm-19-11 LightweightMessageFormatter.java-cm-19-11
+
+LightweightMessageFormatter.java-cm-17-35 LightweightMessageFormatter.java-cm-17-35
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-25-8 LightweightMessageFormatter.java-ca-25-8
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-9-1 LightweightMessageFormatter.java-cm-9-1
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-9-2 LightweightMessageFormatter.java-ca-9-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-om-19-0 LightweightMessageFormatter.java-om-19-0
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-17-29 LightweightMessageFormatter.java-cm-17-29
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-0-5 LightweightMessageFormatter.java-ca-0-5
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-9-8 LightweightMessageFormatter.java-ca-9-8
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-3-9 LightweightMessageFormatter.java-ca-3-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-19-2 LightweightMessageFormatter.java-mem-19-2
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-17-1 LightweightMessageFormatter.java-cm-17-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-20-2 LightweightMessageFormatter.java-ca-20-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-am-17-9 LightweightMessageFormatter.java-am-17-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-21-3 LightweightMessageFormatter.java-ca-21-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-25-4 LightweightMessageFormatter.java-ca-25-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-2-8 LightweightMessageFormatter.java-ca-2-8
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-24 LightweightMessageFormatter.java-cm-3-24
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+LightweightMessageFormatter.java-cm-3-41 LightweightMessageFormatter.java-cm-3-41
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-om-3-2 LightweightMessageFormatter.java-om-3-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-9-2 LightweightMessageFormatter.java-cm-9-2
+
+LightweightMessageFormatter.java-cm-19-16 LightweightMessageFormatter.java-cm-19-16
+
+LightweightMessageFormatter.java-cr-9-0 LightweightMessageFormatter.java-cr-9-0
+
+LightweightMessageFormatter.java-om-17-3 LightweightMessageFormatter.java-om-17-3
+
+LightweightMessageFormatter.java-mem-3-10 LightweightMessageFormatter.java-mem-3-10
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-18-7 LightweightMessageFormatter.java-ca-18-7
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+JSError.java-ca-27-9 JSError.java-ca-27-9
+
+LightweightMessageFormatter.java-ca-7-3 LightweightMessageFormatter.java-ca-7-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-cm-9-3 LightweightMessageFormatter.java-cm-9-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-4-0 LightweightMessageFormatter.java-ca-4-0
+
+LightweightMessageFormatter.java-ca-3-3 LightweightMessageFormatter.java-ca-3-3
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-21-4 LightweightMessageFormatter.java-ca-21-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-7-0 LightweightMessageFormatter.java-mem-7-0
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cr-17-2 LightweightMessageFormatter.java-cr-17-2
+
+LightweightMessageFormatter.java-cm-17-34 LightweightMessageFormatter.java-cm-17-34
+
+LightweightMessageFormatter.java-ca-19-7 LightweightMessageFormatter.java-ca-19-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-3-33 LightweightMessageFormatter.java-cm-3-33
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-3-37 LightweightMessageFormatter.java-cm-3-37
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+LightweightMessageFormatter.java-am-3-4 LightweightMessageFormatter.java-am-3-4
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+LightweightMessageFormatter.java-ca-0-8 LightweightMessageFormatter.java-ca-0-8
+
+LightweightMessageFormatter.java-am-17-0 LightweightMessageFormatter.java-am-17-0
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-9-7 LightweightMessageFormatter.java-cm-9-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-25-0 LightweightMessageFormatter.java-am-25-0
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-19-8 LightweightMessageFormatter.java-ca-19-8
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-0-6 LightweightMessageFormatter.java-ca-0-6
+
+LightweightMessageFormatter.java-am-4-0 LightweightMessageFormatter.java-am-4-0
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.JSError: [error, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-am-17-12 LightweightMessageFormatter.java-am-17-12
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.JSError: [error, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-7-4 LightweightMessageFormatter.java-ca-7-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-11 LightweightMessageFormatter.java-cm-17-11
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-om-3-1 LightweightMessageFormatter.java-om-3-1
+
+JSError.java-ca-26-2 JSError.java-ca-26-2
+
+LightweightMessageFormatter.java-mem-9-1 LightweightMessageFormatter.java-mem-9-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-20-3 LightweightMessageFormatter.java-ca-20-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-13-5 LightweightMessageFormatter.java-ca-13-5
+
+LightweightMessageFormatter.java-cm-19-19 LightweightMessageFormatter.java-cm-19-19
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-21-7 LightweightMessageFormatter.java-ca-21-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-6-5 LightweightMessageFormatter.java-ca-6-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-22-7 LightweightMessageFormatter.java-ca-22-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-mem-17-9 LightweightMessageFormatter.java-mem-17-9
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 1
+
+JSError.java-ca-27-6 JSError.java-ca-27-6
+
+LightweightMessageFormatter.java-ca-8-0 LightweightMessageFormatter.java-ca-8-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-40 LightweightMessageFormatter.java-cm-17-40
+
+LightweightMessageFormatter.java-ca-25-0 LightweightMessageFormatter.java-ca-25-0
+
+LightweightMessageFormatter.java-ca-8-5 LightweightMessageFormatter.java-ca-8-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-10-7 LightweightMessageFormatter.java-ca-10-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-19-13 LightweightMessageFormatter.java-cm-19-13
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-9-3 LightweightMessageFormatter.java-ca-9-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-17-24 LightweightMessageFormatter.java-cm-17-24
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cr-17-1 LightweightMessageFormatter.java-cr-17-1
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-44 LightweightMessageFormatter.java-cm-17-44
+
+LightweightMessageFormatter.java-ca-10-0 LightweightMessageFormatter.java-ca-10-0
+
+LightweightMessageFormatter.java-cm-17-17 LightweightMessageFormatter.java-cm-17-17
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-19-1 LightweightMessageFormatter.java-am-19-1
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cr-19-0 LightweightMessageFormatter.java-cr-19-0
+
+LightweightMessageFormatter.java-ca-25-1 LightweightMessageFormatter.java-ca-25-1
+
+AbstractMessageFormatter.java-ca-15-0 AbstractMessageFormatter.java-ca-15-0
+
+LightweightMessageFormatter.java-ca-25-5 LightweightMessageFormatter.java-ca-25-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-3-3 LightweightMessageFormatter.java-cm-3-3
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-am-7-0 LightweightMessageFormatter.java-am-7-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-9-6 LightweightMessageFormatter.java-ca-9-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-21-2 LightweightMessageFormatter.java-ca-21-2
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-13-10 LightweightMessageFormatter.java-ca-13-10
+
+LightweightMessageFormatter.java-am-2-0 LightweightMessageFormatter.java-am-2-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-17-4 LightweightMessageFormatter.java-cm-17-4
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-10-8 LightweightMessageFormatter.java-ca-10-8
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+JSError.java-ca-26-5 JSError.java-ca-26-5
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 3 candidates for the type int: [charno, lineNumber, 0]
+     [java] Space: 14
+
+LightweightMessageFormatter.java-ca-20-0 LightweightMessageFormatter.java-ca-20-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-3-6 LightweightMessageFormatter.java-ca-3-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-17-9 LightweightMessageFormatter.java-ca-17-9
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-om-17-4 LightweightMessageFormatter.java-om-17-4
+
+LightweightMessageFormatter.java-ca-20-7 LightweightMessageFormatter.java-ca-20-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-am-17-2 LightweightMessageFormatter.java-am-17-2
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-13-0 LightweightMessageFormatter.java-ca-13-0
+
+JSError.java-ca-26-8 JSError.java-ca-26-8
+
+LightweightMessageFormatter.java-am-3-1 LightweightMessageFormatter.java-am-3-1
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-am-6-0 LightweightMessageFormatter.java-am-6-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-20-17 LightweightMessageFormatter.java-ca-20-17
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-8-6 LightweightMessageFormatter.java-ca-8-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-17-5 LightweightMessageFormatter.java-ca-17-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-3-4 LightweightMessageFormatter.java-ca-3-4
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cr-17-4 LightweightMessageFormatter.java-cr-17-4
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-mem-17-11 LightweightMessageFormatter.java-mem-17-11
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-20-18 LightweightMessageFormatter.java-ca-20-18
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+AbstractMessageFormatter.java-am-23-0 AbstractMessageFormatter.java-am-23-0
+
+LightweightMessageFormatter.java-mem-17-5 LightweightMessageFormatter.java-mem-17-5
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 2
+
+JSError.java-ca-27-5 JSError.java-ca-27-5
+
+LightweightMessageFormatter.java-cm-19-4 LightweightMessageFormatter.java-cm-19-4
+
+LightweightMessageFormatter.java-ca-24-0 LightweightMessageFormatter.java-ca-24-0
+
+LightweightMessageFormatter.java-ca-17-0 LightweightMessageFormatter.java-ca-17-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-9-6 LightweightMessageFormatter.java-cm-9-6
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-30 LightweightMessageFormatter.java-cm-3-30
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-20-8 LightweightMessageFormatter.java-ca-20-8
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-46 LightweightMessageFormatter.java-cm-17-46
+
+LightweightMessageFormatter.java-cm-3-9 LightweightMessageFormatter.java-cm-3-9
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-3-3 LightweightMessageFormatter.java-mem-3-3
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-18-1 LightweightMessageFormatter.java-ca-18-1
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-mem-17-8 LightweightMessageFormatter.java-mem-17-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-10-5 LightweightMessageFormatter.java-ca-10-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-8-9 LightweightMessageFormatter.java-ca-8-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-13-13 LightweightMessageFormatter.java-ca-13-13
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-am-17-13 LightweightMessageFormatter.java-am-17-13
+
+LightweightMessageFormatter.java-ca-1-1 LightweightMessageFormatter.java-ca-1-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-17-5 LightweightMessageFormatter.java-cm-17-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-25 LightweightMessageFormatter.java-cm-3-25
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-18-2 LightweightMessageFormatter.java-ca-18-2
+
+LightweightMessageFormatter.java-mem-3-9 LightweightMessageFormatter.java-mem-3-9
+     [java] Generate 2 candidates for the type int: [charno, 0]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-17-47 LightweightMessageFormatter.java-cm-17-47
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-20-16 LightweightMessageFormatter.java-ca-20-16
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-17-7 LightweightMessageFormatter.java-ca-17-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-3-42 LightweightMessageFormatter.java-cm-3-42
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-mem-21-0 LightweightMessageFormatter.java-mem-21-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-2-1 LightweightMessageFormatter.java-mem-2-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-19-17 LightweightMessageFormatter.java-cm-19-17
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-19-3 LightweightMessageFormatter.java-cm-19-3
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-9-5 LightweightMessageFormatter.java-cm-9-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-22-0 LightweightMessageFormatter.java-ca-22-0
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+JSError.java-ca-26-4 JSError.java-ca-26-4
+
+LightweightMessageFormatter.java-ca-16-1 LightweightMessageFormatter.java-ca-16-1
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-24-3 LightweightMessageFormatter.java-am-24-3
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-19-5 LightweightMessageFormatter.java-cm-19-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 2
+
+JSError.java-ca-26-6 JSError.java-ca-26-6
+
+LightweightMessageFormatter.java-ca-20-4 LightweightMessageFormatter.java-ca-20-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-47 LightweightMessageFormatter.java-cm-3-47
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-36 LightweightMessageFormatter.java-cm-3-36
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-2-2 LightweightMessageFormatter.java-ca-2-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-ca-2-7 LightweightMessageFormatter.java-ca-2-7
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-am-17-1 LightweightMessageFormatter.java-am-17-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-3-6 LightweightMessageFormatter.java-mem-3-6
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-3-1 LightweightMessageFormatter.java-ca-3-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 9
+
+LightweightMessageFormatter.java-ca-18-0 LightweightMessageFormatter.java-ca-18-0
+
+LightweightMessageFormatter.java-mem-10-0 LightweightMessageFormatter.java-mem-10-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+JSError.java-mem-26-0 JSError.java-mem-26-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-22-3 LightweightMessageFormatter.java-ca-22-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-cm-17-15 LightweightMessageFormatter.java-cm-17-15
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-am-3-3 LightweightMessageFormatter.java-am-3-3
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-21-5 LightweightMessageFormatter.java-ca-21-5
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-0-9 LightweightMessageFormatter.java-ca-0-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-17-48 LightweightMessageFormatter.java-cm-17-48
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-mem-17-4 LightweightMessageFormatter.java-mem-17-4
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.JSError: [error, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-am-9-1 LightweightMessageFormatter.java-am-9-1
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.JSError: [error, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-9-0 LightweightMessageFormatter.java-mem-9-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-9-8 LightweightMessageFormatter.java-cm-9-8
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+JSError.java-ca-26-1 JSError.java-ca-26-1
+     [java] Generate 3 candidates for the type int: [charno, lineNumber, 0]
+     [java] Generate 3 candidates for the type int: [charno, lineNumber, 0]
+     [java] Space: 76
+
+LightweightMessageFormatter.java-ca-6-4 LightweightMessageFormatter.java-ca-6-4
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-31 LightweightMessageFormatter.java-cm-17-31
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-34 LightweightMessageFormatter.java-cm-3-34
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-am-17-10 LightweightMessageFormatter.java-am-17-10
+
+LightweightMessageFormatter.java-ca-7-2 LightweightMessageFormatter.java-ca-7-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cm-3-39 LightweightMessageFormatter.java-cm-3-39
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+AbstractMessageFormatter.java-ca-15-5 AbstractMessageFormatter.java-ca-15-5
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-19-18 LightweightMessageFormatter.java-cm-19-18
+
+LightweightMessageFormatter.java-cm-17-10 LightweightMessageFormatter.java-cm-17-10
+
+LightweightMessageFormatter.java-ca-19-3 LightweightMessageFormatter.java-ca-19-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-2-9 LightweightMessageFormatter.java-ca-2-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-25-3 LightweightMessageFormatter.java-ca-25-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-mem-17-10 LightweightMessageFormatter.java-mem-17-10
+
+JSError.java-am-26-0 JSError.java-am-26-0
+     [java] Generate 3 candidates for the type int: [charno, lineNumber, 0]
+     [java] Space: 3
+
+LightweightMessageFormatter.java-ca-2-1 LightweightMessageFormatter.java-ca-2-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-17-9 LightweightMessageFormatter.java-cm-17-9
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-8-8 LightweightMessageFormatter.java-ca-8-8
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-20-5 LightweightMessageFormatter.java-ca-20-5
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-1-5 LightweightMessageFormatter.java-ca-1-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-am-21-0 LightweightMessageFormatter.java-am-21-0
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-cm-3-5 LightweightMessageFormatter.java-cm-3-5
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-17-15 LightweightMessageFormatter.java-mem-17-15
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-19-6 LightweightMessageFormatter.java-cm-19-6
+
+LightweightMessageFormatter.java-cm-3-6 LightweightMessageFormatter.java-cm-3-6
+
+LightweightMessageFormatter.java-ca-10-2 LightweightMessageFormatter.java-ca-10-2
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-am-3-6 LightweightMessageFormatter.java-am-3-6
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+LightweightMessageFormatter.java-cr-3-0 LightweightMessageFormatter.java-cr-3-0
+
+LightweightMessageFormatter.java-ca-2-0 LightweightMessageFormatter.java-ca-2-0
+
+LightweightMessageFormatter.java-ca-0-4 LightweightMessageFormatter.java-ca-0-4
+
+LightweightMessageFormatter.java-ca-17-3 LightweightMessageFormatter.java-ca-17-3
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 5
+
+LightweightMessageFormatter.java-ca-3-11 LightweightMessageFormatter.java-ca-3-11
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-9-9 LightweightMessageFormatter.java-cm-9-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-6-1 LightweightMessageFormatter.java-ca-6-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-20-10 LightweightMessageFormatter.java-ca-20-10
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+JSError.java-ca-27-8 JSError.java-ca-27-8
+
+LightweightMessageFormatter.java-cm-17-39 LightweightMessageFormatter.java-cm-17-39
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-6-9 LightweightMessageFormatter.java-ca-6-9
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-0-1 LightweightMessageFormatter.java-ca-0-1
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-24-4 LightweightMessageFormatter.java-ca-24-4
+
+LightweightMessageFormatter.java-cm-3-7 LightweightMessageFormatter.java-cm-3-7
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-3-23 LightweightMessageFormatter.java-cm-3-23
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-25-0 LightweightMessageFormatter.java-mem-25-0
+     [java] Generate 3 candidates for the type boolean: [warning, false, true]
+     [java] Space: 3
+
+LightweightMessageFormatter.java-ca-0-0 LightweightMessageFormatter.java-ca-0-0
+
+JSError.java-ca-26-3 JSError.java-ca-26-3
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.CheckLevel: [level, null]
+     [java] Generate 3 candidates for the type int: [charno, lineNumber, 0]
+     [java] Space: 14
+
+LightweightMessageFormatter.java-ca-24-1 LightweightMessageFormatter.java-ca-24-1
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-om-17-0 LightweightMessageFormatter.java-om-17-0
+
+LightweightMessageFormatter.java-ca-7-5 LightweightMessageFormatter.java-ca-7-5
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-ca-17-6 LightweightMessageFormatter.java-ca-17-6
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-cm-17-33 LightweightMessageFormatter.java-cm-17-33
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider$ExcerptFormatter: [excerptFormatter, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-13-0 LightweightMessageFormatter.java-mem-13-0
+
+LightweightMessageFormatter.java-ca-22-1 LightweightMessageFormatter.java-ca-22-1
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-mem-4-1 LightweightMessageFormatter.java-mem-4-1
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-ca-1-9 LightweightMessageFormatter.java-ca-1-9
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-mem-24-2 LightweightMessageFormatter.java-mem-24-2
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 2
+
+LightweightMessageFormatter.java-am-17-11 LightweightMessageFormatter.java-am-17-11
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 2
+
+AbstractMessageFormatter.java-ca-15-2 AbstractMessageFormatter.java-ca-15-2
+
+LightweightMessageFormatter.java-ca-20-19 LightweightMessageFormatter.java-ca-20-19
+     [java] Generate 2 candidates for the type class com.google.javascript.jscomp.SourceExcerptProvider$SourceExcerpt: [excerpt, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [sourceExcerpt, null]
+     [java] Space: 12
+
+LightweightMessageFormatter.java-cm-19-10 LightweightMessageFormatter.java-cm-19-10
+
+LightweightMessageFormatter.java-mem-19-0 LightweightMessageFormatter.java-mem-19-0
+
+LightweightMessageFormatter.java-cm-17-20 LightweightMessageFormatter.java-cm-17-20
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-ca-8-4 LightweightMessageFormatter.java-ca-8-4
+     [java] Generate 2 candidates for the type class java.lang.StringBuilder: [b, null]
+     [java] Space: 10
+
+LightweightMessageFormatter.java-mem-24-0 LightweightMessageFormatter.java-mem-24-0
+     [java] Generate 2 candidates for the type interface com.google.javascript.jscomp.SourceExcerptProvider: [source, null]
+     [java] Space: 2
+

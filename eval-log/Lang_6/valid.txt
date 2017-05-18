@@ -1,0 +1,125 @@
+CharSequenceTranslator.java-am-15-1 1.13031196594
+     [java] Generate 5 candidates for the type int: [pt, consumed, len, pos, 0]
+     [java]  Hole 0	pt
+     [java] Space: 1
+
+StringUtils.java-ca-14-5 0.623878955841
+     [java] Generate 5 candidates for the type int: [pt, consumed, len, pos, 0]
+     [java]  Hole 0	pt
+     [java] Space: 1
+
+CharSequenceTranslator.java-ca-26-0 0.582971096039
+     [java] Generate 5 candidates for the type int: [pt, consumed, len, pos, 0]
+     [java]  Hole 0	pt
+     [java] Space: 1
+
+StringUtils.java-ca-7-5 0.59228014946
+     [java] Generate 5 candidates for the type int: [pt, consumed, len, pos, 0]
+     [java]  Hole 0	pt
+     [java] Space: 1
+
+CharSequenceTranslator.java-ca-15-1 1.00099110603
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	true
+     [java] Space: 8
+
+StringUtils.java-ca-9-5 1.25744104385
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java]  Hole 0	true
+     [java]  Hole 1	cs != SPACE
+     [java] Space: 5
+
+StringUtils.java-cm-11-31 0.669615983963
+     [java] Generate 4 candidates for the type class java.lang.String: [cs, SPACE, EMPTY, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java]  Hole 0	cs != SPACE
+     [java]  Hole 1	true
+     [java] Space: 5
+
+CharSequenceTranslator.java-ca-18-1 0.92316699028
+     [java] Generate 2 candidates for the type class java.io.StringWriter: [writer, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [input, null]
+     [java]  Hole 0	input
+     [java]  Hole 1	writer != null
+     [java] Space: 4
+
+CharSequenceTranslator.java-ca-19-0 0.650340080261
+     [java] Generate 2 candidates for the type class java.io.StringWriter: [writer, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [input, null]
+     [java]  Hole 0	input
+     [java]  Hole 1	writer != null
+     [java] Space: 4
+
+CharSequenceTranslator.java-ca-15-3 0.637457847595
+     [java] Generate 2 candidates for the type class java.io.StringWriter: [writer, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [input, null]
+     [java]  Hole 0	input
+     [java]  Hole 1	writer != null
+     [java] Space: 4
+
+CharSequenceTranslator.java-ca-26-1 1.01316213608
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	true
+     [java] Space: 8
+
+StringUtils.java-ca-14-3 1.35105705261
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java]  Hole 0	true
+     [java]  Hole 1	WHITESPACE_PATTERN != null
+     [java] Space: 5
+
+StringUtils.java-am-10-0 0.66367316246
+     [java] Generate 2 candidates for the type class java.util.regex.Pattern: [WHITESPACE_PATTERN, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java]  Hole 0	true
+     [java]  Hole 1	WHITESPACE_PATTERN != null
+     [java] Space: 5
+
+CharSequenceTranslator.java-ca-27-1 1.02389597893
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	true
+     [java] Space: 8
+
+StringUtils.java-cr-11-1 1.34633803368
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	true
+     [java] Space: 8
+
+StringUtils.java-cm-12-1 0.737725019455
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	true
+     [java] Space: 8
+
+StringUtils.java-ca-8-1 1.33444809914
+     [java] Generate 5 candidates for the type int: [csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java]  Hole 0	true
+     [java]  Hole 1	csLast != csLen
+     [java] Space: 9
+
+StringUtils.java-ca-9-3 0.759114027023
+     [java] Generate 5 candidates for the type int: [csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java]  Hole 0	csLast != csLen
+     [java]  Hole 1	true
+     [java] Space: 9
+
+StringUtils.java-ca-11-0 0.748126029968
+     [java] Generate 5 candidates for the type int: [csLast, csLen, INDEX_NOT_FOUND, PAD_LIMIT, 0]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java]  Hole 0	true
+     [java]  Hole 1	csLast != csLen
+     [java] Space: 9
+
+StringUtils.java-cm-11-39 1.32191205025
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	true
+     [java] Space: 8
+
+StringUtils.java-ca-13-0 0.769610881805
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	true
+     [java] Space: 8
+

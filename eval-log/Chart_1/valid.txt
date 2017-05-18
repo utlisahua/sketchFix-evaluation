@@ -1,37 +1,179 @@
-AbstractCategoryItemRenderer.java-ca-35-18 5.06541919708
-AbstractCategoryItemRenderer.java-ca-34-16 5.28623890877
-AbstractCategoryItemRenderer.java-ca-34-20 4.82275104523
-AbstractCategoryItemRenderer.java-cm-35-1 4.84471702576
-AbstractCategoryItemRenderer.java-ca-35-16 4.93502092361
-AbstractCategoryItemRenderer.java-ca-35-6 5.2176630497
-AbstractCategoryItemRenderer.java-cm-35-5 5.57835793495
-AbstractCategoryItemRenderer.java-ca-34-10 4.96246695518
-AbstractCategoryItemRenderer.java-ca-35-0 5.08020806313
-AbstractCategoryItemRenderer.java-cm-35-13 4.8271818161
-AbstractCategoryItemRenderer.java-cr-35-0 4.58352398872
-AbstractCategoryItemRenderer.java-cm-35-9 4.64316987991
-AbstractCategoryItemRenderer.java-ca-35-14 4.49470210075
-AbstractCategoryItemRenderer.java-cm-35-7 4.98266816139
-AbstractCategoryItemRenderer.java-cm-35-19 5.48905587196
-AbstractCategoryItemRenderer.java-cm-35-3 4.91647410393
-AbstractCategoryItemRenderer.java-ca-34-0 4.92100715637
-AbstractCategoryItemRenderer.java-ca-35-8 5.11368513107
-AbstractCategoryItemRenderer.java-ca-34-8 4.82288813591
-AbstractCategoryItemRenderer.java-mem-35-0 4.94020986557
-AbstractCategoryItemRenderer.java-am-35-0 4.92900705338
-AbstractCategoryItemRenderer.java-ca-34-18 5.17419910431
-AbstractCategoryItemRenderer.java-ca-35-12 5.20359396935
-AbstractCategoryItemRenderer.java-ca-35-4 4.9064180851
-AbstractCategoryItemRenderer.java-ca-34-12 4.93635988235
-AbstractCategoryItemRenderer.java-ca-35-10 4.92113900185
-AbstractCategoryItemRenderer.java-ca-35-20 4.48330402374
-AbstractCategoryItemRenderer.java-cm-35-11 4.57778382301
-AbstractCategoryItemRenderer.java-ca-34-6 4.62949490547
-AbstractCategoryItemRenderer.java-cm-35-17 4.37162804604
-AbstractCategoryItemRenderer.java-ca-35-2 4.52857899666
-AbstractCategoryItemRenderer.java-cm-35-15 4.51891088486
-AbstractCategoryItemRenderer.java-ca-34-2 4.73959112167
-AbstractCategoryItemRenderer.java-ca-34-14 4.67901206017
-AbstractCategoryItemRenderer.java-ca-34-4 4.48274993896
-AbstractCategoryItemRenderer.java-cm-35-21 4.50375890732
-AbstractCategoryItemRenderer.java-om-35-0 4.67659687996
+AbstractCategoryItemRenderer.java-cm-35-3 8.9482190609
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+AbstractCategoryItemRenderer.java-ca-34-20 8.82765388489
+     [java] Generate 1 candidates for the type long: [null]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+AbstractCategoryItemRenderer.java-cm-35-9 8.77173399925
+     [java] Generate 7 candidates for the type interface org.jfree.chart.labels.CategorySeriesLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, legendItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-34-2 10.3212828636
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+AbstractCategoryItemRenderer.java-cm-35-15 7.98326396942
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryToolTipGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-34-6 8.56494092941
+     [java] Generate 8 candidates for the type interface java.util.List: [foregroundAnnotations, backgroundAnnotations, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	foregroundAnnotations == backgroundAnnotations
+     [java] Space: 3
+
+AbstractCategoryItemRenderer.java-ca-35-10 10.6800830364
+     [java] Generate 6 candidates for the type interface org.jfree.chart.urls.CategoryURLGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-35-14 8.91575598717
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryToolTipGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-cm-35-5 8.21759605408
+     [java] Generate 7 candidates for the type class org.jfree.chart.LegendItemCollection: [result, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	result == baseToolTipGenerator
+     [java] Space: 3
+
+AbstractCategoryItemRenderer.java-ca-34-4 8.0596678257
+     [java] Generate 7 candidates for the type class org.jfree.chart.LegendItemCollection: [result, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	result == baseToolTipGenerator
+     [java] Space: 3
+
+AbstractCategoryItemRenderer.java-ca-35-20 8.16237020493
+     [java] Generate 1 candidates for the type long: [null]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+AbstractCategoryItemRenderer.java-cm-35-13 8.12137007713
+     [java] Generate 9 candidates for the type class org.jfree.chart.util.ObjectList: [itemLabelGeneratorList, baseToolTipGenerator, legendItemToolTipGenerator, toolTipGeneratorList, urlGeneratorList, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	itemLabelGeneratorList == baseToolTipGenerator
+     [java] Space: 3
+
+AbstractCategoryItemRenderer.java-mem-35-0 8.13186192513
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [dataset, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator
+     [java] Space: 2
+
+AbstractCategoryItemRenderer.java-cm-35-11 8.09605789185
+     [java] Generate 6 candidates for the type interface org.jfree.chart.urls.CategoryURLGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-34-16 10.763641119
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryItemLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-34-14 8.06121897697
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryToolTipGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-cm-35-21 8.56907486916
+     [java] Generate 1 candidates for the type long: [null]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+AbstractCategoryItemRenderer.java-cm-35-7 9.39332818985
+     [java] Generate 8 candidates for the type interface java.util.List: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, foregroundAnnotations, backgroundAnnotations, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-am-35-0 9.3317759037
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [dataset, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator
+     [java] Space: 2
+
+AbstractCategoryItemRenderer.java-ca-35-18 8.15200591087
+     [java] Generate 7 candidates for the type class org.jfree.chart.plot.CategoryPlot: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, plot, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-cm-35-1 10.1523039341
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, dataset, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-35-12 8.17032217979
+     [java] Generate 9 candidates for the type class org.jfree.chart.util.ObjectList: [itemLabelGeneratorList, baseToolTipGenerator, legendItemToolTipGenerator, toolTipGeneratorList, urlGeneratorList, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	itemLabelGeneratorList == baseToolTipGenerator
+     [java] Space: 3
+
+AbstractCategoryItemRenderer.java-ca-35-4 8.00847601891
+     [java] Generate 7 candidates for the type class org.jfree.chart.LegendItemCollection: [result, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	result == baseToolTipGenerator
+     [java] Space: 3
+
+AbstractCategoryItemRenderer.java-ca-34-8 8.03340888023
+     [java] Generate 7 candidates for the type interface org.jfree.chart.labels.CategorySeriesLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, legendItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-34-12 8.48777604103
+     [java] Generate 9 candidates for the type class org.jfree.chart.util.ObjectList: [itemLabelGeneratorList, baseToolTipGenerator, legendItemToolTipGenerator, toolTipGeneratorList, urlGeneratorList, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	itemLabelGeneratorList == baseToolTipGenerator
+     [java] Space: 3
+
+AbstractCategoryItemRenderer.java-ca-34-18 8.12921500206
+     [java] Generate 7 candidates for the type class org.jfree.chart.plot.CategoryPlot: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, plot, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-35-16 8.30800008774
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryItemLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-34-10 7.94187784195
+     [java] Generate 6 candidates for the type interface org.jfree.chart.urls.CategoryURLGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-cr-35-0 8.83675503731
+
+AbstractCategoryItemRenderer.java-ca-34-0 9.22182202339
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, dataset, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-cm-35-19 8.17102909088
+     [java] Generate 7 candidates for the type class org.jfree.chart.plot.CategoryPlot: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, plot, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-35-6 9.0786280632
+     [java] Generate 8 candidates for the type interface java.util.List: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, foregroundAnnotations, backgroundAnnotations, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-35-8 8.19273996353
+     [java] Generate 7 candidates for the type interface org.jfree.chart.labels.CategorySeriesLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, legendItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-om-35-0 8.45511889458
+
+AbstractCategoryItemRenderer.java-ca-35-2 8.36642193794
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+AbstractCategoryItemRenderer.java-cm-35-17 8.12861800194
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryItemLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+AbstractCategoryItemRenderer.java-ca-35-0 8.15280008316
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [dataset, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	dataset == baseToolTipGenerator
+     [java] Space: 3
+

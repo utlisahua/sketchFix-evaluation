@@ -1,68 +1,503 @@
-Marker.java-ca-1-1 5.21400284767
-Marker.java-ca-2-1 5.12107515335
-Marker.java-ca-1-18 3.14418911934
-Marker.java-ca-2-3 4.48045015335
-Marker.java-ca-0-8 3.18955302238
-Marker.java-ca-1-20 3.02467989922
-Marker.java-ca-1-9 4.30662798882
-Marker.java-ca-1-6 3.25715112686
-Marker.java-ca-2-7 4.86557793617
-Marker.java-ca-0-10 3.42890095711
-Marker.java-ca-1-12 3.17078995705
-Marker.java-ca-0-9 4.70322918892
-Marker.java-ca-2-8 3.70572018623
-Marker.java-ca-1-11 4.85816907883
-Marker.java-ca-1-0 3.49253988266
-Marker.java-ca-1-17 4.72067093849
-Marker.java-ca-0-5 4.98056817055
-Marker.java-ca-2-10 3.56819081306
-Marker.java-ca-2-9 4.92433190346
-Marker.java-ca-2-5 5.3062210083
-Marker.java-ca-0-1 5.1331319809
-Marker.java-ca-2-20 3.72969293594
-Marker.java-ca-1-21 4.69507598877
-Marker.java-ca-2-2 3.73641681671
-Marker.java-ca-1-4 3.76493692398
-Marker.java-ca-0-21 4.69407892227
-Marker.java-ca-2-19 5.52897119522
-Marker.java-ca-2-18 3.82184410095
-Marker.java-ca-1-3 4.7694478035
-Marker.java-ca-1-13 5.01200509071
-Marker.java-ca-1-14 3.72734713554
-Marker.java-ca-0-18 3.3920788765
-Marker.java-ca-0-19 4.96975111961
-Marker.java-ca-0-12 3.60950422287
-Marker.java-ca-0-20 3.53377199173
-Marker.java-ca-1-2 3.01838111877
-Marker.java-ca-1-5 4.58747911453
-Marker.java-ca-2-12 3.50625801086
-Marker.java-ca-2-6 3.63388705254
-Marker.java-ca-2-21 4.67382884026
-Marker.java-ca-0-13 5.07423210144
-Marker.java-ca-2-11 5.37247800827
-Marker.java-ca-2-0 3.71670889854
-Marker.java-ca-0-7 4.66673612595
-Marker.java-ca-2-14 3.40789079666
-Marker.java-ca-1-10 3.41571688652
-Marker.java-ca-2-4 3.25757217407
-Marker.java-ca-0-3 4.66366410255
-Marker.java-ca-0-0 3.51202487946
-Marker.java-ca-0-14 3.54296112061
-ValueMarker.java-ca-3-1 4.40336084366
-Marker.java-ca-0-2 3.47771000862
-ValueMarker.java-ca-3-0 3.5449821949
-Marker.java-ca-1-16 2.69144701958
-Marker.java-ca-1-15 3.90629792213
-Marker.java-ca-0-15 5.63968706131
-Marker.java-ca-0-11 5.25930190086
-Marker.java-ca-2-17 5.21723413467
-Marker.java-ca-1-8 3.54051494598
-Marker.java-ca-2-15 4.52568984032
-Marker.java-ca-1-19 4.79359793663
-Marker.java-ca-2-16 3.29364180565
-Marker.java-ca-0-4 3.32306098938
-Marker.java-ca-1-7 4.65924596786
-Marker.java-ca-0-6 3.88435006142
-Marker.java-ca-0-17 4.30475497246
-Marker.java-ca-2-13 4.88856387138
-Marker.java-ca-0-16 3.27667498589
+ValueMarker.java-am-5-0 ValueMarker.java-am-5-0
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Space: 3
+
+ValueMarker.java-mem-5-10 ValueMarker.java-mem-5-10
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Space: 3
+
+RectangleInsets.java-am-25-4 RectangleInsets.java-am-25-4
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+ValueMarker.java-am-5-4 ValueMarker.java-am-5-4
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Space: 2
+
+Marker.java-ca-2-1 Marker.java-ca-2-1
+     [java] Generate 3 candidates for the type class javax.swing.event.EventListenerList: [label, listenerList, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 36
+
+Marker.java-ca-0-2 Marker.java-ca-0-2
+
+ValueMarker.java-mem-3-0 ValueMarker.java-mem-3-0
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Space: 1
+
+ValueMarker.java-ca-3-1 ValueMarker.java-ca-3-1
+     [java] Generate 2 candidates for the type double: [value, 0]
+     [java] Generate 2 candidates for the type double: [value, 0]
+     [java] Space: 30
+
+Marker.java-ca-2-14 Marker.java-ca-2-14
+
+ValueMarker.java-mem-5-13 ValueMarker.java-mem-5-13
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Space: 6
+
+Marker.java-am-24-1 Marker.java-am-24-1
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Space: 2
+
+Marker.java-ca-0-16 Marker.java-ca-0-16
+
+Marker.java-ca-0-19 Marker.java-ca-0-19
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [outlineStroke, stroke, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [paint, outlinePaint, labelPaint, label, null]
+     [java] Space: 62
+
+ValueMarker.java-am-5-1 ValueMarker.java-am-5-1
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Space: 3
+
+Marker.java-ca-0-4 Marker.java-ca-0-4
+
+Marker.java-ca-1-21 Marker.java-ca-1-21
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [outlineStroke, stroke, label, null]
+     [java] Space: 44
+
+RectangleInsets.java-mem-25-7 RectangleInsets.java-mem-25-7
+     [java] Generate 1 candidates for the type class org.jfree.chart.util.UnitType: [null]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+Marker.java-am-16-0 Marker.java-am-16-0
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Space: 3
+
+Marker.java-ca-0-7 Marker.java-ca-0-7
+     [java] Generate 3 candidates for the type class org.jfree.chart.text.TextAnchor: [labelTextAnchor, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [paint, outlinePaint, labelPaint, label, null]
+     [java] Space: 36
+
+RectangleInsets.java-mem-25-12 RectangleInsets.java-mem-25-12
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 21
+
+Marker.java-om-24-1 Marker.java-om-24-1
+
+Marker.java-ca-1-0 Marker.java-ca-1-0
+
+ValueMarker.java-mem-5-11 ValueMarker.java-mem-5-11
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Space: 6
+
+Marker.java-am-2-0 Marker.java-am-2-0
+     [java] Generate 1 candidates for the type interface java.awt.Paint: [null]
+     [java] Space: 1
+
+Marker.java-ca-2-12 Marker.java-ca-2-12
+
+Marker.java-ca-0-1 Marker.java-ca-0-1
+     [java] Generate 3 candidates for the type class javax.swing.event.EventListenerList: [label, listenerList, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 36
+
+ValueMarker.java-mem-5-14 ValueMarker.java-mem-5-14
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Space: 6
+
+RectangleInsets.java-mem-25-5 RectangleInsets.java-mem-25-5
+     [java] Generate 1 candidates for the type class org.jfree.chart.util.UnitType: [null]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+Marker.java-ca-1-8 Marker.java-ca-1-8
+
+Marker.java-ca-0-21 Marker.java-ca-0-21
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 50
+
+Marker.java-ca-2-21 Marker.java-ca-2-21
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 50
+
+Marker.java-ca-1-9 Marker.java-ca-1-9
+     [java] Generate 3 candidates for the type class org.jfree.chart.util.RectangleAnchor: [labelAnchor, label, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [outlineStroke, stroke, label, null]
+     [java] Space: 32
+
+Marker.java-ca-1-7 Marker.java-ca-1-7
+     [java] Generate 3 candidates for the type class org.jfree.chart.text.TextAnchor: [labelTextAnchor, label, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [label, outlineStroke, stroke, null]
+     [java] Space: 32
+
+Marker.java-ca-0-12 Marker.java-ca-0-12
+
+Marker.java-cr-16-0 Marker.java-cr-16-0
+
+ValueMarker.java-am-5-2 ValueMarker.java-am-5-2
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Space: 3
+
+Marker.java-ca-2-15 Marker.java-ca-2-15
+     [java] Generate 2 candidates for the type class java.lang.String: [label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 18
+
+Marker.java-ca-0-15 Marker.java-ca-0-15
+     [java] Generate 2 candidates for the type class java.lang.String: [label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 18
+
+Marker.java-ca-0-3 Marker.java-ca-0-3
+     [java] Generate 3 candidates for the type class org.jfree.chart.util.LengthAdjustmentType: [labelOffsetType, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 36
+
+Marker.java-om-24-2 Marker.java-om-24-2
+
+Marker.java-ca-1-11 Marker.java-ca-1-11
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [paint, outlinePaint, labelPaint, label, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [outlineStroke, stroke, label, null]
+     [java] Space: 85
+
+RectangleInsets.java-am-25-1 RectangleInsets.java-am-25-1
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+ValueMarker.java-mem-5-5 ValueMarker.java-mem-5-5
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Space: 9
+
+Marker.java-ca-1-3 Marker.java-ca-1-3
+     [java] Generate 3 candidates for the type class org.jfree.chart.util.LengthAdjustmentType: [labelOffsetType, label, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [outlineStroke, stroke, label, null]
+     [java] Space: 32
+
+Marker.java-ca-0-14 Marker.java-ca-0-14
+
+Marker.java-mem-0-0 Marker.java-mem-0-0
+     [java] Generate 1 candidates for the type interface java.awt.Paint: [null]
+     [java] Space: 1
+
+Marker.java-ca-2-6 Marker.java-ca-2-6
+
+Marker.java-ca-2-4 Marker.java-ca-2-4
+
+Marker.java-mem-1-0 Marker.java-mem-1-0
+     [java] Generate 1 candidates for the type interface java.awt.Stroke: [null]
+     [java] Space: 1
+
+RectangleInsets.java-mem-25-8 RectangleInsets.java-mem-25-8
+     [java] Generate 1 candidates for the type class org.jfree.chart.util.UnitType: [null]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+Marker.java-ca-2-8 Marker.java-ca-2-8
+
+Marker.java-ca-1-15 Marker.java-ca-1-15
+     [java] Generate 2 candidates for the type class java.lang.String: [label, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [outlineStroke, stroke, label, null]
+     [java] Space: 16
+
+Marker.java-om-24-0 Marker.java-om-24-0
+
+RectangleInsets.java-mem-25-0 RectangleInsets.java-mem-25-0
+     [java] Generate 1 candidates for the type class org.jfree.chart.util.UnitType: [null]
+     [java] Space: 1
+
+RectangleInsets.java-om-32-0 RectangleInsets.java-om-32-0
+
+RectangleInsets.java-mem-25-4 RectangleInsets.java-mem-25-4
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+RectangleInsets.java-mem-25-11 RectangleInsets.java-mem-25-11
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 21
+
+Marker.java-ca-2-13 Marker.java-ca-2-13
+     [java] Generate 3 candidates for the type class java.awt.Font: [labelFont, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [paint, outlinePaint, labelPaint, label, null]
+     [java] Space: 36
+
+Marker.java-ca-0-20 Marker.java-ca-0-20
+
+Marker.java-ca-0-9 Marker.java-ca-0-9
+     [java] Generate 3 candidates for the type class org.jfree.chart.util.RectangleAnchor: [labelAnchor, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 36
+
+RectangleInsets.java-mem-25-2 RectangleInsets.java-mem-25-2
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+Marker.java-ca-1-14 Marker.java-ca-1-14
+
+Marker.java-ca-1-20 Marker.java-ca-1-20
+
+Marker.java-ca-1-17 Marker.java-ca-1-17
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [label, outlineStroke, stroke, null]
+     [java] Space: 16
+
+Marker.java-ca-0-18 Marker.java-ca-0-18
+
+ValueMarker.java-mem-5-9 ValueMarker.java-mem-5-9
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Space: 9
+
+Marker.java-mem-24-0 Marker.java-mem-24-0
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Space: 2
+
+ValueMarker.java-mem-5-0 ValueMarker.java-mem-5-0
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Space: 3
+
+ValueMarker.java-mem-5-2 ValueMarker.java-mem-5-2
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Space: 3
+
+Marker.java-ca-2-18 Marker.java-ca-2-18
+
+Marker.java-ca-0-5 Marker.java-ca-0-5
+     [java] Generate 3 candidates for the type class org.jfree.chart.util.RectangleInsets: [label, labelOffset, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 36
+
+Marker.java-am-24-0 Marker.java-am-24-0
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Space: 2
+
+Marker.java-ca-1-1 Marker.java-ca-1-1
+     [java] Generate 3 candidates for the type class javax.swing.event.EventListenerList: [label, listenerList, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [label, outlineStroke, stroke, null]
+     [java] Space: 32
+
+ValueMarker.java-mem-5-1 ValueMarker.java-mem-5-1
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Space: 3
+
+Marker.java-ca-2-3 Marker.java-ca-2-3
+     [java] Generate 3 candidates for the type class org.jfree.chart.util.LengthAdjustmentType: [labelOffsetType, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 36
+
+Marker.java-cr-24-1 Marker.java-cr-24-1
+
+RectangleInsets.java-am-25-2 RectangleInsets.java-am-25-2
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+Marker.java-cr-24-0 Marker.java-cr-24-0
+
+Marker.java-mem-16-0 Marker.java-mem-16-0
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Space: 3
+
+Marker.java-cr-17-0 Marker.java-cr-17-0
+
+Marker.java-ca-0-10 Marker.java-ca-0-10
+
+Marker.java-ca-0-11 Marker.java-ca-0-11
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [paint, outlinePaint, labelPaint, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [paint, outlinePaint, labelPaint, label, null]
+     [java] Space: 96
+
+Marker.java-ca-0-0 Marker.java-ca-0-0
+
+Marker.java-om-16-0 Marker.java-om-16-0
+
+Marker.java-ca-2-20 Marker.java-ca-2-20
+
+RectangleInsets.java-mem-25-13 RectangleInsets.java-mem-25-13
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 21
+
+Marker.java-ca-1-18 Marker.java-ca-1-18
+
+Marker.java-ca-2-19 Marker.java-ca-2-19
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [outlineStroke, stroke, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [paint, outlinePaint, labelPaint, label, null]
+     [java] Space: 62
+
+Marker.java-ca-1-10 Marker.java-ca-1-10
+
+ValueMarker.java-mem-5-7 ValueMarker.java-mem-5-7
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Space: 9
+
+RectangleInsets.java-mem-32-0 RectangleInsets.java-mem-32-0
+     [java] Generate 2 candidates for the type class org.jfree.chart.util.UnitType: [unitType, null]
+     [java] Space: 2
+
+Marker.java-ca-0-6 Marker.java-ca-0-6
+
+RectangleInsets.java-am-32-0 RectangleInsets.java-am-32-0
+     [java] Generate 2 candidates for the type class org.jfree.chart.util.UnitType: [unitType, null]
+     [java] Space: 2
+
+Marker.java-ca-1-16 Marker.java-ca-1-16
+
+Marker.java-ca-2-7 Marker.java-ca-2-7
+     [java] Generate 3 candidates for the type class org.jfree.chart.text.TextAnchor: [labelTextAnchor, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 36
+
+Marker.java-om-17-0 Marker.java-om-17-0
+
+RectangleInsets.java-am-25-0 RectangleInsets.java-am-25-0
+     [java] Generate 1 candidates for the type class org.jfree.chart.util.UnitType: [null]
+     [java] Space: 1
+
+ValueMarker.java-mem-5-6 ValueMarker.java-mem-5-6
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Space: 3
+
+ValueMarker.java-mem-5-8 ValueMarker.java-mem-5-8
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Space: 6
+
+Marker.java-ca-0-17 Marker.java-ca-0-17
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 18
+
+ValueMarker.java-mem-5-4 ValueMarker.java-mem-5-4
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Space: 2
+
+Marker.java-ca-2-9 Marker.java-ca-2-9
+     [java] Generate 3 candidates for the type class org.jfree.chart.util.RectangleAnchor: [labelAnchor, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 36
+
+RectangleInsets.java-mem-25-14 RectangleInsets.java-mem-25-14
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 21
+
+ValueMarker.java-mem-5-3 ValueMarker.java-mem-5-3
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Space: 3
+
+RectangleInsets.java-mem-25-6 RectangleInsets.java-mem-25-6
+     [java] Generate 1 candidates for the type class org.jfree.chart.util.UnitType: [null]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+Marker.java-am-1-0 Marker.java-am-1-0
+     [java] Generate 1 candidates for the type interface java.awt.Stroke: [null]
+     [java] Space: 1
+
+RectangleInsets.java-mem-25-9 RectangleInsets.java-mem-25-9
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 21
+
+ValueMarker.java-am-3-0 ValueMarker.java-am-3-0
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Space: 1
+
+Marker.java-am-0-0 Marker.java-am-0-0
+     [java] Generate 1 candidates for the type interface java.awt.Paint: [null]
+     [java] Space: 1
+
+Marker.java-mem-17-0 Marker.java-mem-17-0
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Space: 3
+
+Marker.java-ca-2-0 Marker.java-ca-2-0
+
+Marker.java-ca-2-17 Marker.java-ca-2-17
+     [java] Generate 2 candidates for the type float: [alpha, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 18
+
+Marker.java-mem-24-1 Marker.java-mem-24-1
+
+Marker.java-ca-1-19 Marker.java-ca-1-19
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [outlineStroke, stroke, label, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [outlineStroke, stroke, label, null]
+     [java] Space: 55
+
+Marker.java-ca-2-5 Marker.java-ca-2-5
+     [java] Generate 3 candidates for the type class org.jfree.chart.util.RectangleInsets: [label, labelOffset, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [paint, outlinePaint, labelPaint, label, null]
+     [java] Space: 36
+
+Marker.java-ca-1-6 Marker.java-ca-1-6
+
+RectangleInsets.java-mem-25-10 RectangleInsets.java-mem-25-10
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 21
+
+Marker.java-ca-2-16 Marker.java-ca-2-16
+
+Marker.java-ca-1-12 Marker.java-ca-1-12
+
+ValueMarker.java-ca-3-0 ValueMarker.java-ca-3-0
+
+RectangleInsets.java-mem-25-3 RectangleInsets.java-mem-25-3
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+Marker.java-ca-2-2 Marker.java-ca-2-2
+
+Marker.java-ca-2-10 Marker.java-ca-2-10
+
+Marker.java-mem-2-0 Marker.java-mem-2-0
+     [java] Generate 1 candidates for the type interface java.awt.Paint: [null]
+     [java] Space: 1
+
+Marker.java-ca-1-2 Marker.java-ca-1-2
+
+Marker.java-ca-1-4 Marker.java-ca-1-4
+
+Marker.java-ca-0-8 Marker.java-ca-0-8
+
+RectangleInsets.java-am-25-3 RectangleInsets.java-am-25-3
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+ValueMarker.java-am-5-3 ValueMarker.java-am-5-3
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java] Space: 3
+
+RectangleInsets.java-mem-25-1 RectangleInsets.java-mem-25-1
+     [java] Generate 5 candidates for the type double: [top, left, bottom, right, 0]
+     [java] Space: 5
+
+Marker.java-am-17-0 Marker.java-am-17-0
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Space: 3
+
+Marker.java-ca-2-11 Marker.java-ca-2-11
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 96
+
+Marker.java-ca-1-13 Marker.java-ca-1-13
+     [java] Generate 3 candidates for the type class java.awt.Font: [labelFont, label, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [label, outlineStroke, stroke, null]
+     [java] Space: 32
+
+RectangleInsets.java-cr-32-0 RectangleInsets.java-cr-32-0
+
+Marker.java-ca-1-5 Marker.java-ca-1-5
+     [java] Generate 3 candidates for the type class org.jfree.chart.util.RectangleInsets: [label, labelOffset, null]
+     [java] Generate 4 candidates for the type interface java.awt.Stroke: [label, outlineStroke, stroke, null]
+     [java] Space: 32
+
+Marker.java-ca-0-13 Marker.java-ca-0-13
+     [java] Generate 3 candidates for the type class java.awt.Font: [labelFont, label, null]
+     [java] Generate 5 candidates for the type interface java.awt.Paint: [label, paint, outlinePaint, labelPaint, null]
+     [java] Space: 36
+

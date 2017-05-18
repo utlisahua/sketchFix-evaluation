@@ -1,0 +1,25 @@
+StrBuilder.java-mem-1-9 0.962960958481
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java]  Hole 0	width
+     [java] Space: 2
+
+StrBuilder.java-mem-11-2 0.498013019562
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java]  Hole 0	width
+     [java] Space: 2
+
+StrBuilder.java-cm-4-3 0.492380857468
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java]  Hole 0	width
+     [java] Space: 2
+
+StrBuilder.java-ca-11-0 0.490528106689
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java]  Hole 0	width
+     [java] Space: 2
+
+StrBuilder.java-ca-5-0 0.498080968857
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java]  Hole 0	width
+     [java] Space: 2
+

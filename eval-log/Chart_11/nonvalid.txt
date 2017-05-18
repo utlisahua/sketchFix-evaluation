@@ -1,245 +1,862 @@
-ShapeUtilities.java-mem-16-0 5.35058999062
-ShapeUtilities.java-cm-13-0 4.65612316132
-ShapeUtilities.java-mem-11-0 4.82407522202
-ShapeUtilities.java-ca-14-8 4.40150904655
-ShapeUtilities.java-ca-8-1 4.63300204277
-ShapeUtilities.java-cr-3-0 4.56458091736
-ShapeUtilities.java-ca-5-0 1.09030079842
-ShapeUtilities.java-cm-12-1 4.50918507576
-ShapeUtilities.java-ca-1-7 3.81319785118
-ShapeUtilities.java-om-9-0 2.81548786163
-ShapeUtilities.java-am-13-0 4.61982393265
-ShapeUtilities.java-mem-10-1 4.64805793762
-ShapeUtilities.java-ca-15-2 4.90826416016
-ShapeUtilities.java-cm-13-7 4.54046106339
-ShapeUtilities.java-ca-7-2 1.08950090408
-ShapeUtilities.java-ca-16-1 4.43662691116
-ShapeUtilities.java-ca-11-4 1.09656000137
-ShapeUtilities.java-cm-2-0 4.58024382591
-ShapeUtilities.java-am-13-2 4.60618400574
-ShapeUtilities.java-ca-0-3 3.98911380768
-ShapeUtilities.java-am-2-0 2.67058396339
-ShapeUtilities.java-ca-15-0 4.4531390667
-ShapeUtilities.java-mem-18-1 5.38014388084
-ShapeUtilities.java-cm-12-4 5.30703401566
-ShapeUtilities.java-ca-1-8 4.06514692307
-ShapeUtilities.java-am-0-0 1.70797109604
-ShapeUtilities.java-om-12-0 2.94974684715
-ShapeUtilities.java-cm-18-9 5.06336808205
-ShapeUtilities.java-cm-16-1 4.54980182648
-ShapeUtilities.java-cm-12-0 4.80447697639
-ShapeUtilities.java-mem-11-1 4.52641701698
-ShapeUtilities.java-ca-0-7 3.94293498993
-ShapeUtilities.java-ca-7-4 0.74783706665
-ShapeUtilities.java-ca-13-9 2.64310407639
-ShapeUtilities.java-ca-17-1 4.66593599319
-ShapeUtilities.java-ca-15-3 4.72077989578
-ShapeUtilities.java-ca-17-2 1.12091803551
-ShapeUtilities.java-ca-1-0 4.13612008095
-ShapeUtilities.java-ca-0-2 1.5919778347
-ShapeUtilities.java-ca-12-8 2.67264604568
-ShapeUtilities.java-ca-9-5 4.62663316727
-ShapeUtilities.java-cm-18-2 4.65387201309
-ShapeUtilities.java-am-10-0 4.89910316467
-ShapeUtilities.java-ca-13-7 4.85250210762
-ShapeUtilities.java-am-11-1 4.65647411346
-ShapeUtilities.java-ca-18-6 4.59643101692
-ShapeUtilities.java-am-9-2 4.7577419281
-ShapeUtilities.java-cm-9-0 4.69078683853
-ShapeUtilities.java-ca-13-1 4.86499619484
-ShapeUtilities.java-am-16-1 4.7569539547
-ShapeUtilities.java-ca-12-6 4.80863595009
-ShapeUtilities.java-om-3-0 4.76751804352
-ShapeUtilities.java-ca-15-6 4.61278915405
-ShapeUtilities.java-mem-17-0 4.61687302589
-ShapeUtilities.java-mem-9-0 4.83143210411
-ShapeUtilities.java-cm-9-5 4.5339949131
-ShapeUtilities.java-ca-8-4 4.58324790001
-ShapeUtilities.java-ca-13-0 4.62196993828
-ShapeUtilities.java-ca-6-1 4.56810092926
-ShapeUtilities.java-ca-14-0 4.50971293449
-ShapeUtilities.java-cm-18-4 4.59126400948
-ShapeUtilities.java-ca-18-8 4.74153614044
-ShapeUtilities.java-ca-10-6 1.02232694626
-ShapeUtilities.java-ca-5-3 4.89025402069
-ShapeUtilities.java-cm-17-3 4.50768089294
-ShapeUtilities.java-mem-2-0 4.3377931118
-ShapeUtilities.java-am-16-0 4.45109200478
-ShapeUtilities.java-mem-18-0 4.56785202026
-ShapeUtilities.java-ca-8-3 4.74622607231
-ShapeUtilities.java-ca-4-1 4.51308512688
-ShapeUtilities.java-ca-15-5 4.75996899605
-ShapeUtilities.java-am-15-0 4.54820299149
-ShapeUtilities.java-ca-7-3 4.43156719208
-ShapeUtilities.java-cm-13-6 4.67778110504
-ShapeUtilities.java-ca-15-4 4.79936909676
-ShapeUtilities.java-ca-17-3 4.83821892738
-ShapeUtilities.java-am-13-1 4.87853384018
-ShapeUtilities.java-cm-16-0 4.75304698944
-ShapeUtilities.java-ca-13-3 4.68492698669
-ShapeUtilities.java-am-9-0 4.72744894028
-ShapeUtilities.java-cm-12-3 4.57936000824
-ShapeUtilities.java-ca-8-0 4.59339594841
-ShapeUtilities.java-cm-9-1 4.37788796425
-ShapeUtilities.java-cm-13-4 4.67659497261
-ShapeUtilities.java-ca-9-0 4.82708477974
-ShapeUtilities.java-ca-5-1 4.51125812531
-ShapeUtilities.java-cm-13-3 4.25302386284
-ShapeUtilities.java-cm-18-3 4.55591392517
-ShapeUtilities.java-mem-0-0 4.01808094978
-ShapeUtilities.java-ca-1-5 1.53800487518
-ShapeUtilities.java-ca-18-3 2.68142914772
-ShapeUtilities.java-am-17-1 5.00975799561
-ShapeUtilities.java-am-11-0 4.41711497307
-ShapeUtilities.java-ca-10-0 1.0277030468
-ShapeUtilities.java-ca-11-7 4.56788086891
-ShapeUtilities.java-mem-16-1 4.56962609291
-ShapeUtilities.java-ca-1-2 3.86416387558
-ShapeUtilities.java-mem-17-1 2.68727397919
-ShapeUtilities.java-mem-15-0 4.62164592743
-ShapeUtilities.java-am-3-2 4.50772500038
-ShapeUtilities.java-cm-12-9 4.56243300438
-ShapeUtilities.java-mem-9-2 4.41506409645
-ShapeUtilities.java-ca-1-3 4.21387195587
-ShapeUtilities.java-cm-9-7 2.62243580818
-ShapeUtilities.java-cm-9-6 4.46497297287
-ShapeUtilities.java-ca-14-4 4.49127101898
-ShapeUtilities.java-ca-10-4 0.998116970062
-ShapeUtilities.java-ca-0-6 3.76421809196
-ShapeUtilities.java-ca-0-0 1.66065502167
-ShapeUtilities.java-mem-12-0 2.87718200684
-ShapeUtilities.java-cr-13-0 4.63871598244
-ShapeUtilities.java-cm-17-2 4.49410915375
-ShapeUtilities.java-cm-13-9 4.46943092346
-ShapeUtilities.java-ca-11-3 5.23284602165
-ShapeUtilities.java-ca-1-9 3.9423789978
-ShapeUtilities.java-mem-10-0 2.64022016525
-ShapeUtilities.java-cm-9-4 4.47355103493
-ShapeUtilities.java-ca-9-3 5.01015782356
-ShapeUtilities.java-ca-1-6 3.80616807938
-ShapeUtilities.java-ca-6-0 0.742327928543
-ShapeUtilities.java-am-18-1 2.72416901588
-ShapeUtilities.java-ca-15-7 4.71027207375
-ShapeUtilities.java-ca-6-3 4.645622015
-ShapeUtilities.java-ca-0-4 3.80953717232
-ShapeUtilities.java-ca-10-2 0.732156991959
-ShapeUtilities.java-mem-12-1 2.59398293495
-ShapeUtilities.java-ca-8-2 4.72404384613
-ShapeUtilities.java-ca-17-0 0.999320983887
-ShapeUtilities.java-ca-13-6 4.4046318531
-ShapeUtilities.java-am-18-0 4.51510596275
-ShapeUtilities.java-ca-9-4 4.43020701408
-ShapeUtilities.java-cm-17-1 4.78150582314
-ShapeUtilities.java-ca-15-1 4.44449496269
-ShapeUtilities.java-mem-14-0 4.47463011742
-ShapeUtilities.java-ca-12-1 4.5682759285
-ShapeUtilities.java-ca-18-4 4.51326012611
-ShapeUtilities.java-ca-10-1 5.0150270462
-ShapeUtilities.java-ca-5-2 1.06016111374
-ShapeUtilities.java-mem-3-2 4.27776312828
-ShapeUtilities.java-am-17-0 4.40191578865
-ShapeUtilities.java-ca-14-3 4.64402198792
-ShapeUtilities.java-cr-9-0 4.36361193657
-ShapeUtilities.java-cm-13-8 4.45971393585
-ShapeUtilities.java-cm-18-1 4.54485082626
-ShapeUtilities.java-ca-13-2 4.60397791862
-ShapeUtilities.java-cm-13-1 4.4294719696
-ShapeUtilities.java-ca-12-3 4.65067219734
-ShapeUtilities.java-ca-13-4 4.55807709694
-ShapeUtilities.java-ca-11-6 1.02348780632
-ShapeUtilities.java-ca-12-2 4.62299799919
-ShapeUtilities.java-cm-17-5 4.49359679222
-ShapeUtilities.java-ca-18-5 4.63669800758
-ShapeUtilities.java-cr-12-0 4.45384287834
-ShapeUtilities.java-mem-9-1 4.39807391167
-ShapeUtilities.java-cm-18-8 4.45509791374
-ShapeUtilities.java-ca-0-1 3.76264119148
-ShapeUtilities.java-am-12-0 2.68537211418
-ShapeUtilities.java-cm-18-5 4.53921484947
-ShapeUtilities.java-ca-15-8 4.37150597572
-ShapeUtilities.java-ca-17-5 4.60870218277
-ShapeUtilities.java-ca-12-4 4.53708100319
-ShapeUtilities.java-am-12-1 4.38333916664
-ShapeUtilities.java-ca-11-5 4.61468505859
-ShapeUtilities.java-ca-8-5 4.50983285904
-ShapeUtilities.java-ca-18-7 4.48491406441
-ShapeUtilities.java-mem-3-0 4.45585393906
-ShapeUtilities.java-cm-9-2 4.40687298775
-ShapeUtilities.java-ca-12-5 4.52500915527
-ShapeUtilities.java-ca-8-7 4.49601197243
-ShapeUtilities.java-ca-6-2 1.04416298866
-ShapeUtilities.java-cm-2-1 4.4745721817
-ShapeUtilities.java-ca-14-2 4.43902492523
-ShapeUtilities.java-am-3-0 4.66769194603
-ShapeUtilities.java-cm-13-5 4.44082999229
-ShapeUtilities.java-ca-7-0 0.983081102371
-ShapeUtilities.java-am-14-0 4.43894410133
-ShapeUtilities.java-cm-18-0 4.59601807594
-ShapeUtilities.java-mem-13-2 4.56400203705
-ShapeUtilities.java-ca-14-1 4.43175816536
-ShapeUtilities.java-ca-14-6 4.43670296669
-ShapeUtilities.java-ca-9-2 4.56056284904
-ShapeUtilities.java-cm-12-5 4.57757806778
-ShapeUtilities.java-ca-9-1 4.55131101608
-ShapeUtilities.java-ca-9-7 4.63654279709
-ShapeUtilities.java-cm-13-2 4.50970101357
-ShapeUtilities.java-cm-18-6 4.47299718857
-ShapeUtilities.java-cm-3-1 4.48475193977
-ShapeUtilities.java-ca-2-0 4.50896191597
-ShapeUtilities.java-ca-15-9 4.50145292282
-ShapeUtilities.java-ca-11-9 4.43584799767
-ShapeUtilities.java-ca-8-6 4.40490102768
-ShapeUtilities.java-ca-14-5 4.52948904037
-ShapeUtilities.java-am-10-1 4.71920204163
-ShapeUtilities.java-ca-2-1 5.36971497536
-ShapeUtilities.java-cm-17-0 4.50789809227
-ShapeUtilities.java-mem-2-1 4.38771510124
-ShapeUtilities.java-am-3-1 4.42781805992
-ShapeUtilities.java-ca-1-4 3.78483581543
-ShapeUtilities.java-ca-3-1 2.83107018471
-ShapeUtilities.java-ca-16-0 4.45228409767
-ShapeUtilities.java-ca-13-5 4.49138498306
-ShapeUtilities.java-ca-0-5 3.84736084938
-ShapeUtilities.java-cr-16-0 2.58644986153
-ShapeUtilities.java-ca-4-0 0.975286960602
-ShapeUtilities.java-cm-12-6 4.59415006638
-ShapeUtilities.java-cm-12-2 4.57948589325
-ShapeUtilities.java-ca-11-8 1.01295995712
-ShapeUtilities.java-cm-18-7 4.63818597794
-ShapeUtilities.java-am-2-1 4.34462785721
-ShapeUtilities.java-ca-3-0 4.61717605591
-ShapeUtilities.java-ca-14-7 4.40487408638
-ShapeUtilities.java-mem-13-1 4.48532390594
-ShapeUtilities.java-ca-1-1 3.70835208893
-ShapeUtilities.java-mem-13-0 2.56500291824
-ShapeUtilities.java-ca-0-8 3.7704231739
-ShapeUtilities.java-ca-17-4 0.745366096497
-ShapeUtilities.java-ca-11-1 2.53526687622
-ShapeUtilities.java-cm-3-0 4.54504299164
-ShapeUtilities.java-cm-12-8 4.57197213173
-ShapeUtilities.java-om-2-0 4.62032413483
-ShapeUtilities.java-cm-12-7 4.68238687515
-ShapeUtilities.java-cr-2-0 4.43190908432
-ShapeUtilities.java-cm-9-3 4.459430933
-ShapeUtilities.java-ca-7-1 4.56605195999
-ShapeUtilities.java-om-16-0 4.38747096062
-ShapeUtilities.java-am-9-1 4.42970395088
-ShapeUtilities.java-ca-7-5 4.4558699131
-ShapeUtilities.java-ca-18-0 4.58228802681
-ShapeUtilities.java-ca-9-6 4.63085889816
-ShapeUtilities.java-ca-12-7 4.61492800713
-ShapeUtilities.java-ca-10-5 4.47341418266
-ShapeUtilities.java-ca-11-0 0.974520921707
-ShapeUtilities.java-ca-12-9 4.65451216698
-ShapeUtilities.java-ca-12-0 4.89717197418
-ShapeUtilities.java-ca-18-9 4.49819397926
-ShapeUtilities.java-ca-18-2 4.51741504669
-ShapeUtilities.java-ca-10-7 4.50201010704
-ShapeUtilities.java-cm-17-4 4.47237086296
-ShapeUtilities.java-ca-11-2 1.10078406334
-ShapeUtilities.java-ca-13-8 4.4869120121
-ShapeUtilities.java-ca-10-3 4.52897882462
-ShapeUtilities.java-ca-18-1 4.45789790154
-ShapeUtilities.java-ca-0-9 3.84270095825
-ShapeUtilities.java-ca-14-9 2.68855595589
-ShapeUtilities.java-mem-3-1 4.46556997299
+ShapeUtilities.java-cm-16-0 ShapeUtilities.java-cm-16-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-15-8 ShapeUtilities.java-ca-15-8
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-15-7 ShapeUtilities.java-ca-15-7
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-ca-14-0 ShapeUtilities.java-ca-14-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-16-1 ShapeUtilities.java-ca-16-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-cm-3-0 ShapeUtilities.java-cm-3-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-cm-17-0 ShapeUtilities.java-cm-17-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-18-4 ShapeUtilities.java-ca-18-4
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-am-18-1 ShapeUtilities.java-am-18-1
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-1-8 ShapeUtilities.java-ca-1-8
+
+ShapeUtilities.java-ca-11-6 ShapeUtilities.java-ca-11-6
+
+ShapeUtilities.java-am-13-1 ShapeUtilities.java-am-13-1
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-15-4 ShapeUtilities.java-ca-15-4
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-cm-2-0 ShapeUtilities.java-cm-2-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-6-3 ShapeUtilities.java-ca-6-3
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 24
+
+ShapeUtilities.java-ca-0-3 ShapeUtilities.java-ca-0-3
+
+ShapeUtilities.java-ca-7-5 ShapeUtilities.java-ca-7-5
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 24
+
+ShapeUtilities.java-cm-9-5 ShapeUtilities.java-cm-9-5
+
+ShapeUtilities.java-ca-15-3 ShapeUtilities.java-ca-15-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-cm-18-5 ShapeUtilities.java-cm-18-5
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-14-8 ShapeUtilities.java-ca-14-8
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-am-14-0 ShapeUtilities.java-am-14-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-8-0 ShapeUtilities.java-ca-8-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-15-2 ShapeUtilities.java-ca-15-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+ShapeUtilities.java-cm-17-1 ShapeUtilities.java-cm-17-1
+
+ShapeUtilities.java-am-13-0 ShapeUtilities.java-am-13-0
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-5-0 ShapeUtilities.java-ca-5-0
+
+ShapeUtilities.java-cm-12-1 ShapeUtilities.java-cm-12-1
+
+ShapeUtilities.java-am-17-1 ShapeUtilities.java-am-17-1
+
+ShapeUtilities.java-ca-17-0 ShapeUtilities.java-ca-17-0
+
+ShapeUtilities.java-ca-17-1 ShapeUtilities.java-ca-17-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-mem-13-2 ShapeUtilities.java-mem-13-2
+
+ShapeUtilities.java-cm-13-1 ShapeUtilities.java-cm-13-1
+
+ShapeUtilities.java-ca-11-2 ShapeUtilities.java-ca-11-2
+
+ShapeUtilities.java-mem-17-0 ShapeUtilities.java-mem-17-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-9-6 ShapeUtilities.java-cm-9-6
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-cm-13-8 ShapeUtilities.java-cm-13-8
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-12-2 ShapeUtilities.java-ca-12-2
+     [java] Generate 3 candidates for the type int: [seg2, seg1, 0]
+     [java] Space: 56
+
+ShapeUtilities.java-ca-1-2 ShapeUtilities.java-ca-1-2
+
+ShapeUtilities.java-cr-13-0 ShapeUtilities.java-cr-13-0
+
+ShapeUtilities.java-ca-1-0 ShapeUtilities.java-ca-1-0
+
+ShapeUtilities.java-mem-15-0 ShapeUtilities.java-mem-15-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-am-11-0 ShapeUtilities.java-am-11-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-am-3-2 ShapeUtilities.java-am-3-2
+
+ShapeUtilities.java-ca-18-0 ShapeUtilities.java-ca-18-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-7-3 ShapeUtilities.java-ca-7-3
+     [java] Generate 2 candidates for the type class [D: [d1, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-ca-12-1 ShapeUtilities.java-ca-12-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-ca-13-7 ShapeUtilities.java-ca-13-7
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-am-12-0 ShapeUtilities.java-am-12-0
+     [java] Generate 3 candidates for the type int: [seg2, seg1, 0]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-12-6 ShapeUtilities.java-cm-12-6
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-4-0 ShapeUtilities.java-ca-4-0
+
+ShapeUtilities.java-ca-10-7 ShapeUtilities.java-ca-10-7
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-ca-18-1 ShapeUtilities.java-ca-18-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-mem-14-0 ShapeUtilities.java-mem-14-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-om-3-0 ShapeUtilities.java-om-3-0
+
+ShapeUtilities.java-ca-8-7 ShapeUtilities.java-ca-8-7
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-om-12-0 ShapeUtilities.java-om-12-0
+
+ShapeUtilities.java-ca-0-9 ShapeUtilities.java-ca-0-9
+
+ShapeUtilities.java-mem-9-2 ShapeUtilities.java-mem-9-2
+
+ShapeUtilities.java-ca-11-9 ShapeUtilities.java-ca-11-9
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-cr-3-0 ShapeUtilities.java-cr-3-0
+
+ShapeUtilities.java-ca-8-3 ShapeUtilities.java-ca-8-3
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-mem-2-1 ShapeUtilities.java-mem-2-1
+
+ShapeUtilities.java-ca-7-4 ShapeUtilities.java-ca-7-4
+
+ShapeUtilities.java-ca-8-1 ShapeUtilities.java-ca-8-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-ca-9-2 ShapeUtilities.java-ca-9-2
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-0-1 ShapeUtilities.java-ca-0-1
+
+ShapeUtilities.java-ca-12-6 ShapeUtilities.java-ca-12-6
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-7-0 ShapeUtilities.java-ca-7-0
+
+ShapeUtilities.java-ca-9-5 ShapeUtilities.java-ca-9-5
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-cm-13-7 ShapeUtilities.java-cm-13-7
+
+ShapeUtilities.java-ca-15-1 ShapeUtilities.java-ca-15-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-ca-15-9 ShapeUtilities.java-ca-15-9
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-mem-9-1 ShapeUtilities.java-mem-9-1
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-12-2 ShapeUtilities.java-cm-12-2
+     [java] Generate 3 candidates for the type int: [seg2, seg1, 0]
+     [java] Space: 56
+
+ShapeUtilities.java-ca-10-0 ShapeUtilities.java-ca-10-0
+
+ShapeUtilities.java-ca-0-7 ShapeUtilities.java-ca-0-7
+
+ShapeUtilities.java-am-15-0 ShapeUtilities.java-am-15-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-12-8 ShapeUtilities.java-cm-12-8
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-18-6 ShapeUtilities.java-ca-18-6
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-17-4 ShapeUtilities.java-ca-17-4
+
+ShapeUtilities.java-ca-9-4 ShapeUtilities.java-ca-9-4
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-mem-10-0 ShapeUtilities.java-mem-10-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-5-1 ShapeUtilities.java-ca-5-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-am-9-2 ShapeUtilities.java-am-9-2
+
+ShapeUtilities.java-ca-11-8 ShapeUtilities.java-ca-11-8
+
+ShapeUtilities.java-mem-11-0 ShapeUtilities.java-mem-11-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-12-9 ShapeUtilities.java-ca-12-9
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-cm-12-3 ShapeUtilities.java-cm-12-3
+
+ShapeUtilities.java-am-3-0 ShapeUtilities.java-am-3-0
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java] Space: 3
+
+ShapeUtilities.java-mem-12-1 ShapeUtilities.java-mem-12-1
+
+ShapeUtilities.java-mem-12-0 ShapeUtilities.java-mem-12-0
+     [java] Generate 3 candidates for the type int: [seg2, seg1, 0]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-10-5 ShapeUtilities.java-ca-10-5
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-om-16-0 ShapeUtilities.java-om-16-0
+
+ShapeUtilities.java-mem-3-2 ShapeUtilities.java-mem-3-2
+
+ShapeUtilities.java-cm-18-7 ShapeUtilities.java-cm-18-7
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-10-3 ShapeUtilities.java-ca-10-3
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-cm-2-1 ShapeUtilities.java-cm-2-1
+
+ShapeUtilities.java-cr-12-0 ShapeUtilities.java-cr-12-0
+
+ShapeUtilities.java-ca-6-1 ShapeUtilities.java-ca-6-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-mem-18-1 ShapeUtilities.java-mem-18-1
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-8-4 ShapeUtilities.java-ca-8-4
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-2-1 ShapeUtilities.java-ca-2-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-cm-13-0 ShapeUtilities.java-cm-13-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-13-5 ShapeUtilities.java-ca-13-5
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-mem-16-0 ShapeUtilities.java-mem-16-0
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java] Space: 3
+
+ShapeUtilities.java-am-2-1 ShapeUtilities.java-am-2-1
+
+ShapeUtilities.java-cm-12-0 ShapeUtilities.java-cm-12-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-9-6 ShapeUtilities.java-ca-9-6
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-am-0-0 ShapeUtilities.java-am-0-0
+
+ShapeUtilities.java-ca-14-1 ShapeUtilities.java-ca-14-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-ca-14-4 ShapeUtilities.java-ca-14-4
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-cm-13-4 ShapeUtilities.java-cm-13-4
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-am-17-0 ShapeUtilities.java-am-17-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-14-7 ShapeUtilities.java-ca-14-7
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-mem-17-1 ShapeUtilities.java-mem-17-1
+
+ShapeUtilities.java-ca-17-2 ShapeUtilities.java-ca-17-2
+
+ShapeUtilities.java-mem-13-1 ShapeUtilities.java-mem-13-1
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-9-3 ShapeUtilities.java-ca-9-3
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-cm-13-2 ShapeUtilities.java-cm-13-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+ShapeUtilities.java-ca-0-4 ShapeUtilities.java-ca-0-4
+
+ShapeUtilities.java-ca-12-4 ShapeUtilities.java-ca-12-4
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-9-1 ShapeUtilities.java-ca-9-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-ca-17-3 ShapeUtilities.java-ca-17-3
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 24
+
+ShapeUtilities.java-cm-18-2 ShapeUtilities.java-cm-18-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+ShapeUtilities.java-ca-9-0 ShapeUtilities.java-ca-9-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-cm-16-1 ShapeUtilities.java-cm-16-1
+
+ShapeUtilities.java-cm-13-5 ShapeUtilities.java-cm-13-5
+
+ShapeUtilities.java-am-9-0 ShapeUtilities.java-am-9-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-12-9 ShapeUtilities.java-cm-12-9
+
+ShapeUtilities.java-ca-13-9 ShapeUtilities.java-ca-13-9
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-ca-13-4 ShapeUtilities.java-ca-13-4
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-1-6 ShapeUtilities.java-ca-1-6
+
+ShapeUtilities.java-ca-10-1 ShapeUtilities.java-ca-10-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-cm-13-6 ShapeUtilities.java-cm-13-6
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-14-5 ShapeUtilities.java-ca-14-5
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-ca-10-2 ShapeUtilities.java-ca-10-2
+
+ShapeUtilities.java-mem-16-1 ShapeUtilities.java-mem-16-1
+
+ShapeUtilities.java-ca-1-7 ShapeUtilities.java-ca-1-7
+
+ShapeUtilities.java-ca-11-1 ShapeUtilities.java-ca-11-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-ca-7-2 ShapeUtilities.java-ca-7-2
+
+ShapeUtilities.java-ca-7-1 ShapeUtilities.java-ca-7-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-mem-11-1 ShapeUtilities.java-mem-11-1
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-am-18-0 ShapeUtilities.java-am-18-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-9-1 ShapeUtilities.java-cm-9-1
+
+ShapeUtilities.java-ca-8-2 ShapeUtilities.java-ca-8-2
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 20
+
+ShapeUtilities.java-om-2-0 ShapeUtilities.java-om-2-0
+
+ShapeUtilities.java-cm-17-5 ShapeUtilities.java-cm-17-5
+
+ShapeUtilities.java-ca-8-5 ShapeUtilities.java-ca-8-5
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-ca-12-5 ShapeUtilities.java-ca-12-5
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-cm-18-9 ShapeUtilities.java-cm-18-9
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-15-0 ShapeUtilities.java-ca-15-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-am-13-2 ShapeUtilities.java-am-13-2
+
+ShapeUtilities.java-ca-5-3 ShapeUtilities.java-ca-5-3
+     [java] Generate 2 candidates for the type interface java.awt.geom.PathIterator: [iterator1, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-ca-18-2 ShapeUtilities.java-ca-18-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+ShapeUtilities.java-cm-18-4 ShapeUtilities.java-cm-18-4
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-13-3 ShapeUtilities.java-ca-13-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-12-3 ShapeUtilities.java-ca-12-3
+     [java] Generate 3 candidates for the type int: [seg2, seg1, 0]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 84
+
+ShapeUtilities.java-am-10-0 ShapeUtilities.java-am-10-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-6-2 ShapeUtilities.java-ca-6-2
+
+ShapeUtilities.java-ca-18-3 ShapeUtilities.java-ca-18-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-1-5 ShapeUtilities.java-ca-1-5
+
+ShapeUtilities.java-cm-17-4 ShapeUtilities.java-cm-17-4
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-10-6 ShapeUtilities.java-ca-10-6
+
+ShapeUtilities.java-am-2-0 ShapeUtilities.java-am-2-0
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-14-3 ShapeUtilities.java-ca-14-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-11-7 ShapeUtilities.java-ca-11-7
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-cr-16-0 ShapeUtilities.java-cr-16-0
+
+ShapeUtilities.java-cm-18-8 ShapeUtilities.java-cm-18-8
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-cm-9-3 ShapeUtilities.java-cm-9-3
+
+ShapeUtilities.java-ca-5-2 ShapeUtilities.java-ca-5-2
+
+ShapeUtilities.java-ca-3-0 ShapeUtilities.java-ca-3-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-13-1 ShapeUtilities.java-ca-13-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-cr-2-0 ShapeUtilities.java-cr-2-0
+
+ShapeUtilities.java-ca-1-3 ShapeUtilities.java-ca-1-3
+
+ShapeUtilities.java-mem-3-1 ShapeUtilities.java-mem-3-1
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-13-9 ShapeUtilities.java-cm-13-9
+
+ShapeUtilities.java-ca-12-8 ShapeUtilities.java-ca-12-8
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-11-0 ShapeUtilities.java-ca-11-0
+
+ShapeUtilities.java-ca-8-6 ShapeUtilities.java-ca-8-6
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-mem-18-0 ShapeUtilities.java-mem-18-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-am-11-1 ShapeUtilities.java-am-11-1
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-1-4 ShapeUtilities.java-ca-1-4
+
+ShapeUtilities.java-mem-10-1 ShapeUtilities.java-mem-10-1
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-17-2 ShapeUtilities.java-cm-17-2
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-cm-18-1 ShapeUtilities.java-cm-18-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-am-9-1 ShapeUtilities.java-am-9-1
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-18-3 ShapeUtilities.java-cm-18-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+ShapeUtilities.java-ca-13-8 ShapeUtilities.java-ca-13-8
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-mem-3-0 ShapeUtilities.java-mem-3-0
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-0-0 ShapeUtilities.java-ca-0-0
+
+ShapeUtilities.java-om-9-0 ShapeUtilities.java-om-9-0
+
+ShapeUtilities.java-ca-18-5 ShapeUtilities.java-ca-18-5
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-cm-17-3 ShapeUtilities.java-cm-17-3
+
+ShapeUtilities.java-am-16-1 ShapeUtilities.java-am-16-1
+
+ShapeUtilities.java-ca-6-0 ShapeUtilities.java-ca-6-0
+
+ShapeUtilities.java-ca-11-3 ShapeUtilities.java-ca-11-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-15-6 ShapeUtilities.java-ca-15-6
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-11-4 ShapeUtilities.java-ca-11-4
+
+ShapeUtilities.java-ca-14-6 ShapeUtilities.java-ca-14-6
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-cm-12-5 ShapeUtilities.java-cm-12-5
+
+ShapeUtilities.java-am-3-1 ShapeUtilities.java-am-3-1
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-9-0 ShapeUtilities.java-cm-9-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-cm-18-6 ShapeUtilities.java-cm-18-6
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-1-9 ShapeUtilities.java-ca-1-9
+
+ShapeUtilities.java-ca-18-9 ShapeUtilities.java-ca-18-9
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-ca-11-5 ShapeUtilities.java-ca-11-5
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-mem-9-0 ShapeUtilities.java-mem-9-0
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-cm-12-4 ShapeUtilities.java-cm-12-4
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 20
+
+ShapeUtilities.java-cm-9-2 ShapeUtilities.java-cm-9-2
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-0-2 ShapeUtilities.java-ca-0-2
+
+ShapeUtilities.java-ca-13-0 ShapeUtilities.java-ca-13-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-16-0 ShapeUtilities.java-ca-16-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-18-8 ShapeUtilities.java-ca-18-8
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-12-0 ShapeUtilities.java-ca-12-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-mem-0-0 ShapeUtilities.java-mem-0-0
+
+ShapeUtilities.java-ca-4-1 ShapeUtilities.java-ca-4-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-ca-3-1 ShapeUtilities.java-ca-3-1
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 12
+
+ShapeUtilities.java-ca-14-9 ShapeUtilities.java-ca-14-9
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-ca-0-8 ShapeUtilities.java-ca-0-8
+
+ShapeUtilities.java-cm-3-1 ShapeUtilities.java-cm-3-1
+
+ShapeUtilities.java-ca-15-5 ShapeUtilities.java-ca-15-5
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 14
+
+ShapeUtilities.java-ca-13-6 ShapeUtilities.java-ca-13-6
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-ca-1-1 ShapeUtilities.java-ca-1-1
+
+ShapeUtilities.java-ca-13-2 ShapeUtilities.java-ca-13-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+ShapeUtilities.java-cr-9-0 ShapeUtilities.java-cr-9-0
+
+ShapeUtilities.java-ca-18-7 ShapeUtilities.java-ca-18-7
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-am-16-0 ShapeUtilities.java-am-16-0
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-9-7 ShapeUtilities.java-ca-9-7
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-cm-9-4 ShapeUtilities.java-cm-9-4
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 20
+
+ShapeUtilities.java-cm-13-3 ShapeUtilities.java-cm-13-3
+
+ShapeUtilities.java-am-10-1 ShapeUtilities.java-am-10-1
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-0-6 ShapeUtilities.java-ca-0-6
+
+ShapeUtilities.java-cm-9-7 ShapeUtilities.java-cm-9-7
+
+ShapeUtilities.java-ca-12-7 ShapeUtilities.java-ca-12-7
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Generate 3 candidates for the type boolean: [done, false, true]
+     [java] Space: 28
+
+ShapeUtilities.java-ca-10-4 ShapeUtilities.java-ca-10-4
+
+ShapeUtilities.java-mem-2-0 ShapeUtilities.java-mem-2-0
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java] Space: 3
+
+ShapeUtilities.java-am-12-1 ShapeUtilities.java-am-12-1
+
+ShapeUtilities.java-cm-12-7 ShapeUtilities.java-cm-12-7
+
+ShapeUtilities.java-cm-18-0 ShapeUtilities.java-cm-18-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+
+ShapeUtilities.java-ca-0-5 ShapeUtilities.java-ca-0-5
+
+ShapeUtilities.java-mem-13-0 ShapeUtilities.java-mem-13-0
+     [java] Generate 3 candidates for the type class [D: [d2, d1, null]
+     [java] Space: 3
+
+ShapeUtilities.java-ca-14-2 ShapeUtilities.java-ca-14-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+ShapeUtilities.java-ca-17-5 ShapeUtilities.java-ca-17-5
+     [java] Generate 3 candidates for the type interface java.awt.geom.PathIterator: [iterator2, iterator1, null]
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 24
+
+ShapeUtilities.java-ca-2-0 ShapeUtilities.java-ca-2-0
+     [java] Generate 2 candidates for the type float: [SQRT2, null]
+     [java] Space: 10
+

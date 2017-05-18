@@ -1,0 +1,654 @@
+StrBuilder.java-ca-0-1 StrBuilder.java-ca-0-1
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Generate 1 candidates for the type class org.apache.commons.lang.text.StrBuilder: [null]
+     [java] Space: 56
+
+StrBuilder.java-am-4-9 StrBuilder.java-am-4-9
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Generate 1 candidates for the type class org.apache.commons.lang.text.StrBuilder: [null]
+     [java] Space: 56
+
+StrBuilder.java-cm-1-3 StrBuilder.java-cm-1-3
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-ca-10-3 StrBuilder.java-ca-10-3
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-am-4-11 StrBuilder.java-am-4-11
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-ca-10-2 StrBuilder.java-ca-10-2
+
+StrBuilder.java-ca-1-1 StrBuilder.java-ca-1-1
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Generate 1 candidates for the type class org.apache.commons.lang.text.StrBuilder: [null]
+     [java] Space: 56
+
+StrBuilder.java-ca-4-0 StrBuilder.java-ca-4-0
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Generate 1 candidates for the type class org.apache.commons.lang.text.StrBuilder: [null]
+     [java] Space: 56
+
+StrBuilder.java-cm-4-11 StrBuilder.java-cm-4-11
+
+StrBuilder.java-am-4-7 StrBuilder.java-am-4-7
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-cm-4-13 StrBuilder.java-cm-4-13
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-om-11-0 StrBuilder.java-om-11-0
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-mem-4-0 StrBuilder.java-mem-4-0
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-cm-1-6 StrBuilder.java-cm-1-6
+
+StrBuilder.java-ca-2-0 StrBuilder.java-ca-2-0
+
+StrBuilder.java-cm-1-2 StrBuilder.java-cm-1-2
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-ca-3-3 StrBuilder.java-ca-3-3
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-ca-1-5 StrBuilder.java-ca-1-5
+
+StrBuilder.java-am-0-3 StrBuilder.java-am-0-3
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-am-3-0 StrBuilder.java-am-3-0
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-ca-3-6 StrBuilder.java-ca-3-6
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-cm-1-5 StrBuilder.java-cm-1-5
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-mem-1-1 StrBuilder.java-mem-1-1
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-am-1-0 StrBuilder.java-am-1-0
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-mem-11-1 StrBuilder.java-mem-11-1
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-ca-11-7 StrBuilder.java-ca-11-7
+
+StrBuilder.java-am-4-1 StrBuilder.java-am-4-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-5-0 StrBuilder.java-am-5-0
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-5-1 StrBuilder.java-mem-5-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-4-5 StrBuilder.java-am-4-5
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-4-12 StrBuilder.java-mem-4-12
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-11-0 StrBuilder.java-am-11-0
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-4-5 StrBuilder.java-cm-4-5
+
+StrBuilder.java-mem-4-13 StrBuilder.java-mem-4-13
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-om-4-1 StrBuilder.java-om-4-1
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-mem-11-0 StrBuilder.java-mem-11-0
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-am-1-8 StrBuilder.java-am-1-8
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-ca-1-6 StrBuilder.java-ca-1-6
+
+StrBuilder.java-cm-11-0 StrBuilder.java-cm-11-0
+
+StrBuilder.java-cm-4-14 StrBuilder.java-cm-4-14
+
+StrBuilder.java-mem-11-3 StrBuilder.java-mem-11-3
+
+StrBuilder.java-ca-10-1 StrBuilder.java-ca-10-1
+
+StrBuilder.java-ca-4-6 StrBuilder.java-ca-4-6
+
+StrBuilder.java-ca-3-7 StrBuilder.java-ca-3-7
+
+StrBuilder.java-cm-4-15 StrBuilder.java-cm-4-15
+
+StrBuilder.java-mem-1-4 StrBuilder.java-mem-1-4
+     [java] Generate 1 candidates for the type class [C: [null]
+     [java] Space: 1
+
+StrBuilder.java-mem-1-3 StrBuilder.java-mem-1-3
+     [java] Generate 1 candidates for the type class [C: [null]
+     [java] Space: 1
+
+StrBuilder.java-am-11-3 StrBuilder.java-am-11-3
+     [java] Generate 1 candidates for the type class [C: [null]
+     [java] Space: 1
+
+StrBuilder.java-ca-4-1 StrBuilder.java-ca-4-1
+     [java] Generate 1 candidates for the type class [C: [null]
+     [java] Space: 1
+
+StrBuilder.java-ca-10-4 StrBuilder.java-ca-10-4
+
+StrBuilder.java-mem-4-1 StrBuilder.java-mem-4-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-4-10 StrBuilder.java-am-4-10
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-0-1 StrBuilder.java-mem-0-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-1-9 StrBuilder.java-am-1-9
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-om-4-0 StrBuilder.java-om-4-0
+
+StrBuilder.java-am-4-6 StrBuilder.java-am-4-6
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-5-3 StrBuilder.java-ca-5-3
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-3-5 StrBuilder.java-ca-3-5
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-1-1 StrBuilder.java-cm-1-1
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 56
+
+StrBuilder.java-mem-1-0 StrBuilder.java-mem-1-0
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 56
+
+StrBuilder.java-am-1-11 StrBuilder.java-am-1-11
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-am-11-2 StrBuilder.java-am-11-2
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-ca-10-0 StrBuilder.java-ca-10-0
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-ca-4-4 StrBuilder.java-ca-4-4
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-ca-10-5 StrBuilder.java-ca-10-5
+
+StrBuilder.java-mem-1-2 StrBuilder.java-mem-1-2
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-cm-1-4 StrBuilder.java-cm-1-4
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-am-0-2 StrBuilder.java-am-0-2
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-cr-1-0 StrBuilder.java-cr-1-0
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-ca-11-2 StrBuilder.java-ca-11-2
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-mem-4-3 StrBuilder.java-mem-4-3
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-am-11-1 StrBuilder.java-am-11-1
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-am-1-6 StrBuilder.java-am-1-6
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-ca-0-4 StrBuilder.java-ca-0-4
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-om-4-2 StrBuilder.java-om-4-2
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-ca-0-6 StrBuilder.java-ca-0-6
+
+StrBuilder.java-am-4-0 StrBuilder.java-am-4-0
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-4-4 StrBuilder.java-am-4-4
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-4-6 StrBuilder.java-cm-4-6
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-om-1-1 StrBuilder.java-om-1-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-4-7 StrBuilder.java-ca-4-7
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-1-11 StrBuilder.java-mem-1-11
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-mem-0-3 StrBuilder.java-mem-0-3
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-am-4-13 StrBuilder.java-am-4-13
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-am-0-0 StrBuilder.java-am-0-0
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-ca-2-5 StrBuilder.java-ca-2-5
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-am-0-1 StrBuilder.java-am-0-1
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-am-1-10 StrBuilder.java-am-1-10
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-am-4-15 StrBuilder.java-am-4-15
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-cr-4-0 StrBuilder.java-cr-4-0
+
+StrBuilder.java-ca-2-7 StrBuilder.java-ca-2-7
+
+StrBuilder.java-cm-11-5 StrBuilder.java-cm-11-5
+
+StrBuilder.java-ca-1-7 StrBuilder.java-ca-1-7
+
+StrBuilder.java-cm-11-2 StrBuilder.java-cm-11-2
+
+StrBuilder.java-ca-11-6 StrBuilder.java-ca-11-6
+
+StrBuilder.java-mem-4-4 StrBuilder.java-mem-4-4
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-ca-0-5 StrBuilder.java-ca-0-5
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-cm-4-0 StrBuilder.java-cm-4-0
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-mem-1-8 StrBuilder.java-mem-1-8
+     [java] Generate 2 candidates for the type class java.lang.String: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-ca-4-5 StrBuilder.java-ca-4-5
+
+StrBuilder.java-mem-4-6 StrBuilder.java-mem-4-6
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-3-1 StrBuilder.java-ca-3-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-0-0 StrBuilder.java-mem-0-0
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-11-5 StrBuilder.java-ca-11-5
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-4-7 StrBuilder.java-mem-4-7
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-4-5 StrBuilder.java-mem-4-5
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-1-1 StrBuilder.java-am-1-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-1-4 StrBuilder.java-am-1-4
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-3-4 StrBuilder.java-ca-3-4
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-4-9 StrBuilder.java-cm-4-9
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-4-4 StrBuilder.java-cm-4-4
+
+StrBuilder.java-cm-11-6 StrBuilder.java-cm-11-6
+
+StrBuilder.java-ca-0-2 StrBuilder.java-ca-0-2
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-mem-1-10 StrBuilder.java-mem-1-10
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-mem-4-9 StrBuilder.java-mem-4-9
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-ca-5-7 StrBuilder.java-ca-5-7
+
+StrBuilder.java-ca-2-6 StrBuilder.java-ca-2-6
+
+StrBuilder.java-ca-1-2 StrBuilder.java-ca-1-2
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-mem-4-16 StrBuilder.java-mem-4-16
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-ca-2-3 StrBuilder.java-ca-2-3
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-cr-11-0 StrBuilder.java-cr-11-0
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 20
+
+StrBuilder.java-ca-0-7 StrBuilder.java-ca-0-7
+
+StrBuilder.java-mem-1-7 StrBuilder.java-mem-1-7
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-ca-1-3 StrBuilder.java-ca-1-3
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-ca-3-2 StrBuilder.java-ca-3-2
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-am-4-14 StrBuilder.java-am-4-14
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-am-2-0 StrBuilder.java-am-2-0
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-am-1-7 StrBuilder.java-am-1-7
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-mem-3-0 StrBuilder.java-mem-3-0
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-cr-4-1 StrBuilder.java-cr-4-1
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-ca-2-4 StrBuilder.java-ca-2-4
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-mem-2-0 StrBuilder.java-mem-2-0
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 3
+
+StrBuilder.java-cm-11-4 StrBuilder.java-cm-11-4
+
+StrBuilder.java-ca-1-0 StrBuilder.java-ca-1-0
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 56
+
+StrBuilder.java-am-4-2 StrBuilder.java-am-4-2
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 56
+
+StrBuilder.java-cm-4-7 StrBuilder.java-cm-4-7
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 56
+
+StrBuilder.java-ca-11-3 StrBuilder.java-ca-11-3
+     [java] Generate 3 candidates for the type int: [strLen, width, 0]
+     [java] Space: 56
+
+StrBuilder.java-mem-5-0 StrBuilder.java-mem-5-0
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-mem-4-14 StrBuilder.java-mem-4-14
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-mem-4-8 StrBuilder.java-mem-4-8
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-mem-1-5 StrBuilder.java-mem-1-5
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-ca-11-4 StrBuilder.java-ca-11-4
+
+StrBuilder.java-am-4-8 StrBuilder.java-am-4-8
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-1-0 StrBuilder.java-cm-1-0
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-2-1 StrBuilder.java-ca-2-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-4-2 StrBuilder.java-mem-4-2
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-om-1-0 StrBuilder.java-om-1-0
+
+StrBuilder.java-ca-10-6 StrBuilder.java-ca-10-6
+
+StrBuilder.java-am-4-16 StrBuilder.java-am-4-16
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-3-0 StrBuilder.java-ca-3-0
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-4-3 StrBuilder.java-ca-4-3
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-5-1 StrBuilder.java-ca-5-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-4-12 StrBuilder.java-am-4-12
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-4-12 StrBuilder.java-cm-4-12
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-1-7 StrBuilder.java-cm-1-7
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-am-1-3 StrBuilder.java-am-1-3
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-4-2 StrBuilder.java-cm-4-2
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-11-1 StrBuilder.java-ca-11-1
+
+StrBuilder.java-ca-2-2 StrBuilder.java-ca-2-2
+
+StrBuilder.java-mem-4-15 StrBuilder.java-mem-4-15
+     [java] Generate 1 candidates for the type class [C: [null]
+     [java] Space: 1
+
+StrBuilder.java-ca-10-7 StrBuilder.java-ca-10-7
+     [java] Generate 1 candidates for the type class [C: [null]
+     [java] Space: 1
+
+StrBuilder.java-cm-11-7 StrBuilder.java-cm-11-7
+     [java] Generate 1 candidates for the type class [C: [null]
+     [java] Space: 1
+
+StrBuilder.java-ca-4-2 StrBuilder.java-ca-4-2
+     [java] Generate 1 candidates for the type class [C: [null]
+     [java] Space: 1
+
+StrBuilder.java-am-5-1 StrBuilder.java-am-5-1
+     [java] Generate 1 candidates for the type class [C: [null]
+     [java] Space: 1
+
+StrBuilder.java-ca-5-5 StrBuilder.java-ca-5-5
+
+StrBuilder.java-cm-4-8 StrBuilder.java-cm-4-8
+
+StrBuilder.java-am-1-2 StrBuilder.java-am-1-2
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-ca-5-6 StrBuilder.java-ca-5-6
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-ca-5-2 StrBuilder.java-ca-5-2
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-ca-0-3 StrBuilder.java-ca-0-3
+     [java] Generate 3 candidates for the type class java.lang.String: [str, obj, null]
+     [java] Space: 3
+
+StrBuilder.java-cm-4-1 StrBuilder.java-cm-4-1
+
+StrBuilder.java-am-4-3 StrBuilder.java-am-4-3
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-ca-5-4 StrBuilder.java-ca-5-4
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-am-1-5 StrBuilder.java-am-1-5
+     [java] Generate 2 candidates for the type class java.lang.Object: [obj, null]
+     [java] Space: 2
+
+StrBuilder.java-cm-11-3 StrBuilder.java-cm-11-3
+
+StrBuilder.java-mem-4-10 StrBuilder.java-mem-4-10
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-0-2 StrBuilder.java-mem-0-2
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-0-0 StrBuilder.java-ca-0-0
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-4-10 StrBuilder.java-cm-4-10
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-4-11 StrBuilder.java-mem-4-11
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-cm-11-1 StrBuilder.java-cm-11-1
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-ca-1-4 StrBuilder.java-ca-1-4
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+
+StrBuilder.java-mem-1-6 StrBuilder.java-mem-1-6
+     [java] Generate 2 candidates for the type int: [width, 0]
+     [java] Space: 2
+

@@ -1,15 +1,55 @@
-GrayPaintScale.java-ca-2-0 5.23353719711
-GrayPaintScale.java-ca-0-2 3.69297504425
-GrayPaintScale.java-am-3-0 3.34797811508
-GrayPaintScale.java-ca-3-0 1.10651707649
-GrayPaintScale.java-ca-0-3 4.74588513374
-GrayPaintScale.java-mem-2-0 4.4072201252
-GrayPaintScale.java-ca-1-1 4.60929393768
-GrayPaintScale.java-ca-1-0 0.987720012665
-GrayPaintScale.java-am-2-0 4.41815686226
-GrayPaintScale.java-ca-0-1 4.81984996796
-GrayPaintScale.java-mem-3-0 4.8245549202
-GrayPaintScale.java-ca-3-1 4.82370400429
-GrayPaintScale.java-ca-0-0 3.60573196411
-GrayPaintScale.java-om-1-0 2.21229290962
-GrayPaintScale.java-ca-2-1 3.49135708809
+GrayPaintScale.java-ca-2-1 GrayPaintScale.java-ca-2-1
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Generate 1 candidates for the type interface java.awt.Paint: [null]
+     [java] Space: 8
+
+GrayPaintScale.java-ca-0-0 GrayPaintScale.java-ca-0-0
+
+GrayPaintScale.java-mem-2-0 GrayPaintScale.java-mem-2-0
+     [java] Generate 5 candidates for the type double: [v, value, upperBound, lowerBound, 0]
+     [java] Space: 5
+
+GrayPaintScale.java-mem-3-0 GrayPaintScale.java-mem-3-0
+     [java] Generate 4 candidates for the type double: [value, upperBound, lowerBound, 0]
+     [java] Space: 4
+
+GrayPaintScale.java-ca-0-1 GrayPaintScale.java-ca-0-1
+     [java] Generate 2 candidates for the type int: [g, 0]
+     [java] Generate 1 candidates for the type interface java.awt.Paint: [null]
+     [java] Space: 26
+
+GrayPaintScale.java-ca-0-2 GrayPaintScale.java-ca-0-2
+
+GrayPaintScale.java-ca-3-1 GrayPaintScale.java-ca-3-1
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Generate 1 candidates for the type interface java.awt.Paint: [null]
+     [java] Space: 8
+
+GrayPaintScale.java-ca-3-0 GrayPaintScale.java-ca-3-0
+
+GrayPaintScale.java-ca-0-3 GrayPaintScale.java-ca-0-3
+     [java] Generate 5 candidates for the type double: [v, value, upperBound, lowerBound, 0]
+     [java] Generate 1 candidates for the type interface java.awt.Paint: [null]
+     [java] Space: 152
+
+GrayPaintScale.java-am-3-0 GrayPaintScale.java-am-3-0
+     [java] Generate 4 candidates for the type double: [value, upperBound, lowerBound, 0]
+     [java] Space: 4
+
+GrayPaintScale.java-ca-1-1 GrayPaintScale.java-ca-1-1
+     [java] Generate 5 candidates for the type double: [v, value, upperBound, lowerBound, 0]
+     [java] Generate 1 candidates for the type interface java.awt.Paint: [null]
+     [java] Space: 152
+
+GrayPaintScale.java-am-2-0 GrayPaintScale.java-am-2-0
+     [java] Generate 5 candidates for the type double: [v, value, upperBound, lowerBound, 0]
+     [java] Space: 5
+
+GrayPaintScale.java-ca-1-0 GrayPaintScale.java-ca-1-0
+
+GrayPaintScale.java-ca-2-0 GrayPaintScale.java-ca-2-0
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Space: 8
+
+GrayPaintScale.java-om-1-0 GrayPaintScale.java-om-1-0
+

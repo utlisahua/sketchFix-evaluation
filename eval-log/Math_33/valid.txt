@@ -1,16 +1,89 @@
-SimplexTableau.java-ca-5-0 1.47363805771
-SimplexTableau.java-cm-36-17 1.07541680336
-SimplexTableau.java-cm-23-11 1.26774001122
-SimplexTableau.java-am-34-1 0.847541093826
-SimplexTableau.java-ca-22-17 0.92401599884
-SimplexTableau.java-ca-5-2 1.50136399269
-SimplexTableau.java-mem-34-0 1.0478219986
-SimplexSolver.java-cm-49-3 2.50162386894
-SimplexTableau.java-om-23-0 2.13299512863
-SimplexTableau.java-ca-36-20 2.55936598778
-SimplexTableau.java-ca-5-10 1.32497096062
-SimplexTableau.java-mem-39-2 0.937559843063
-SimplexTableau.java-ca-23-4 3.92635512352
-SimplexTableau.java-ca-23-0 1.81766414642
-SimplexTableau.java-mem-21-0 1.22282195091
-SimplexSolver.java-ca-49-2 2.87562608719
+SimplexTableau.java-ca-23-4 4.24824213982
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java]  Hole 0	numSlackVariables<numArtificialVariables
+     [java] Space: 94
+
+SimplexTableau.java-cm-23-5 4.27413010597
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java]  Hole 0	numSlackVariables<numArtificialVariables
+     [java] Space: 94
+
+SimplexSolver.java-ca-49-2 3.0393679142
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	rhs != minRatio
+     [java] Space: 104
+
+SimplexTableau.java-ov-23-1 1.77691698074
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java]  Hole 0	epsilon
+     [java] Space: 2
+
+SimplexTableau.java-ca-8-10 1.19263195992
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java]  Hole 0	epsilon
+     [java] Space: 2
+
+SimplexSolver.java-mem-49-5 1.2226099968
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java]  Hole 0	epsilon
+     [java] Space: 2
+
+SimplexTableau.java-cm-23-11 1.86889410019
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java]  Hole 0	restrictToNonNegative != false
+     [java]  Hole 1	tableau
+     [java] Space: 4
+
+SimplexTableau.java-ca-5-16 1.3649969101
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java]  Hole 0	restrictToNonNegative != false
+     [java]  Hole 1	tableau
+     [java] Space: 4
+
+SimplexTableau.java-ca-5-0 2.8408908844
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java]  Hole 0	entry>epsilon
+     [java] Space: 9
+
+SimplexTableau.java-ca-41-17 1.95828413963
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java]  Hole 0	entry>epsilon
+     [java] Space: 9
+
+SimplexSolver.java-cm-49-3 4.00185489655
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	rhs != minRatio
+     [java] Space: 104
+
+SimplexTableau.java-ca-23-0 2.27575182915
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java]  Hole 0	entry>epsilon
+     [java] Space: 9
+
+SimplexTableau.java-ca-14-8 1.65047216415
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java]  Hole 0	entry>epsilon
+     [java] Space: 9
+
+SimplexTableau.java-ca-5-2 2.27845287323
+     [java] Generate 7 candidates for the type int: [i, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java]  Hole 0	i>numDecisionVariables
+     [java] Space: 9
+
+SimplexTableau.java-cm-39-3 1.69907093048
+     [java] Generate 7 candidates for the type int: [i, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java]  Hole 0	i>numDecisionVariables
+     [java] Space: 9
+
+SimplexTableau.java-ca-23-10 2.38925004005
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java]  Hole 0	restrictToNonNegative != false
+     [java] Space: 4
+
+SimplexTableau.java-cm-24-6 1.45967197418
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java]  Hole 0	restrictToNonNegative != false
+     [java] Space: 4
+

@@ -1,0 +1,290 @@
+StopWatch.java-ca-5-2 671.461291075
+     [java] Generate 9 candidates for the type int: [splitState, STATE_UNSTARTED, STATE_STOPPED, STATE_SUSPENDED, STATE_UNSPLIT, runningState, STATE_RUNNING, STATE_SPLIT, 0]
+     [java]  Hole 0	splitState == splitState
+     [java]  Hole 0	splitState != splitState
+     [java]  Hole 0	splitState>splitState
+     [java]  Hole 0	splitState<splitState
+     [java]  Hole 0	splitState<=splitState
+     [java]  Hole 0	splitState>=splitState
+     [java]  Hole 0	splitState == STATE_UNSTARTED
+     [java]  Hole 0	splitState != STATE_UNSTARTED
+     [java]  Hole 0	splitState>STATE_UNSTARTED
+     [java]  Hole 0	splitState<STATE_UNSTARTED
+     [java]  Hole 0	splitState<=STATE_UNSTARTED
+     [java]  Hole 0	splitState>=STATE_UNSTARTED
+     [java]  Hole 0	splitState == STATE_STOPPED
+     [java]  Hole 0	splitState != STATE_STOPPED
+     [java]  Hole 0	splitState>STATE_STOPPED
+     [java]  Hole 0	splitState<STATE_STOPPED
+     [java]  Hole 0	splitState<=STATE_STOPPED
+     [java]  Hole 0	splitState>=STATE_STOPPED
+     [java]  Hole 0	splitState == STATE_SUSPENDED
+     [java]  Hole 0	splitState != STATE_SUSPENDED
+     [java]  Hole 0	splitState>STATE_SUSPENDED
+     [java]  Hole 0	splitState<STATE_SUSPENDED
+     [java]  Hole 0	splitState<=STATE_SUSPENDED
+     [java]  Hole 0	splitState>=STATE_SUSPENDED
+     [java]  Hole 0	splitState == STATE_UNSPLIT
+     [java]  Hole 0	splitState != STATE_UNSPLIT
+     [java]  Hole 0	splitState>STATE_UNSPLIT
+     [java]  Hole 0	splitState<STATE_UNSPLIT
+     [java]  Hole 0	splitState<=STATE_UNSPLIT
+     [java]  Hole 0	splitState>=STATE_UNSPLIT
+     [java]  Hole 0	splitState == runningState
+     [java]  Hole 0	splitState != runningState
+     [java]  Hole 0	splitState>runningState
+     [java]  Hole 0	splitState<runningState
+     [java]  Hole 0	splitState<=runningState
+     [java]  Hole 0	splitState>=runningState
+     [java]  Hole 0	splitState == STATE_RUNNING
+     [java]  Hole 0	splitState != STATE_RUNNING
+     [java]  Hole 0	splitState>STATE_RUNNING
+     [java]  Hole 0	splitState<STATE_RUNNING
+     [java]  Hole 0	splitState<=STATE_RUNNING
+     [java]  Hole 0	splitState>=STATE_RUNNING
+     [java]  Hole 0	splitState == STATE_SPLIT
+     [java]  Hole 0	splitState != STATE_SPLIT
+     [java]  Hole 0	splitState>STATE_SPLIT
+     [java]  Hole 0	splitState<STATE_SPLIT
+     [java]  Hole 0	splitState<=STATE_SPLIT
+     [java]  Hole 0	splitState>=STATE_SPLIT
+     [java]  Hole 0	splitState == 0
+     [java]  Hole 0	splitState != 0
+     [java]  Hole 0	splitState>0
+     [java]  Hole 0	splitState<0
+     [java]  Hole 0	splitState<=0
+     [java]  Hole 0	splitState>=0
+     [java]  Hole 0	STATE_UNSTARTED == splitState
+     [java]  Hole 0	STATE_UNSTARTED != splitState
+     [java]  Hole 0	STATE_UNSTARTED>splitState
+     [java]  Hole 0	STATE_UNSTARTED<splitState
+     [java]  Hole 0	STATE_UNSTARTED<=splitState
+     [java]  Hole 0	STATE_UNSTARTED>=splitState
+     [java]  Hole 0	STATE_UNSTARTED == STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED != STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED>STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED<STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED == runningState
+     [java]  Hole 0	STATE_UNSTARTED != runningState
+     [java]  Hole 0	STATE_UNSTARTED>runningState
+     [java]  Hole 0	STATE_UNSTARTED<runningState
+     [java]  Hole 0	STATE_UNSTARTED<=runningState
+     [java]  Hole 0	STATE_UNSTARTED>=runningState
+     [java]  Hole 0	STATE_UNSTARTED == STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED != STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED>STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED<STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_RUNNING
+     [java]  Hole 0	STATE_UNSTARTED == STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED != STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED>STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED<STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_SPLIT
+     [java]  Hole 0	STATE_UNSTARTED == 0
+     [java]  Hole 0	STATE_UNSTARTED != 0
+     [java]  Hole 0	STATE_UNSTARTED>0
+     [java]  Hole 0	STATE_UNSTARTED<0
+     [java]  Hole 0	STATE_UNSTARTED<=0
+     [java]  Hole 0	STATE_UNSTARTED>=0
+     [java]  Hole 0	STATE_STOPPED == splitState
+     [java]  Hole 0	STATE_STOPPED != splitState
+     [java]  Hole 0	STATE_STOPPED>splitState
+     [java]  Hole 0	STATE_STOPPED<splitState
+     [java]  Hole 0	STATE_STOPPED<=splitState
+     [java]  Hole 0	STATE_STOPPED>=splitState
+     [java]  Hole 0	STATE_STOPPED == STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED != STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED>STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED<STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_STOPPED == STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED != STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED>STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED<STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED<=STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED>=STATE_STOPPED
+     [java]  Hole 0	STATE_STOPPED == STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED != STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED>STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED<STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_STOPPED == STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED != STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED>STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED<STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_STOPPED == runningState
+     [java]  Hole 0	STATE_STOPPED != runningState
+     [java]  Hole 0	STATE_STOPPED>runningState
+     [java]  Hole 0	STATE_STOPPED>runningState
+     [java] Space: 141
+
+StopWatch.java-ca-20-3 409.978597879
+     [java] Generate 9 candidates for the type int: [splitState, STATE_UNSTARTED, STATE_STOPPED, STATE_SUSPENDED, STATE_UNSPLIT, runningState, STATE_RUNNING, STATE_SPLIT, 0]
+     [java]  Hole 0	splitState == splitState
+     [java]  Hole 0	splitState != splitState
+     [java]  Hole 0	splitState>splitState
+     [java]  Hole 0	splitState<splitState
+     [java]  Hole 0	splitState<=splitState
+     [java]  Hole 0	splitState>=splitState
+     [java]  Hole 0	splitState == STATE_UNSTARTED
+     [java]  Hole 0	splitState != STATE_UNSTARTED
+     [java]  Hole 0	splitState>STATE_UNSTARTED
+     [java]  Hole 0	splitState<STATE_UNSTARTED
+     [java]  Hole 0	splitState<=STATE_UNSTARTED
+     [java]  Hole 0	splitState>=STATE_UNSTARTED
+     [java]  Hole 0	splitState == STATE_STOPPED
+     [java]  Hole 0	splitState != STATE_STOPPED
+     [java]  Hole 0	splitState>STATE_STOPPED
+     [java]  Hole 0	splitState<STATE_STOPPED
+     [java]  Hole 0	splitState<=STATE_STOPPED
+     [java]  Hole 0	splitState>=STATE_STOPPED
+     [java]  Hole 0	splitState == STATE_SUSPENDED
+     [java]  Hole 0	splitState != STATE_SUSPENDED
+     [java]  Hole 0	splitState>STATE_SUSPENDED
+     [java]  Hole 0	splitState<STATE_SUSPENDED
+     [java]  Hole 0	splitState<=STATE_SUSPENDED
+     [java]  Hole 0	splitState>=STATE_SUSPENDED
+     [java]  Hole 0	splitState == STATE_UNSPLIT
+     [java]  Hole 0	splitState != STATE_UNSPLIT
+     [java]  Hole 0	splitState>STATE_UNSPLIT
+     [java]  Hole 0	splitState<STATE_UNSPLIT
+     [java]  Hole 0	splitState<=STATE_UNSPLIT
+     [java]  Hole 0	splitState>=STATE_UNSPLIT
+     [java]  Hole 0	splitState == runningState
+     [java]  Hole 0	splitState != runningState
+     [java]  Hole 0	splitState>runningState
+     [java]  Hole 0	splitState<runningState
+     [java]  Hole 0	splitState<=runningState
+     [java]  Hole 0	splitState>=runningState
+     [java]  Hole 0	splitState == STATE_RUNNING
+     [java]  Hole 0	splitState != STATE_RUNNING
+     [java]  Hole 0	splitState>STATE_RUNNING
+     [java]  Hole 0	splitState<STATE_RUNNING
+     [java]  Hole 0	splitState<=STATE_RUNNING
+     [java]  Hole 0	splitState>=STATE_RUNNING
+     [java]  Hole 0	splitState == STATE_SPLIT
+     [java]  Hole 0	splitState != STATE_SPLIT
+     [java]  Hole 0	splitState>STATE_SPLIT
+     [java]  Hole 0	splitState<STATE_SPLIT
+     [java]  Hole 0	splitState<=STATE_SPLIT
+     [java]  Hole 0	splitState>=STATE_SPLIT
+     [java]  Hole 0	splitState == 0
+     [java]  Hole 0	splitState != 0
+     [java]  Hole 0	splitState>0
+     [java]  Hole 0	splitState<0
+     [java]  Hole 0	splitState<=0
+     [java]  Hole 0	splitState>=0
+     [java]  Hole 0	STATE_UNSTARTED == splitState
+     [java]  Hole 0	STATE_UNSTARTED != splitState
+     [java]  Hole 0	STATE_UNSTARTED>splitState
+     [java]  Hole 0	STATE_UNSTARTED<splitState
+     [java]  Hole 0	STATE_UNSTARTED<=splitState
+     [java]  Hole 0	STATE_UNSTARTED>=splitState
+     [java]  Hole 0	STATE_UNSTARTED == STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_UNSTARTED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_STOPPED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED != STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED>STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED<STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_SUSPENDED
+     [java]  Hole 0	STATE_UNSTARTED == STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED != STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED>STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED<STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED<=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED>=STATE_UNSPLIT
+     [java]  Hole 0	STATE_UNSTARTED == runningState
+     [java]  Hole 0	STATE_UNSTARTED != runningState
+     [java]  Hole 0	STATE_UNSTARTED != runningState
+     [java] Space: 86
+
+StopWatch.java-ca-20-1 38.8304708004
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java] Space: 8
+
+StopWatch.java-ca-5-1 38.8333389759
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java] Space: 8
+
+StopWatch.java-ca-5-3 38.8331058025
+     [java] Generate 9 candidates for the type int: [splitState, STATE_UNSTARTED, STATE_STOPPED, STATE_SUSPENDED, STATE_UNSPLIT, runningState, STATE_RUNNING, STATE_SPLIT, 0]
+     [java]  Hole 0	splitState == splitState
+     [java]  Hole 0	splitState != splitState
+     [java]  Hole 0	splitState>splitState
+     [java]  Hole 0	splitState<splitState
+     [java]  Hole 0	splitState<=splitState
+     [java]  Hole 0	splitState>=splitState
+     [java]  Hole 0	splitState == STATE_UNSTARTED
+     [java]  Hole 0	splitState != STATE_UNSTARTED
+     [java]  Hole 0	splitState != STATE_UNSTARTED
+     [java] Space: 8
+
+StopWatch.java-ca-5-0 43.59354496
+     [java] Generate 3 candidates for the type long: [startTime, stopTime, null]
+     [java]  Hole 0	startTime == startTime
+     [java]  Hole 0	startTime != startTime
+     [java]  Hole 0	startTime>startTime
+     [java]  Hole 0	startTime<startTime
+     [java]  Hole 0	startTime<=startTime
+     [java]  Hole 0	startTime>=startTime
+     [java]  Hole 0	startTime == stopTime
+     [java]  Hole 0	startTime != stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java]  Hole 0	startTime>stopTime
+     [java] Space: 9
+
