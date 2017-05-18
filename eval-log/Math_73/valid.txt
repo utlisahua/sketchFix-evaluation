@@ -1,0 +1,7 @@
+UnivariateRealSolverImpl.java-cm-15-2 1.09801983833
+BrentSolver.java-ca-28-4 0.69081902504
+BrentSolver.java-ca-3-1 0.627499103546
+UnivariateRealSolverImpl.java-cm-20-3 0.995151996613
+BrentSolver.java-ca-29-1 0.656183958054
+BrentSolver.java-ca-32-5 0.676659107208
+UnivariateRealSolverImpl.java-ca-20-3 1.04675912857

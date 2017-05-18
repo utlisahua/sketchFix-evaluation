@@ -1,0 +1,16 @@
+SimplexTableau.java-ca-5-0 1.47363805771
+SimplexTableau.java-cm-36-17 1.07541680336
+SimplexTableau.java-cm-23-11 1.26774001122
+SimplexTableau.java-am-34-1 0.847541093826
+SimplexTableau.java-ca-22-17 0.92401599884
+SimplexTableau.java-ca-5-2 1.50136399269
+SimplexTableau.java-mem-34-0 1.0478219986
+SimplexSolver.java-cm-49-3 2.50162386894
+SimplexTableau.java-om-23-0 2.13299512863
+SimplexTableau.java-ca-36-20 2.55936598778
+SimplexTableau.java-ca-5-10 1.32497096062
+SimplexTableau.java-mem-39-2 0.937559843063
+SimplexTableau.java-ca-23-4 3.92635512352
+SimplexTableau.java-ca-23-0 1.81766414642
+SimplexTableau.java-mem-21-0 1.22282195091
+SimplexSolver.java-ca-49-2 2.87562608719

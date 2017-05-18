@@ -1,0 +1,2 @@
+FastMath.java-mem-0-2 9.00687384605
+FastMath.java-am-0-2 11.3818769455
